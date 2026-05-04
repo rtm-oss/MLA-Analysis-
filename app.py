@@ -198,7 +198,7 @@ st.divider()
 with st.expander("📂 View Master Status Matrix (All Data)"):
     st.dataframe(
         final_details,
-        column_config={"Success Ratio (%)": st.column_config.ProgressColumn(min_value=0, max_value=1)},
+        column_config={"Success Ratio (%)": st.column_config.ProgressColumn(min_value=0, max_value=100)},
         use_container_width=True,
         hide_index=True
     )
