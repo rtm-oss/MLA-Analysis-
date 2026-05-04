@@ -99,7 +99,6 @@ st.divider()
 
 # --- Section 1: Overview & Rankings ---
 col_table, col_chart = st.columns([1.2, 1], gap="large")
-
 with col_table:
     st.subheader("🏆 Performance Rankings")
     st.dataframe(
@@ -195,11 +194,11 @@ if selected_opener:
 
 # --- Section 3: Full Data Access ---
 
-st.divider()
-with st.expander("📂 View Master Status Matrix (All Data)"):
-    st.dataframe(
-        final_details,
-        column_config=progress_config,
-        use_container_width=True,
-        hide_index=True
-    )
+    st.divider()
+    with st.expander("📂 View Master Status Matrix (All Data)"):
+        st.dataframe(
+            final_details,
+            column_config=progress_config,
+            use_container_width=True,
+            hide_index=True
+        )
