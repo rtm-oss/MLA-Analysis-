@@ -146,7 +146,6 @@ if selected_opener:
     c1.metric("Individual Leads", int(row['total_leads']))
     c2.metric("Approved Cases", int(row['total_approved']))
     c3.metric("Success Rate", f"{row['Success Ratio (%)']}%")
-    c4.metric("Status", "Target Met" if row['Success Ratio (%)'] > global_ratio else "Below Avg")
 
     # Distribution Layout
     l_col, r_col = st.columns([1, 1.2], gap="large")
