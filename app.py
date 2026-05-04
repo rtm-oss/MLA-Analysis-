@@ -45,7 +45,7 @@ def load_and_process_data():
         total_approved=('Closing Status', lambda x: x.isin(approved_cats).sum())
     ).reset_index()
     
-    perf['Success Ratio (%)'] = (perf['total_approved'] / perf['total_leads']*100).round(2)
+    perf['Success Ratio (%)'] = (perf['total_approved'] / perf['total_leads'])
     perf = perf.sort_values(by='total_leads', ascending=False)
     
     # التفاصيل الكاملة لكل الحالات
@@ -193,21 +193,21 @@ if selected_opener:
         st.error(f"**NEGATIVE**  \n**{int(neg)}** Leads")
 
 # --- Section 3: Full Data Access ---
-
-# --- Section 3: Full Data Access ---
-
 st.divider()
-
 with st.expander("📂 View Master Status Matrix (All Data)"):
-
+    # نستخدم نفس الإعدادات التي ضبطناها بالأعلى
     st.dataframe(
-
         final_details,
-
-        column_config={"Success Ratio (%)": st.column_config.ProgressColumn(min_value=0, max_value=100)},
-
+        column_config={
+            "Success Ratio (%)": st.column_config.ProgressColumn(
+                "Success Ratio",
+                format="%.2f%%", 
+                min_value=0, 
+                max_value=1
+            ),
+            "total_leads": "Volume",
+            "total_approved": "Wins"
+        },
         use_container_width=True,
-
         hide_index=True
-
     )
