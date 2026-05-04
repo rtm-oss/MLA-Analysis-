@@ -105,7 +105,7 @@ with col_table:
     st.dataframe(
         opener_perf, 
         column_config={
-            "Success Ratio (%)": st.column_config.ProgressColumn(format="%.2f%%", min_value=0, max_value=1),
+            "Success Ratio (%)": st.column_config.ProgressColumn(format="%.2f%%", min_value=0, max_value=100),
             "total_leads": "Volume",
             "total_approved": "Wins"
         },
