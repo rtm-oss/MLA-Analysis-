@@ -57,13 +57,45 @@ def load_and_process_data():
 df, opener_perf, final_details, app_cats, neu_cats, neg_cats = load_and_process_data()
 
 # --- Header Section ---
+# --- Header Section ---
 t1, t2 = st.columns([3, 1])
 with t1:
     st.title("📊 Opener Analysis Dashboard")
     st.caption("Strategic performance metrics and status distribution for MLA Campaign")
 with t2:
-    st.write("") # موازنة المسافة
+    st.write("") 
     st.info(f"📅 Last Sync: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')}")
+
+# --- Global Metrics Row 1: Key Performance Indicators ---
+m1, m2, m3, m4 = st.columns(4)
+total_leads = opener_perf['total_leads'].sum()
+total_app = opener_perf['total_approved'].sum()
+global_ratio = (total_app / total_leads * 100)
+
+m1.metric("Campaign Leads", f"{total_leads:,}")
+m2.metric("Total Approvals", f"{total_app:,}")
+m3.metric("Global Success Rate", f"{global_ratio:.2f}%")
+m4.metric("Active Agents", len(opener_perf))
+
+# --- Global Metrics Row 2: Detailed Status Breakdown ---
+st.markdown("#### 📑 Global Status Distribution")
+d1, d2, d3, d4, d5 = st.columns(5)
+
+# حساب القيم الإجمالية مباشرة من الداتا فريم الأساسي
+# تأكد أن المسميات تطابق تماماً الموجودة في ملف CSV
+follow_up_total = df[df['Closing Status'] == 'Follow up'].shape[0]
+not_interested_total = df[df['Closing Status'] == 'Not interested'].shape[0]
+not_eligible_total = df[df['Closing Status'] == 'Not Eligible'].shape[0]
+retransfer_total = df[df['Closing Status'] == 'Retreansfer to client'].shape[0]
+cancelled_total = df[df['Closing Status'] == 'Cancelled'].shape[0]
+
+d1.metric("Follow Up", follow_up_total)
+d2.metric("Not Interested", not_interested_total)
+d3.metric("Not Eligible", not_eligible_total)
+d4.metric("Retransfer", retransfer_total)
+d5.metric("Cancelled", cancelled_total)
+
+st.divider()
 
 # Global Metrics Row
 m1, m2, m3, m4 = st.columns(4)
