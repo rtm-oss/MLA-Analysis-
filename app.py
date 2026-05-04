@@ -57,14 +57,6 @@ def load_and_process_data():
 df, opener_perf, final_details, app_cats, neu_cats, neg_cats = load_and_process_data()
 
 # --- Header Section ---
-# --- Header Section ---
-t1, t2 = st.columns([3, 1])
-with t1:
-    st.title("📊 Opener Analysis Dashboard")
-    st.caption("Strategic performance metrics and status distribution for MLA Campaign")
-with t2:
-    st.write("") 
-    st.info(f"📅 Last Sync: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')}")
 
 # --- Global Metrics Row 1: Key Performance Indicators ---
 m1, m2, m3, m4 = st.columns(4)
