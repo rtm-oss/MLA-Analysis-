@@ -45,7 +45,7 @@ def load_and_process_data():
         total_approved=('Closing Status', lambda x: x.isin(approved_cats).sum())
     ).reset_index()
     
-    perf['Success Ratio (%)'] = (perf['total_approved'] / perf['total_leads'] * 100).round(2)
+    perf['Success Ratio (%)'] = (perf['total_approved'] / perf['total_leads'])
     perf = perf.sort_values(by='total_leads', ascending=False)
     
     # التفاصيل الكاملة لكل الحالات
@@ -105,7 +105,7 @@ with col_table:
     st.dataframe(
         opener_perf, 
         column_config={
-            "Success Ratio (%)": st.column_config.ProgressColumn(format="%.2f%%", min_value=0, max_value=100),
+            "Success Ratio (%)": st.column_config.ProgressColumn(format="%.2f%%", min_value=0, max_value=1),
             "total_leads": "Volume",
             "total_approved": "Wins"
         },
@@ -145,7 +145,7 @@ if selected_opener:
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Individual Leads", int(row['total_leads']))
     c2.metric("Approved Cases", int(row['total_approved']))
-    c3.metric("Success Rate", f"{row['Success Ratio (%)']}%")
+    c3.metric("Success Rate", f"{(row['Success Ratio (%)'] * 100):.2f}%")
 
     # Distribution Layout
     l_col, r_col = st.columns([1, 1.2], gap="large")
