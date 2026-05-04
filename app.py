@@ -203,7 +203,7 @@ with st.expander("📂 View Master Status Matrix (All Data)"):
                 "Success Ratio",
                 format="%.2f%%", 
                 min_value=0, 
-                max_value=1
+                max_value=100
             ),
             "total_leads": "Volume",
             "total_approved": "Wins"
