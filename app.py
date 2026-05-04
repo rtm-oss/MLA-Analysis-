@@ -45,7 +45,7 @@ def load_and_process_data():
         total_approved=('Closing Status', lambda x: x.isin(approved_cats).sum())
     ).reset_index()
     
-    perf['Success Ratio (%)'] = (perf['total_approved'] / perf['total_leads'])
+    perf['Success Ratio (%)'] = (perf['total_approved'] / perf['total_leads']*100).round(2)
     perf = perf.sort_values(by='total_leads', ascending=False)
     
     # التفاصيل الكاملة لكل الحالات
