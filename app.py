@@ -57,6 +57,13 @@ def load_and_process_data():
 df, opener_perf, final_details, app_cats, neu_cats, neg_cats = load_and_process_data()
 
 # --- Header Section ---
+t1, t2 = st.columns([3, 1])
+with t1:
+    st.title("📊 Opener Analysis Dashboard")
+    st.caption("Strategic performance metrics and status distribution for MLA Campaign")
+with t2:
+    st.write("") 
+    st.info(f"📅 Last Sync: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')}")
 
 # --- Global Metrics Row 1: Key Performance Indicators ---
 m1, m2, m3, m4 = st.columns(4)
@@ -89,18 +96,6 @@ d5.metric("Cancelled", cancelled_total)
 
 st.divider()
 
-# Global Metrics Row
-m1, m2, m3, m4 = st.columns(4)
-total_leads = opener_perf['total_leads'].sum()
-total_app = opener_perf['total_approved'].sum()
-global_ratio = (total_app / total_leads * 100)
-
-m1.metric("Campaign Leads", f"{total_leads:,}")
-m2.metric("Total Approvals", f"{total_app:,}")
-m3.metric("Global Success Rate", f"{global_ratio:.2f}%")
-m4.metric("Active Agents", len(opener_perf))
-
-st.divider()
 
 # --- Section 1: Overview & Rankings ---
 col_table, col_chart = st.columns([1.2, 1], gap="large")
