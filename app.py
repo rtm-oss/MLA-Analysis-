@@ -56,9 +56,11 @@ df, opener_perf, final_details, app_cats, neu_cats, neg_cats = load_and_process_
 column_cfg = {
     "Success Ratio (%)": st.column_config.ProgressColumn(
         "Success Ratio",
-        format="%.0f%%", # سيقوم ستريمليت بضرب القيمة في 100 تلقائياً للعرض
+        help="Ratio of Wins over Total Leads",
+        # التعديل هنا: %.2f تعني إظهار رقمين عشريين، والـ %% تضرب في 100 وتضع العلامة
+        format="%.2f%%", 
         min_value=0,
-        max_value=1 # القيمة القصوى للكسر العشري هي 1
+        max_value=1
     ),
     "total_leads": "Volume",
     "total_approved": "Wins"
