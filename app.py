@@ -208,8 +208,6 @@ if selected_opener:
         neg = sum(row.get(c, 0) for c in neg_cats)
         st.error(f"**NEGATIVE**  \n**{int(neg)}** Leads")
         
-    # إضافة قسم إضافي اختياري لو أحببت عرض الباقي (Postdated & Pending) بشكل منفصل
-    st.info(f"💡 **Additional Success Details:** Postdated: {int(row['postdated'])} | Pending Bank: {int(row['pending_bank_approval'])}")
 
 # --- Section 3: Full Data Access ---
 st.divider()
