@@ -60,22 +60,34 @@ def load_and_process_data():
     return df, perf, full_data, approved_cats, neutral_cats, negative_cats
 
 df, opener_perf, final_details, app_cats, neu_cats, neg_cats = load_and_process_data()
+
 # --- Date Filter Logic (Top of Page) ---
-# تأكد من تحويل عمود التاريخ لنوع datetime
-df['Creation Date'] = pd.to_datetime(df['Creation Date']).dt.date
+# 1. تحويل العمود لتاريخ ومعالجة الأخطاء (coerce تحول القيم الخاطئة لـ NaT)
+df['Creation Date'] = pd.to_datetime(df['Creation Date'], errors='coerce')
 
-# وضع الفلتر في السايدبار أو في أعلى الصفحة
+# 2. حذف أي صفوف التاريخ فيها فارغ لضمان عمل الفلتر بشكل صحيح
+df = df.dropna(subset=['Creation Date'])
+
+# 3. تحويله إلى صيغة date فقط (بدون ساعات)
+df['Creation Date'] = df['Creation Date'].dt.date
+
+# وضع الفلتر في السايدبار
 st.sidebar.header("🔍 Global Filters")
-min_date = df['Creation Date'].min()
-max_date = df['Creation Date'].max()
 
-selected_dates = st.sidebar.date_input(
-    "Select Date Range",
-    value=(min_date, max_date),
-    min_value=min_date,
-    max_value=max_date
-)
+# التأكد من وجود بيانات بعد التنظيف
+if not df.empty:
+    min_date = df['Creation Date'].min()
+    max_date = df['Creation Date'].max()
 
+    selected_dates = st.sidebar.date_input(
+        "Select Date Range",
+        value=(min_date, max_date),
+        min_value=min_date,
+        max_value=max_date
+    )
+else:
+    st.error("Error: No valid dates found in 'Creation Date' column.")
+    st.stop() # إيقاف التطبيق لتجنب أخطاء أخرى
 # تطبيق الفلترة (الكل يعتمد على filtered_df الآن)
 if isinstance(selected_dates, tuple) and len(selected_dates) == 2:
     start_date, end_date = selected_dates
