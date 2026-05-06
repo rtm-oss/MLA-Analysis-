@@ -192,15 +192,24 @@ if selected_opener:
         fig_bar.update_layout(showlegend=False, height=400, margin=dict(t=20, b=20, l=0, r=0))
         st.plotly_chart(fig_bar, use_container_width=True)
 
+# Outcomes Summary - تحديث الأسماء لتعمل بدون أخطاء
     res1, res2, res3 = st.columns(3)
     with res1:
-        st.success(f"**POSITIVE**  \n**{int(row['total_approved'])}** Leads")
+        # هنا غيرنا 'total_approved' إلى 'approved'
+        st.success(f"**POSITIVE (Approved)**  \n**{int(row['approved'])}** Leads")
+        
     with res2:
+        # حساب الحالات المحايدة (Neutral)
         neu = sum(row.get(c, 0) for c in neu_cats)
         st.warning(f"**NEUTRAL**  \n**{int(neu)}** Leads")
+        
     with res3:
+        # حساب الحالات السلبية (Negative)
         neg = sum(row.get(c, 0) for c in neg_cats)
         st.error(f"**NEGATIVE**  \n**{int(neg)}** Leads")
+        
+    # إضافة قسم إضافي اختياري لو أحببت عرض الباقي (Postdated & Pending) بشكل منفصل
+    st.info(f"💡 **Additional Success Details:** Postdated: {int(row['postdated'])} | Pending Bank: {int(row['pending_bank_approval'])}")
 
 # --- Section 3: Full Data Access ---
 st.divider()
