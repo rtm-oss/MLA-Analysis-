@@ -96,13 +96,15 @@ m1, m2, m3, m4 = st.columns(4)
 # الحسابات الجديدة بناءً على الأسماء المعدلة
 total_leads = opener_perf['total_leads'].sum()
 # نجمع الـ 3 أعمدة الجديدة للحصول على الإجمالي الصحيح
-total_success = opener_perf['approved'].sum() + opener_perf['postdated'].sum() + opener_perf['pending_bank_approval'].sum()
+total_Approved = opener_perf['approved'].sum()
+total_Postdated = opener_perf['postdated'].sum() 
+total_Pending_bank_approval = opener_perf['pending_bank_approval'].sum()
 
 # حساب النسبة العالمية
-global_ratio = (total_success / total_leads) if total_leads > 0 else 0
+global_ratio = (total_approved / total_leads) if total_leads > 0 else 0
 
 m1.metric("Campaign Leads", f"{total_leads:,}")
-m2.metric("Total Success", f"{total_success:,}") # مجموع Approved + Postdated + Pending
+m2.metric("Total Approved", f"{total_success:,}") # مجموع Approved + Postdated + Pending
 m3.metric("Global Success Rate", f"{(global_ratio * 100):.2f}%")
 m4.metric("Active Agents", len(opener_perf))
 
