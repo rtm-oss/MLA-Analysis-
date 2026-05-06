@@ -108,7 +108,7 @@ global_ratio = (total_success / total_leads) if total_leads > 0 else 0
 # 4. عرض المقاييس
 m1.metric("Campaign Leads", f"{total_leads:,}")
 m2.metric("Total Success", f"{total_success:,}") 
-m3.metric("Global Success Rate", f"{(global_ratio ):.2f}%")
+m3.metric("Global Success Rate", f"{(global_ratio*100 ):.2f}%")
 m4.metric("Active Agents", len(opener_perf))
 
 # --- Global Metrics Row 2 ---
@@ -180,7 +180,7 @@ if selected_opener:
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Individual Leads", int(row['total_leads']))
     c2.metric("Total Wins", int(ind_success)) # الإجمالي الجديد
-    c3.metric("Success Rate", f"{(row['Success Ratio (%)'] * 100):.2f}%")
+    c3.metric("Success Rate", f"{(row['Success Ratio (%)']):.2f}%")
 
     l_col, r_col = st.columns([1, 1.2], gap="large")
     with l_col:
