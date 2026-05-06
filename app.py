@@ -93,18 +93,18 @@ with t2:
 # --- Global Metrics Row 1: Key Performance Indicators ---
 m1, m2, m3, m4, m5 = st.columns(5)
 
-# الحسابات من البيانات
-total_leads = opener_perf['total_leads'].sum()
+# 1. الحسابات (تأكد من مطابقة هذه الأسماء تماماً مع السطر التالي)
+total_leads_val = opener_perf['total_leads'].sum()
 approved_val = opener_perf['approved'].sum()
 postdated_val = opener_perf['postdated'].sum()
 pending_val = opener_perf['pending_bank_approval'].sum()
 
-# حساب النسبة العالمية بناءً على مجموع الثلاثة
-total_success = approved_val + postdated_val + pending_val
-global_ratio = (total_success / total_leads) if total_leads > 0 else 0
+# 2. حساب إجمالي النجاح والنسبة (باستخدام نفس المتغيرات المعرفة فوق)
+total_success_val = approved_val + postdated_val + pending_val
+global_ratio = (total_success_val / total_leads_val) if total_leads_val > 0 else 0
 
-# توزيع البيانات على الأعمدة الخمسة
-m1.metric("Campaign Leads", f"{total_leads:,}")
+# 3. عرض البيانات في الـ Metrics (مطابقة لما طلبته في الصورة)
+m1.metric("Campaign Leads", f"{total_leads_val:,}")
 m2.metric("Approved ✅", f"{approved_val:,}")
 m3.metric("Postdated 📅", f"{postdated_val:,}")
 m4.metric("Pending Bank ⏳", f"{pending_val:,}")
