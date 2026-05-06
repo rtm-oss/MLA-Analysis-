@@ -1,6 +1,8 @@
 "Quality Agent Name","Assign Date","Work Duration","Recording link",Validation,"Finish Date","QA Feedback","Validated ?","Validation Date","Quality Score %","PT Name",Address,"Phone Number",State,"Zip code",DOB,City,Product,Gender,"Opener Name",Client,"Opening Status","Team Leader","Closing Status","Closer Name","Date of Sale",Comment,"Creation Date","Date of Payment",Dialer,"Last Modified By",VAT,Sales,Service
 Jude,28-04-2026,,,,,,0,,,"Pamela Littell","10 Kimball Ln,",2075027025,ME,4043,11-02-1943,Kennebunk,necklace,Female,Julia.Grey,"Med Guard Alert",Transferred,"Kylie Lopez",Approved,"Summer Hudson",21-04-2026,"PT Paid today",21-04-2026,21-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"BRENDA THOMPSON","PO BOX 64 407 WEST ST",8128094679,IN,47598,17-05-1955,WINSLOW,necklace,Female,logan.fernandez,"Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Summer Hudson",22-04-2026,"Pt will pay on 05/03/2026.",22-04-2026,03-05-2026,,r.heisenberg,,,
+,,,,,,,0,,,"BRENDA THOMPSON","PO BOX 64 407 WEST ST",8128094679,IN,47598,17-05-1955,WINSLOW,necklace,Female,logan.fernandez,"Med Guard Alert",Transferred,"Timothy Williams","Pending Bank Approval","Summer Hudson",22-04-2026,"Pt will pay on 05/03/2026
+
+Payment sent to the bank on 05/03/2026",22-04-2026,03-05-2026,,J.williams,,,
 ,,,,,,,0,,,"CHARLES TAYLOR","317 WESTERN AVE",6413161019,IA,50126,04-11-1937,"IOWA FALLS",necklace,Male,Marco.Hale,"Med Guard Alert",Transferred,"Tim ford",Approved,"Maeve White",21-04-2026,"PT Paid Today",23-04-2026,21-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"DONNA MENOMINEE","416 W Logan St",5174238160,MI,49286,02-02-1938,Tecumseh,"smart watch",Female,Julia.Grey,"Med Guard Alert",Transferred,"Kylie Lopez",Approved,"Summer Hudson",21-04-2026,"PT Paid today",23-04-2026,21-04-2026,,r.heisenberg,,,
 Victoria,01-05-2026,,,,01-05-2026,,1,,,"Virginia L Dean","3251 S St Clair St",3169427795,KS,67217,12-01-1944,Wichita,necklace,Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Maeve White",22-04-2026,"PT Paid Today",22-04-2026,22-04-2026,,victoria.james,,,
@@ -9,33 +11,81 @@ customer aware about the product ,educated about the watch
 confirmed the personal info 
 Guided Choice, Trial Close
 No upfront, Monthly Fee, Value Framing",1,28-04-2026,100,"Rose Brennan","3175 DOUGLAS DR",9149624887,ny,10598,04-07-1952,"YORKTOWN HEIGHTS","smart watch",Male,Leslie.Sandler,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Summer Hudson",10-04-2026,"PT Paid today",23-04-2026,10-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"Ronald Hirsch","40 Allen St",5854921927,NY,14009,01-10-1949,Arcade,"smart watch",Male,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel","Pending Bank Approval","Summer Hudson",21-04-2026,"PT Paid Today",23-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"Ronald Hirsch","40 Allen St",5854921927,NY,14009,01-10-1949,Arcade,"smart watch",Male,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel",Approved,"Summer Hudson",21-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"TERRI JANIS MOSS","825 Redbud Dr",4355126688,UT,84335,19-09-1949,SMITHFIELD,necklace,Female,logan.fernandez,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Maeve White",21-04-2026,"PT Paid Today",23-04-2026,21-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Sharon MOORE","2203 Vance Ave,",3042426565,WV,26003,24-10-1946,Wheeling,necklace,Female,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel",Postdated,"Maeve White",20-04-2026,"PT will pay on 5/10/2026",23-04-2026,10-05-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Yanick Grenier","230 W 103rd St",2126663196,NY,10025,31-07-1939,"New York",necklace,Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams","Follow up","Maeve White",,"PT asked to call her niece as she's the one that takes care of everything including financials
 5162866647
 Pascal Fanfant",23-04-2026,,,r.heisenberg,,,
-,,,,,,,0,,,"Eyvonne Daye","333 Wesleyan Heights Rd,",3365973057,NC,27573,19-01-1945,Roxboro,"smart watch",Female,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel","Pending Bank Approval","Maeve White",20-04-2026,"PT Paid Today",23-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"Eyvonne Daye","333 Wesleyan Heights Rd,",3365973057,NC,27573,19-01-1945,Roxboro,"smart watch",Female,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel",Approved,"Maeve White",20-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Ethel Huey","732 Nordeen Dr",4124621891,PA,15122,06-04-1940,"West Mifflin",necklace,Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Maeve White",20-04-2026,"PT will pay on 05/01/2026",20-04-2026,01-05-2026,,J.williams,,,
 ,,,,,,,0,,,"Paragie Singh",12/30/1942,9543226490,fL,33023,30-12-1942,Miramar,"smart watch",Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Summer Hudson",22-04-2026,"PT Paid Today",22-04-2026,22-04-2026,,r.heisenberg,,,
 Dan,30-04-2026,12,,Handled,30-04-2026,"opening and purpose was good and straight forward, product explanation was pretty well, customer wanted to have some time to think about it and consider the service but the agent handled her, she also had another concern that she is travelling soon and she thought she wouldnt need it but the agent told her that it works all over the states and that it will be useful and she got handled, billing and payment were smooth, transfer was smooth.",1,30-04-2026,85,"BARBARA VANKIRK","2526 Country Club Rd",9104550866,NC,28546,12-08-1936,Jacksonville,necklace,Female,Julia.Grey,"Med Guard Alert",Transferred,"Kylie Lopez",Approved,"Maeve White",20-04-2026,"PT Paid Today",23-04-2026,,,Dan.Robertson,,,
-,,,,,,,0,,,"Peggy Fender","2762 Burma Rd E,",8286527300,NC,28761,31-10-1939,Nebo,necklace,Female,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel","Pending Bank Approval","Maeve White",20-04-2026,"PT Paid Today",23-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"Peggy Fender","2762 Burma Rd E,",8286527300,NC,28761,31-10-1939,Nebo,necklace,Female,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel",Approved,"Maeve White",20-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Evon S Schmidt","3304 46th Ave S, MinneapoliS",6127244518,MN,55406,04-12-1942,Minneapolis,"smart watch",Female,aria.parker,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Maeve White",20-04-2026,"pt paid today",23-04-2026,20-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"jeannette Bethel-Brown","10120 SW 145th Pl",3053822283,FL,33186,24-07-1950,Miami,necklace,Female,Leslie.Sandler,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Summer Hudson",22-04-2026,"PT Paid Today",22-04-2026,22-04-2026,,r.heisenberg,,,
-Dan,30-04-2026,6,,Smooth,30-04-2026,"opening was good and clear, product explanation was also explained well and simply, pricing transparency was explained good, billing and payment was smooth and no concerns raised, transfer was smooth.",1,30-04-2026,90,"EDNA MCCLURE","2459 W Frances Rd",8106407364,MI,48458,15-09-1947,"Mt Morris,","smart watch",Female,Hazel.Anderson,"Med Guard Alert",Transferred,"Sarah Adams","Pending Bank Approval","Maeve White",20-04-2026,,20-04-2026,,,r.heisenberg,,,
+Dan,30-04-2026,6,,Smooth,30-04-2026,"opening was good and clear, product explanation was also explained well and simply, pricing transparency was explained good, billing and payment was smooth and no concerns raised, transfer was smooth.",1,30-04-2026,90,"EDNA MCCLURE","2459 W Frances Rd",8106407364,MI,48458,15-09-1947,"Mt Morris,","smart watch",Female,Hazel.Anderson,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Maeve White",20-04-2026,"Bank Approved",20-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Carole Dillon","3506 Gillette Ave",3603779989,WA,98310,22-08-1943,Bremerton,"smart watch",Female,Julia.Grey,"Med Guard Alert",Transferred,"Kylie Lopez",Postdated,"Lilly Williams",15-04-2026,"PT will pay on 5/7/2026",23-04-2026,07-05-2026,,r.heisenberg,,,
-,,,,,,,0,,,"marlene WHEELER","102 lamoille ave",8024725419,VT,5843,01-04-1944,Hardwick,"smart watch",Female,Evy.Carter,"Med Guard Alert",Transferred,"Kevin Samuel",Postdated,"Lilly Williams",15-04-2026,"PT will pay on 05/03/2026",23-04-2026,03-05-2026,,r.heisenberg,,,
-,,,,,,,0,,,"Deborah Madden","825 Redbud Dr",6016063463,MS,39475,22-02-1960,PURVIS,necklace,Female,liora.grey,"Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Summer Hudson",20-04-2026,"Pt will pay on the 5th of May",23-04-2026,05-05-2026,,r.heisenberg,,,
+,,,,,,,0,,,"marlene WHEELER","102 lamoille ave",8024725419,VT,5843,01-04-1944,Hardwick,"smart watch",Female,Evy.Carter,"Med Guard Alert",Transferred,"Kevin Samuel",Approved,"Lilly Williams",15-04-2026,"PT will pay on 05/03/2026
+
+PT Paid on 5/3/2026",23-04-2026,03-05-2026,,J.williams,,,
+,,,,,,,0,,,"Deborah Madden","825 Redbud Dr",6016063463,MS,39475,22-02-1960,PURVIS,necklace,Female,liora.grey,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Summer Hudson",20-04-2026,"Pt will pay on the 5th of May
+
+PT Paid on 5/5/2026",23-04-2026,05-05-2026,,J.williams,,,
 ,,,,,,,0,,,"Beryl Fisher","4014 NORTHEAT 11TH AV",5036512161,OR,97013,20-02-1942,CANBY,"smart watch",Female,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel",Approved,"Marcelle David",15-04-2026,"PT Paid today",23-04-2026,15-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"daniel davis","808 S Main Ave",8632439569,FL,33852,05-09-1960,"Lake Placid","smart watch",Male,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Postdated,"Lauren Bailey",16-04-2026,"PT will pay on 5/4/2026",23-04-2026,04-05-2026,,r.heisenberg,,,
+Robert,04-05-2026,10,https://drive.google.com/drive/folders/1uCfCOjs5ixodhtRvv8gfRD2Ls8OjaSDF?usp=drive_link,Smooth,04-05-2026,"Opening & Compliance
+Greeting, Purpose, Tone
+15/15
+Qualification
+Health Check, Fall Risk, Living Situation
+14/15
+Product Explanation
+24/7, Coverage, Fall Detection, Water Resistance
+15/15
+Pricing Transparency
+No upfront, Monthly Fee, Value Framing
+14/15
+Billing & Payment
+Billing Date Control, No Immediate Charge
+14/15
+Closing
+Guided Choice, Trial Close
+12/15
+Transfer & Disclosure
+Disclosure Confirmed, Warm Transfer
+15/15",0,04-05-2026,10/10,"daniel davis","808 S Main Ave",8632439569,FL,33852,05-09-1960,"Lake Placid","smart watch",Male,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Lauren Bailey",16-04-2026,"PT will pay on 5/4/2026
+
+- PT Paid",23-04-2026,04-05-2026,OSX,lean.stephen,,,
 ,,,,,,,0,,,"Mary Schidlowski","11277 Avenida Del Gato",8585788189,CA,92126,13-12-1943,"San Diego","smart watch",Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Lisa Hanz",20-04-2026,"PT paid Today",23-04-2026,20-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Elizabeth Greene","55 Damy Dr",6039346303,NH,3235,04-05-1943,Franklin,necklace,Female,Leslie.Sandler,"Med Guard Alert",Transferred,"Allen Smith","Pending Bank Approval","Summer Hudson",21-04-2026,"PT Paid Today",23-04-2026,,,r.heisenberg,,,
 ,,,,,,,0,,,"Edward HOTALING jr","314 louden rd",5188711626,NY,12866,09-01-1960,saratga,"smart watch",Male,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Summer Hudson",20-04-2026,"PT will pay on 5/4/2026",23-04-2026,04-05-2026,,r.heisenberg,,,
-,,,,,,,0,,,"Charlotte  Liedloff","154 N Arroyo Seco St apt 205",2094191776,CA,95640,17-09-1955,ione,necklace,Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Maeve White",20-04-2026,"PT will pay on 5/4/2026",23-04-2026,04-05-2026,,r.heisenberg,,,
-,,,,,,,0,,,"SUBHOUTIE  KOBEER","11429 Van Wyck Exp",7185296583,NY,11436,31-07-1951,"South Ozone Park",necklace,Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Summer Hudson",20-04-2026,"PT Paid Today",23-04-2026,20-04-2026,,r.heisenberg,,,
+,,,,,,,0,,,"Charlotte  Liedloff","154 N Arroyo Seco St apt 205",2094191776,CA,95640,17-09-1955,ione,necklace,Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Maeve White",20-04-2026,"PT will pay on 5/4/2026
+
+PT Paid on 5/4/2026",23-04-2026,04-05-2026,,J.williams,,,
+Robert,04-05-2026,17,https://drive.google.com/file/d/1f-6ELqGXNGQIugh5I9HSOGtOf8r3One_/view?usp=drive_link,Smooth,04-05-2026,"Opening & Compliance
+Greeting, Purpose, Tone
+10/15
+Qualification
+Health Check, Fall Risk, Living Situation
+10/15
+Product Explanation
+24/7, Coverage, Fall Detection, Water Resistance
+10/15
+Pricing Transparency
+No upfront, Monthly Fee, Value Framing
+12/15
+Billing & Payment
+Billing Date Control, No Immediate Charge
+13/15
+Closing
+Guided Choice, Trial Close
+12/15
+Transfer & Disclosure
+Disclosure Confirmed, Warm Transfer
+13/15",1,04-05-2026,8/10,"SUBHOUTIE  KOBEER","11429 Van Wyck Exp",7185296583,NY,11436,31-07-1951,"South Ozone Park",necklace,Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Summer Hudson",20-04-2026,"PT Paid Today",23-04-2026,20-04-2026,OSX,lean.stephen,,,
 ,,,,,,,0,,,"Jayne Disalvo","338 Fairbanks Ave",7186677647,Ny,10306,26-03-1949,Staten,necklace,Male,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Summer Hudson",20-04-2026,"PT Paid Today",23-04-2026,20-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"Howard Adams","5051 Samish Way",3606760841,WA,98229,20-04-2026,Bellingham,"smart watch",Male,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams","Pending Bank Approval","Summer Hudson",20-04-2026,"PT Paid Today",23-04-2026,,,r.heisenberg,,,
-,,,,,,,0,,,"Janice Kramer","225 6 Ave Sw",5072887489,MN,55902,17-08-1943,Rochester,necklace,Female,Alexia.Jordan,"Med Guard Alert",Transferred,"Tim ford","Pending Bank Approval","Summer Hudson",17-04-2026,"PT Paid today",23-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"Howard Adams","5051 Samish Way",3606760841,WA,98229,20-04-2026,Bellingham,"smart watch",Male,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Summer Hudson",20-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
+,,,,,,,0,,,"Janice Kramer","225 6 Ave Sw",5072887489,MN,55902,17-08-1943,Rochester,necklace,Female,Alexia.Jordan,"Med Guard Alert",Transferred,"Tim ford",Approved,"Summer Hudson",17-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Louise Fisher","4035 N 14th Pl",6022487769,AZ,85014,25-01-1941,Phoenix,necklace,Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Summer Hudson",20-04-2026,"PT Paid Today",23-04-2026,20-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Norme Braden","24987 FAULHORN DR",9093385399,CA,92325,10-09-1941,CRESTLINE,necklace,Male,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Maeve White",17-04-2026,"PT Paid Today",23-04-2026,17-04-2026,,r.heisenberg,,,
 Victoria,28-04-2026,15,https://drive.google.com/drive/folders/1Iaw24v655EFuC8hZaxl__T9Tfeh8OKZ8?usp=drive_link,Handled,29-04-2026,"Opening & Compliance 15/15
@@ -48,14 +98,14 @@ Was explained right after product pitch
 Billing & Payment 10/10
 Closing 10/10
 Transfer & Disclosure 15/15",1,29-04-2026,95,"Beverly P. Bishop","21 Abbey Ln,",6032791052,NH,3253,03-10-1936,Meredith,"smart watch",Female,"Kevin Samuel","Med Guard Alert",Transferred,"Kevin Samuel",Approved,"Marcelle David",14-04-2026,"PT Paid today",23-04-2026,14-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"EDITH ROWE","5411 Rogers Rd",7043668583,NC,28079,12-08-1947,"Indian Trail","smart watch",Female,flora.wells,"Med Guard Alert",Transferred,"Timothy Williams","Pending Bank Approval","Summer Hudson",20-04-2026,"PT Paid today",23-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"EDITH ROWE","5411 Rogers Rd",7043668583,NC,28079,12-08-1947,"Indian Trail","smart watch",Female,flora.wells,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Summer Hudson",20-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Tseyta Pogrebinskaya","2940 W 5th St Apt 18D",7183721013,NY,11224,13-01-1938,Brooklyn,"smart watch",Male,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams","Follow up","Maeve White",,"PT has no time",23-04-2026,,,r.heisenberg,,,
 Stark,28-04-2026,15,,Smooth,29-04-2026,"PT wasn't having any concerns and questions regarding the device and the agent convinced her directly and gained her interest, greeting was pretty good and the agent went straight to the point, greeting was pretty good and the agent went straight to the point, billing and payment was smooth, transfer was also smooth.",1,29-04-2026,95,"MAVIS PETERSEN","2904 W 33rd St APT 230",5078400901,SD,57105,10-07-1945,"Sioux Falls","smart watch",Female,"Kylie Lopez","Med Guard Alert",Transferred,"Kylie Lopez",Approved,"Rose Silva",13-04-2026,"PT Paid Today",13-04-2026,13-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Lois Rushing","829 Charles Rushing Rd",8508365600,FL,32455,03-08-1946,"Ponce De Leon",necklace,Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith","Pending Bank Approval","Rose Silva",13-04-2026,,23-04-2026,,,r.heisenberg,,,
-,,,,,,,0,,,"KATHERINE VAUGHN","736 Clearmont Dr",6019398453,Pearl,39208,27-01-1941,Pearl,necklace,Female,"Kevin Samuel","Med Guard Alert",Transferred,"Kevin Samuel","Pending Bank Approval","Cole Simmons",13-04-2026,"PT paid today",23-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"KATHERINE VAUGHN","736 Clearmont Dr",6019398453,Pearl,39208,27-01-1941,Pearl,necklace,Female,"Kevin Samuel","Med Guard Alert",Transferred,"Kevin Samuel",Approved,"Cole Simmons",13-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Palma C Firpo","27731 VIA LORCA",9498303523,CA,92692,27-02-1937,"Mission Viejo",necklace,Female,julie.parker,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Lisa Hanz",17-04-2026,"Pt paid today",23-04-2026,17-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Mayreen Brege","1393 N Curtis Rd",9897343701,MI,49779,13-11-1941,"Rogers City",necklace,Female,"Allen Smith","Med Guard Alert",Transferred,"Allen Smith",Cancelled,"Maeve White",22-04-2026,"Customer charged back",22-04-2026,13-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"Patricia Huey","426 Deepwoods Drive",8597813368,KY,41076,10-07-1944,"Highland Heights,","smart watch",Female,aria.parker,"Med Guard Alert",Transferred,"Sarah Adams","Pending Bank Approval","Summer Hudson",17-04-2026,"PT Paid today",23-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"Patricia Huey","426 Deepwoods Drive",8597813368,KY,41076,10-07-1944,"Highland Heights,","smart watch",Female,aria.parker,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Summer Hudson",17-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 Lester,28-04-2026,30,,Smooth,28-04-2026,"cofirmed the personal info 
 Billing Date Control
 customer aware about the product ,educated about the neckless and tried to up sale for the watch insted of neckless .
@@ -71,15 +121,15 @@ Warm Transfer",1,28-04-2026,100,"EARLEAN MCALLISTER","2112 Howden St",2317264194
 ,,,,,,,0,,,"JANE DEWILDE","872 Via Ondulando",7143184543,CA,93003,02-02-1955,Ventura,"smart watch",Female,renee.adams,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Summer Hudson",22-04-2026,"PT Paid Today",22-04-2026,22-04-2026,,r.heisenberg,,,
 Jude,28-04-2026,,,,,,0,,,"Dorothy James-bishop","12839 Bidelman",2692445935,MI,49093,16-03-1938,"Three Rivers",necklace,Female,"Kevin Samuel","Med Guard Alert",Transferred,"Kevin Samuel",Cancelled,"Maeve White",10-04-2026,"cci and wanted to cancel, not ready to sign up",10-04-2026,30-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Ida D Annicelli","9 troy ln",9142733377,NY,10506,09-09-1936,bedford,"smart watch",Female,aylin.grace,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Summer Hudson",17-04-2026,"PT Paid today",23-04-2026,17-04-2026,,r.heisenberg,,,
-Dan,28-04-2026,,,,,,0,,,"Rosemary M Lawson",3/5/1937,7814383905,MA,1880,05-03-1937,Wakefield,necklace,Female,Allen.smith,"Med Guard Alert",Transferred,"Allen Smith",Cancelled,"Maeve White",10-04-2026,"PT Charged Back",23-04-2026,,,J.williams,,,
+Dan,28-04-2026,,,,,,0,,,"Rosemary M Lawson",3/5/1937,7814383905,MA,1880,05-03-1937,Wakefield,necklace,Female,Allen.smith,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Maeve White",10-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"JERILYN DRISCOLL","243 County Road J",6087593821,WI,53803,28-12-1941,Benton,necklace,Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Maeve White",16-04-2026,"PT Paid Today",23-04-2026,16-04-2026,,r.heisenberg,,,
-Dan,28-04-2026,8,,Handled,29-04-2026,"greeting and purpose was good, product was explained well but the customer was called before and this time the wife was the one who answered because last time the customer did not give the agent a chance to explain to him the service and he hung up so he called the wife this time which she is responsible of his financial transactions so she got convinced and bought the smartwatch for her husband, transfer was smooth and the agent tried his best.",1,29-04-2026,95,"Paul Niedermeyer","1497 Windsor St",5414883397,OR,97520,16-07-1944,Ashland,"smart watch",Male,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith","Pending Bank Approval","Maeve White",10-04-2026,,10-04-2026,,,r.heisenberg,,,
+Dan,28-04-2026,8,,Handled,29-04-2026,"greeting and purpose was good, product was explained well but the customer was called before and this time the wife was the one who answered because last time the customer did not give the agent a chance to explain to him the service and he hung up so he called the wife this time which she is responsible of his financial transactions so she got convinced and bought the smartwatch for her husband, transfer was smooth and the agent tried his best.",1,29-04-2026,95,"Paul Niedermeyer","1497 Windsor St",5414883397,OR,97520,16-07-1944,Ashland,"smart watch",Male,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Maeve White",10-04-2026,"Bank Approved",10-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Barbara Bell","1390 H St,",7603445036,CA,92227,19-11-1943,Brawley,necklace,Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams",Cancelled,"Summer Hudson",16-04-2026,"PT Charged back",16-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Walter Wilson","3018 N White Ave",9095936170,CA,91750,26-01-1936,"La Verne",necklace,Male,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Maeve White",21-04-2026,"PT Paid Today",23-04-2026,21-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Judy Vandervort","117 E Hamilton St",9893569613,MI,49707,02-01-1957,Alpena,necklace,Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Maeve White",16-04-2026,"PT Paid today",23-04-2026,16-04-2026,,r.heisenberg,,,
-Dan,28-04-2026,,,,,,0,,,"MARY Watkins MILLER","6399 east county road 500 south",7653322751,IN,47366,20-01-1941,"New Lisbon",necklace,Female,"Kevin Samuel","Med Guard Alert",Transferred,"Kevin Samuel","Pending Bank Approval","Louis Mike",07-04-2026,,07-04-2026,,,r.heisenberg,,,
+Dan,28-04-2026,,,,,,0,,,"MARY Watkins MILLER","6399 east county road 500 south",7653322751,IN,47366,20-01-1941,"New Lisbon",necklace,Female,"Kevin Samuel","Med Guard Alert",Transferred,"Kevin Samuel",Approved,"Louis Mike",07-04-2026,"Bank Approved",07-04-2026,,,J.williams,,,
 Dan,28-04-2026,,,,,,0,,,"MARY COE","535 Esplanade unit 109",3103166977,CA,90277,19-08-1934,"Redondo Beach","smart watch",Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Summer Hudson",07-04-2026,"PT Paid Today",23-04-2026,,,r.heisenberg,,,
-,,,,,,,0,,,"CAROL SIMMONS","24 Rhoades Ln, ,",6623289139,MS,39701,26-03-1945,Columbus,necklace,Female,oliver.smith,"Med Guard Alert",Transferred,"Timothy Williams","Pending Bank Approval","Marcelle David",15-04-2026,"PT Paid today",23-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"CAROL SIMMONS","24 Rhoades Ln, ,",6623289139,MS,39701,26-03-1945,Columbus,necklace,Female,oliver.smith,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Marcelle David",15-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Lana Dragmiller","685 FRANCIS STREET",8104200524,MI,48054,15-06-1945,"East China","smart watch",Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Summer Hudson",21-04-2026,"PT Paid Today",23-04-2026,21-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"DONALD Maddalena","32 W Loyalton",5308324632,CA,96122,20-10-1942,AvePortola,necklace,Male,liora.grey,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Marcelle David",15-04-2026,"pt paid Today",23-04-2026,15-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Elizabeth debusk","804 hammock road",3527963932,FL,34601,23-02-1935,broxsville,necklace,Female,tracy.bill,"Med Guard Alert",Transferred,"Alena Silva","Pending Bank Approval","Summer Hudson",20-04-2026,"PT Paid Today",23-04-2026,,,r.heisenberg,,,
@@ -88,7 +138,7 @@ Dan,28-04-2026,,,,,,0,,,"MARY COE","535 Esplanade unit 109",3103166977,CA,90277,
 ,,,,,,,0,,,"Margie Smith","1315 w 14th st apt d9",8638123928,FL,33805,04-07-1950,Lakeland,"smart watch",Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson","Pending Bank Approval","Summer Hudson",20-04-2026,"PT will pay on 04/26/2026",23-04-2026,,,r.heisenberg,,,
 ,,,,,,,0,,,"MARY Gonzales","538 N 200 W n 1Logan",4357537101,UT,84321,12-09-1949,Logan,necklace,Female,liora.grey,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Maeve White",15-04-2026,"PT Paid Today",23-04-2026,15-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Joyce Rice","3439 E BROADLANDS RD",8124662098,IN,47805,23-11-1950,"TERRE HAITE","smart watch",Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams",Postdated,"Rose Silva",15-04-2026,"PT will pay on 05/15/2026",23-04-2026,15-05-2026,,r.heisenberg,,,
-,,,,,,,0,,,"LOUIS J ALMOND","12 CARVER DR",5088071767,MA,2324,22-01-1937,BRIDGEWATER,necklace,Male,logan.fernandez,"Med Guard Alert",Transferred,"Timothy Williams","Pending Bank Approval","Lilly Williams",15-04-2026,"PT Paid today",15-04-2026,,,J.williams,,,
+,,,,,,,0,,,"LOUIS J ALMOND","12 CARVER DR",5088071767,MA,2324,22-01-1937,BRIDGEWATER,necklace,Male,logan.fernandez,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Lilly Williams",15-04-2026,"Bank Approved",15-04-2026,,,J.williams,,,
 Stark,28-04-2026,13,,Smooth,29-04-2026,"PT wasn't having any concerns and questions regarding the device and the agent convinced her directly and gained her interest, greeting was pretty good and the agent went straight to the point, billing and payment was smooth, transfer was also smooth.",1,29-04-2026,90,"JANICE CHRONISTER","5117 Highway T",5737856567,MO,63901,01-12-1945,"Poplar Bluff",necklace,Female,oliver.smith,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Lilly Williams",14-04-2026,"PT Paid today",14-04-2026,14-04-2026,,r.heisenberg,,,
 Lester,29-04-2026,38,,Smooth,29-04-2026,"Greeting, Purpose, Tone 15/15
 Health Check, Fall Risk, Living Situation 15/15
@@ -97,9 +147,11 @@ customer interested
 24/7, Coverage, Fall Detection, Water Resistance 20/20
 No upfront, Monthly Fee, Value Framing 15/15
 Billing Date Control, No Immediate Charge 10/10
-warm transfer",1,29-04-2026,100,"Lucille D Lucille D","1012 sessica st",6017974708,MS,39119,10-07-1949,"mount olive","smart watch",Female,aylin.grace,"Med Guard Alert",Transferred,"Timothy Williams","Pending Bank Approval","Lilly Williams",14-04-2026,"PT Paid today",14-04-2026,,,J.williams,,,
-,,,,,,,0,,,"Lois J Torgerson","701 11th St N, ,",3208423020,MN,56215,30-06-1932,Benson,necklace,Female,oliver.smith,"Med Guard Alert",Transferred,"Timothy Williams","Pending Bank Approval","Lisa Hanz",13-04-2026,,13-04-2026,,,J.williams,,,
-,,,,,,,0,,,"ellen dowtin","1046 Huckleberry Bottom Rd",2525372675,NC,27870,07-09-1953,"Roanoke Rapid","smart watch",Female,nova.lopez,"Med Guard Alert",Transferred,"Alena Silva",Postdated,"Maeve White",20-04-2026,"PT will pay on 5/3/2026",20-04-2026,03-05-2026,,J.williams,,,
+warm transfer",1,29-04-2026,100,"Lucille D Lucille D","1012 sessica st",6017974708,MS,39119,10-07-1949,"mount olive","smart watch",Female,aylin.grace,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Lilly Williams",14-04-2026,"Bank Approved",14-04-2026,,,J.williams,,,
+,,,,,,,0,,,"Lois J Torgerson","701 11th St N, ,",3208423020,MN,56215,30-06-1932,Benson,necklace,Female,oliver.smith,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Lisa Hanz",13-04-2026,"Bank Approved",13-04-2026,,,J.williams,,,
+,,,,,,,0,,,"ellen dowtin","1046 Huckleberry Bottom Rd",2525372675,NC,27870,07-09-1953,"Roanoke Rapid","smart watch",Female,nova.lopez,"Med Guard Alert",Transferred,"Alena Silva",Cancelled,"Maeve White",20-04-2026,"PT will pay on 5/3/2026
+
+- PT Called and Cancelled",20-04-2026,03-05-2026,,J.williams,,,
 Robert,29-04-2026,17,https://drive.google.com/drive/folders/1W1krMJ1_OlQdWGXEJIW0WqHRtDcxXlya?usp=drive_link,Handled,01-05-2026,"Opening & Compliance
 Greeting, Purpose, Tone
 8/15
@@ -139,7 +191,9 @@ Lester,30-04-2026,20,,Smooth,01-05-2026,"-Greeting, Purpose, Tone 15/15
 -Guided Choice, Trial Close 10/10
 -Disclosure Confirmed, Warm Transfer 15/15
 over all smooth lead 
-aware about the process",1,01-05-2026,100,"DUANE CAMPBELL","624 E Fillmore St,",4803611447,AZ,85281,05-09-1951,Tempe,necklace,Male,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Summer Hudson",17-04-2026,"PT will pay on 5/1/2026",17-04-2026,01-05-2026,,lester.cole,,,
+aware about the process",1,01-05-2026,100,"DUANE CAMPBELL","624 E Fillmore St,",4803611447,AZ,85281,05-09-1951,Tempe,necklace,Male,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg","Retreansfer to client","Summer Hudson",17-04-2026,"PT will pay on 5/1/2026
+
+$44.95 was declined with description: gps. Reason: Invalid Card",17-04-2026,01-05-2026,,J.williams,,,
 Lester,30-04-2026,20,,Handled,30-04-2026,"Greeting, Purpose, Tone 5/15
  Health Check, Fall Risk, Living Situation 10/5
 24/7, Coverage, Fall Detection, Water Resistance 20/20
@@ -150,16 +204,18 @@ handled to many times
 customer not fully aware about the product",1,30-04-2026,80,"Angela Fetsco","82 Kreig Rd",5186228314,NY,12413,31-07-1946,Cairo,"smart watch",Female,emma.becker,"Med Guard Alert",Transferred,"Alena Silva",Cancelled,"Maeve White",17-04-2026,"PT Charged back",17-04-2026,,,lester.cole,,,
 ,,,,,,,0,,,"Gloria Lewis","1326 north 13th street",6204419916,KS,67005,18-12-1947,arkansas,"smart watch",Female,tracy.bill,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Summer Hudson",17-04-2026,"PT Paid Today",17-04-2026,17-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"HERMAN DIERKS","4651 155th St",5632433378,IA,52732,30-09-1938,Clinton,"smart watch",Male,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Maeve White",17-04-2026,"PT Paid Today",17-04-2026,17-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"jennifer Seibert","3031 route 44 windosr vermont",8026745752,SC,5089,08-05-1950,brownsville,"smart watch",Female,tracy.bill,"Med Guard Alert",Transferred,"Alena Silva",Postdated,"Maeve White",17-04-2026,"PT will pay on 05/04/2026",17-04-2026,04-05-2026,,r.heisenberg,,,
+,,,,,,,0,,,"jennifer Seibert","3031 route 44 windosr vermont",8026745752,SC,5089,08-05-1950,brownsville,"smart watch",Female,tracy.bill,"Med Guard Alert",Transferred,"Alena Silva",Cancelled,"Maeve White",17-04-2026,"PT will pay on 05/04/2026
+
+PT decided she was going to keep her medical alarm button",17-04-2026,04-05-2026,,J.williams,,,
 ,,,,,,,0,,,"Maryjane Johansen","4161 Dena Way",9162836065,CA,95821,25-12-1937,Sacramento,necklace,Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Maeve White",17-04-2026,"PT Paid Today",17-04-2026,17-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Annie Adams","25 Robert Adams Rd",6014281449,MS,39443,09-08-1934,Laurel,"smart watch",Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Summer Hudson",17-04-2026,"PT Paid Today",17-04-2026,17-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"Cynthia Kilbride","1920south first street ap 104",6128694059,MN,55454,29-04-1942,mannopilos,"smart watch",Female,jolene.adam,"Med Guard Alert",Transferred,"Alena Silva","Pending Bank Approval","Maeve White",16-04-2026,"PT Paid Today",16-04-2026,,,r.heisenberg,,,
-Jude,28-04-2026,,,,,,0,,,"Cassie Mcfarland","5500 Eulala Dr",6158323442,TN,37211,16-02-1940,Nashville,"smart watch",Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson","Pending Bank Approval","Maeve White",16-04-2026,"PT Paid today",16-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"Cynthia Kilbride","1920south first street ap 104",6128694059,MN,55454,29-04-1942,mannopilos,"smart watch",Female,jolene.adam,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Maeve White",16-04-2026,"Bank Approved",16-04-2026,,,J.williams,,,
+Jude,28-04-2026,,,,,,0,,,"Cassie Mcfarland","5500 Eulala Dr",6158323442,TN,37211,16-02-1940,Nashville,"smart watch",Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Approved,"Maeve White",16-04-2026,"Bank Approved",16-04-2026,,,J.williams,,,
 Jude,28-04-2026,,,,,,0,,,"PERRIE WHITE","532 SADDLE DRIVE",4064420307,MT,59601,22-01-1940,HELANA,necklace,Female,jolene.adam,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Summer Hudson",16-04-2026,"PT Paid today",16-04-2026,16-04-2026,,r.heisenberg,,,
 Victoria,01-05-2026,24,,Handled,01-05-2026,,1,01-05-2026,95,"FRANCES BRUNS","68 VILLAGE CIRCLE",8057379506,CA,93436,12-04-1948,LOMPOC,"smart watch",Female,renee.adams,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Marcelle David",15-04-2026,"pt paid today",15-04-2026,15-04-2026,,victoria.james,,,
 Victoria,01-05-2026,24,,Handled,01-05-2026,,1,01-05-2026,95,"christopher BRUNS","68 VILLAGE CIRCLE DR",8057379506,CA,93436,24-11-1940,LOMPOC,necklace,Male,renee.adams,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Marcelle David",15-04-2026,"pt paid today",15-04-2026,15-04-2026,,victoria.james,,,
 ,,,,,,,0,,,"Daphne M Nicar","1911 18 Av S",6152684108,TN,37212,07-02-1937,Nashville,necklace,Female,sarah.adams,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Jordan Williams",13-04-2026,"PT Paid Today",13-04-2026,13-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"Judith Heeter","2943 Jefferson Ct",5413678655,OR,97386,12-09-1939,"Sweet Home",necklace,Female,emma.becker,"Med Guard Alert",Transferred,"Alena Silva","Pending Bank Approval","Lilly Williams",15-04-2026,"PT Paid today",15-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"Judith Heeter","2943 Jefferson Ct",5413678655,OR,97386,12-09-1939,"Sweet Home",necklace,Female,emma.becker,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Lilly Williams",15-04-2026,"Bank Approved",15-04-2026,,,J.williams,,,
 Stark,28-04-2026,15,,Smooth,29-04-2026,"PT was having another device but the Agent handled her and convinced her with the new one as it's the latest  , greeting was pretty good and the agent went straight to the point, greeting was pretty good and the agent went straight to the point,",1,29-04-2026,95,"Barbara J Trosclair","510 Ashmun St. Apt. #318 ,",9062590399,MI,49783,02-09-1940,"Sault Sainte Marie",necklace,Female,oliver.smith,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Lisa Hanz",13-04-2026,"PT paid today",13-04-2026,28-04-2026,HU1,J.williams,,,
 ,,,,,,,0,,,"Cora Likens","3935 three mile rd",3046753935,WV,25515,12-03-1941,"Gallipolis Ferry",necklace,Female,eren.smith,"Med Guard Alert",Transferred,"Bella Pierce","Pending Bank Approval","Maeve White",22-04-2026,"PT Paid Today",22-04-2026,,,r.heisenberg,,,
 Stark,28-04-2026,35,,Handled,29-04-2026,"PT was having many concerns and questions regarding the device but the agent handled him and convinced him as well, greeting was pretty good and the agent went straight to the point, billing and payment was smooth, transfer was also smooth.",1,29-04-2026,90,"Ronald J Zoller",Zoller,3153446624,NY,13680,16-02-1938,"Rensselaer Falls",necklace,Male,oliver.smith,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Lisa Hanz",13-04-2026,"PT Paid today",13-04-2026,13-04-2026,,J.williams,,,
@@ -189,14 +245,16 @@ didn't have any issues regarding anything as the agent had explain it in a perfe
 Dan,28-04-2026,,,,,,0,,,"Mary Byas","1165 Stanley Ave Apt 1F",7182770591,NY,11208,21-05-1952,Brooklyn,necklace,Female,eren.smith,"Med Guard Alert",Transferred,"Bella Pierce",Approved,"Lilly Williams",10-04-2026,"PT will pay on 4/24/2026
 
 PT Paid today",10-04-2026,24-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"EULA Mclean","2510 cherry wood hill dr",8135026708,FL,33511,12-08-1947,brandenton,"smart watch",Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve","Pending Bank Approval","Summer Hudson",21-04-2026,"PT Paid today",21-04-2026,,,r.heisenberg,,,
+,,,,,,,0,,,"EULA Mclean","2510 cherry wood hill dr",8135026708,FL,33511,12-08-1947,brandenton,"smart watch",Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Approved,"Summer Hudson",21-04-2026,"Bank Approved",21-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"Karen Matteo","Karen Matteo",4023713580,NE,68701,25-04-1937,Norfolk,"smart watch",Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Approved,"Summer Hudson",17-04-2026,"PT Paid today",17-04-2026,17-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Christine Johnson","1174 otto rd",3049275947,WV,25276,07-07-1951,spencer,necklace,Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Approved,"Maeve White",17-04-2026,"PT Paid Today",17-04-2026,17-04-2026,,r.heisenberg,,,
 Victoria,01-05-2026,19,,Smooth,01-05-2026,"The intro was good. No need for qualification as the pt already has one.. The agent explained the product clearly  neat. Pt didn't have any issue with the billing and the payment the call was smooth all throughout",1,01-05-2026,100,"Audrey Gooding","2323 SW 35TH PL",3523317477,FL,32607,08-01-1946,GAINESVILLE,"smart watch",Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Approved,"Summer Hudson",17-04-2026,"PT Paid Today",17-04-2026,17-04-2026,,victoria.james,,,
 Jude,28-04-2026,,,,,,0,,,"MELANO CABUGOS","3195 VIA VIGANELLO",6194790550,CA,91914,14-12-1961,"CHULA VISTA","smart watch",Male,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Summer Hudson",07-04-2026,"PT Paid today",07-04-2026,07-04-2026,,r.heisenberg,,,
 Dan,30-04-2026,6,,Handled,30-04-2026,"opening was good, product explanation was good but the customer raised concerns about the price of it but got handled, pricing transparency was explained good, billing and payment had no issues and no concerns raised after being handled, transfer was smooth.",1,30-04-2026,90,"PATSY LOWE","104 stayton st",3189967605,LA,71060,24-01-1938,"orange sport",necklace,Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Approved,"Summer Hudson",16-04-2026,"PT Paid Today",16-04-2026,07-04-2026,,Dan.Robertson,,,
 Robert,28-04-2026,,,,,,0,,,"ANNTRAUD HEOTES","285 Croyden Dr",9259379076,CA,94523,30-12-1936,"Pleasant Hill","smart watch",Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Summer Hudson",07-04-2026,"PT paid today",07-04-2026,07-04-2026,,r.heisenberg,,,
-Dan,29-04-2026,14,,Handled,29-04-2026,"opening was good and the product explanation was good but the customer was confused a bit but he was handled, for the billing and payment the customer had some concerns about the pricing that it was too much and he was not convinced with the payment method but he was handled, he also said that he is not sure if he wants to pay automatically because he might change his mind the day after he receives the device so the agent told him that he can try it right know only for a month and then he can decide, transfer was not that good.",1,29-04-2026,40,"andrew CAMBROTO","328 S TAMARISK AVE",9098753162,CA,92376,12-04-1940,rialto,"smart watch",Male,Maddie.Henson,"Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Lilly Williams",15-04-2026,"PT will pay on 5/6/2026",15-04-2026,06-05-2026,,J.williams,,,
+Dan,29-04-2026,14,,Handled,29-04-2026,"opening was good and the product explanation was good but the customer was confused a bit but he was handled, for the billing and payment the customer had some concerns about the pricing that it was too much and he was not convinced with the payment method but he was handled, he also said that he is not sure if he wants to pay automatically because he might change his mind the day after he receives the device so the agent told him that he can try it right know only for a month and then he can decide, transfer was not that good.",1,29-04-2026,40,"andrew CAMBROTO","328 S TAMARISK AVE",9098753162,CA,92376,12-04-1940,rialto,"smart watch",Male,Maddie.Henson,"Med Guard Alert",Transferred,"Chris Heisenberg",Cancelled,"Lilly Williams",15-04-2026,"PT will pay on 5/6/2026
+
+PT Called back and Cancelled",15-04-2026,06-05-2026,,J.williams,,,
 Robert,28-04-2026,18,https://drive.google.com/drive/folders/1Qc_ZT1hl4zhn1sCIKWUnVj9YxGTNs3be?usp=drive_link,Smooth,01-05-2026,"Opening & Compliance
 Greeting, Purpose, Tone
 15/15
@@ -220,7 +278,7 @@ Disclosure Confirmed, Warm Transfer
 15/15",1,01-05-2026,10/10,"JAMES SHEARWOOD","156 Hortontown Rd",8452286017,NY,10512,10-01-1941,Carmel,"smart watch",Male,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Approved,"Maeve White",06-04-2026,"PT Paid",06-04-2026,06-04-2026,OSX,lean.stephen,,,
 Robert,28-04-2026,,,,,,0,,,"Boswell Moodie","3488 Wilson Avenue Apt 2C",7186540540,Bronx,10469,13-05-1950,05-13-1950,"smart watch",Male,aria.parker,"Med Guard Alert",Transferred,"Sarah Adams",Postdated,"Cole Simmons",07-04-2026,"PT will pay on 5/7/2026
 Insurance : MSP",07-04-2026,07-05-2026,,r.heisenberg,,,
-Dan,29-04-2026,9,https://drive.google.com/drive/folders/1xC8ldWU5pbhPBBs4oHB6_KjzGPyYYrfu?usp=drive_link,Smooth,29-04-2026,"greeting and purpose was good, customer already has one and is familiar with the service, product was explained really good and the customer is interested in receiving the necklace, billing and payment was really good and the customer did not raise any concerns, transfer was smooth.",1,29-04-2026,85,"Janet Bury","8329 oakview CT",7634203315,MN,55369,20-03-1937,"Maple Grove",necklace,Female,Rosaline.Bennett,"Med Guard Alert",Transferred,"Alena Silva","Pending Bank Approval","Lilly Williams",15-04-2026,"PT Paid today",15-04-2026,,,J.williams,,,
+Dan,29-04-2026,9,https://drive.google.com/drive/folders/1xC8ldWU5pbhPBBs4oHB6_KjzGPyYYrfu?usp=drive_link,Smooth,29-04-2026,"greeting and purpose was good, customer already has one and is familiar with the service, product was explained really good and the customer is interested in receiving the necklace, billing and payment was really good and the customer did not raise any concerns, transfer was smooth.",1,29-04-2026,85,"Janet Bury","8329 oakview CT",7634203315,MN,55369,20-03-1937,"Maple Grove",necklace,Female,Rosaline.Bennett,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Lilly Williams",15-04-2026,"Bank Approved",15-04-2026,,,J.williams,,,
 Robert,28-04-2026,,,,,,0,,,"LOUISE TAYLOR","1100 Grand Concourse",7185383413,NY,10456,29-07-1936,Bronx,"smart watch",Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Summer Hudson",06-04-2026,"PT will pay on 4/15/2025",06-04-2026,15-04-2026,,r.heisenberg,,,
 Dan,29-04-2026,13,https://drive.google.com/drive/folders/1QPNPHWn7-Vufjcdhp2UWTKJiS4jQe3nV?usp=drive_link,Handled,29-04-2026,"opening was good and the agent introduced herself pretty well and straight forward, product was explained well but the customer was confused and her husband kept saying that she wont be able to operate it and that she is not good with electronics but he was handled and convinced, pricing transparency was good, billing and payment was also good, transfer was smooth.",1,29-04-2026,90,"Thomas Palathinkal","80 Fairview Dr",5162995354,NY,11507,18-04-1946,Albertson,"smart watch",Male,nina.lawrence,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Rose Silva",15-04-2026,"PT Paid today",15-04-2026,15-04-2026,,J.williams,,,
 Robert,28-04-2026,,,,,,0,,,"LOIS PAASCHE","3024 Hickory St",9287544112,86429,86429,20-07-1954,Bullhead,"smart watch",Female,Adam.Steve,"Med Guard Alert",Transferred,"Adam steve",Cancelled,"Adam Steve",07-04-2026,"Customer charged back",07-04-2026,07-04-2026,,r.heisenberg,,,
@@ -241,11 +299,13 @@ Disclosure Confirmed, Warm Transfer
 
 the pt was really confused throughout the whole call and susv",1,01-05-2026,5/10,"Pearl Szukala","737 Meadow Dr",7166931323,NY,14120,11-03-1938,"N Tonawanda","smart watch",Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams",Cancelled,"Summer Hudson",06-04-2026,"Customer charged back",06-04-2026,06-04-2026,OSX,lean.stephen,,,
 Dan,29-04-2026,13,https://drive.google.com/drive/folders/1QPNPHWn7-Vufjcdhp2UWTKJiS4jQe3nV?usp=drive_link,Handled,29-04-2026,"opening was good and the agent introduced herself pretty well and straight forward, product was explained well but the customer was confused and her husband kept saying that she wont be able to operate it and that she is not good with electronics but he was handled and convinced, pricing transparency was good, billing and payment was also good, transfer was smooth.",1,29-04-2026,90,"Monikutty Thomaas","80 Fairview Dr",5162995354,NY,11507,14-11-1946,Albertson,"smart watch",Female,nina.lawrence,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Rose Silva",15-04-2026,"PT Paid today",15-04-2026,15-04-2026,,J.williams,,,
-Dan,29-04-2026,15,,Handled,29-04-2026,"opening was great and straight forward, product was well explained and understandable, customer kept asking and raising concerns if this is gonna cost her extra and when she knew the price she wanted to cancel and said i cant afford it but the agent handled her and did a good job, pricing transparency was well explained, billing and payment was good, transfer was smooth.",1,29-04-2026,90,"MARCELLA ARAGON","1058 State Highway 386",5754278052,NM,87711,03-08-1946,"Anton Chico","smart watch",Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lilly Williams",14-04-2026,"PT Paid Today",14-04-2026,14-04-2026,,J.williams,,,
-Victoria,28-04-2026,,,,,,0,,,"Kirk Tousley","1901 Ne 148Th Pl",5032064243,OR,97230,01-05-1937,Portland,necklace,Male,"Alena Silva","Med Guard Alert",Transferred,"Alena Silva","Pending Bank Approval","Maeve White",14-04-2026,"PT Paid today",14-04-2026,,,J.williams,,,
+Dan,29-04-2026,15,,Handled,29-04-2026,"opening was great and straight forward, product was well explained and understandable, customer kept asking and raising concerns if this is gonna cost her extra and when she knew the price she wanted to cancel and said i cant afford it but the agent handled her and did a good job, pricing transparency was well explained, billing and payment was good, transfer was smooth.",1,29-04-2026,90,"MARCELLA ARAGON","1058 State Highway 386",5754278052,NM,87711,03-08-1946,"Anton Chico","smart watch",Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Cancelled,"Lilly Williams",14-04-2026,"Charge Back",14-04-2026,14-04-2026,,M.David,,,
+Victoria,28-04-2026,,,,,,0,,,"Kirk Tousley","1901 Ne 148Th Pl",5032064243,OR,97230,01-05-1937,Portland,necklace,Male,"Alena Silva","Med Guard Alert",Transferred,"Alena Silva",Approved,"Maeve White",14-04-2026,"Bank Approved",14-04-2026,,,J.williams,,,
 Victoria,28-04-2026,26,,Smooth,29-04-2026,"The intro was perfect, no qualification was taken as the pt already has a device.. The product pitching was good and the care giver was really interested in the device..  And even though the pt already paid for a year she is willing to receive the updated version and pay for it. Agent didn't ask the caregiver if she has any questions or concern before transferring.",1,29-04-2026,93,"Eileen Gaplin","966 N Bankerd Ave",5202877841,AZ,85621,24-03-1937,Nogales,"smart watch",Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Approved,"Lilly Williams",14-04-2026,"PT Paid today",14-04-2026,14-04-2026,,J.williams,,,
 Dan,29-04-2026,7,https://drive.google.com/drive/folders/1uLLYTsCj2nZYIxdK95n4XG2qSgafrBbR?usp=drive_link,Handled,29-04-2026,"greeting and purpose was good, product was explained well, customer is living alone so she is qualified, she could not understand what is the difference between the necklace and the smartwatch but the agent handled her and she understood, pricing transparency was explained well, billing and payment was smooth, customer is interested in the smartwatch, she only had concerns if this was legit or no but she got handled, transfer was smooth.",1,29-04-2026,95,"anna marie LOGSDON","418 N Jefferson St",6184232895,IL,62080,24-09-1942,Ramsey,"smart watch",Female,tia.watson,"Med Guard Alert",Transferred,"Helen green",Approved,"Summer Hudson",20-04-2026,"PT Paid today",20-04-2026,20-04-2026,,J.williams,,,
-Victoria,28-04-2026,28,,Handled,30-04-2026,"Intro is perfect and clear with the purpose of the call. the product explanation was good and catch the pt interest even tho pt doesn't has much payment every month but it was well handled. The payment method and billing was clear. closing was good and handled",1,30-04-2026,100,"IDA ELDER","720 10th St",7162156254,NY,14301,13-01-1937,"Niagara Falls",necklace,Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Lilly Williams",14-04-2026,"PT will pay on 5/4/2026",14-04-2026,04-05-2026,,victoria.james,,,
+Victoria,28-04-2026,28,,Handled,30-04-2026,"Intro is perfect and clear with the purpose of the call. the product explanation was good and catch the pt interest even tho pt doesn't has much payment every month but it was well handled. The payment method and billing was clear. closing was good and handled",1,30-04-2026,100,"IDA ELDER","720 10th St",7162156254,NY,14301,13-01-1937,"Niagara Falls",necklace,Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Cancelled,"Lilly Williams",14-04-2026,"PT will pay on 5/4/2026
+
+-PT called and wanted to cancel, she cannot afford",14-04-2026,04-05-2026,,J.williams,,,
 Victoria,28-04-2026,24,,Handled,29-04-2026,"The intro was smooth and clear with the purpose of the call, we didn't ask for the qualification as the pt already has one and pt raised a concern regarding the billing and payment but was handled however when the pt asked the agent from where did you get my number?, the agent start stuttering not knowing what to say.. the closing and transferring line was good",1,29-04-2026,94,"Kathleen Lynch","920 15th St SE",6514643022,MN,55025,16-07-1941,"Forest Lake","smart watch",Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Approved,"Lilly Williams",14-04-2026,"PT Paid today",14-04-2026,14-04-2026,,J.williams,,,
 Lester,29-04-2026,15,,Smooth,30-04-2026,"Greeting, Purpose, Tone , from the closer side handled all concerns ,assisted the customer getting suitable product , without pushing 
   24/7, Coverage, Fall Detection, Water Resistance 20/20
@@ -277,7 +337,7 @@ Closing 10/10
 Transfer & Disclosure 15/15
 
 Pt didn't has any concern at all through out the call and it was very smooth",1,29-04-2026,100,"Evelyn Anderson","2912 HICKORY RIDGE DR",8638990386,FL,33813,05-06-1950,LAKELAND,necklace,Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg","Pending Bank Approval","Lilly Williams",14-04-2026,"PT Paid today",14-04-2026,,,r.heisenberg,,,
-Lester,29-04-2026,,,,,,0,,,"lori Reese","284 Eastern Parkway Apt 3B",7186367381,NY,11225,17-05-1960,Brooklyn,"smart watch",Female,"Alena Silva","Med Guard Alert",Transferred,"Alena Silva","Pending Bank Approval","Maeve White",13-04-2026,"PT Paid today",13-04-2026,,,r.heisenberg,,,
+Lester,29-04-2026,,,,,,0,,,"lori Reese","284 Eastern Parkway Apt 3B",7186367381,NY,11225,17-05-1960,Brooklyn,"smart watch",Female,"Alena Silva","Med Guard Alert",Transferred,"Alena Silva",Approved,"Maeve White",13-04-2026,"Bank Approved",13-04-2026,,,J.williams,,,
 Lester,29-04-2026,20,,Smooth,29-04-2026,"Greeting, Purpose, Tone 10/15
 Health Check, Fall Risk, Living Situation 15/15
 24/7, Coverage, Fall Detection, Water Resistance 20/20
@@ -303,12 +363,16 @@ customer need to be more educated only
 all over smooth lead",1,29-04-2026,90,"Marian Lindley","753 E6TH",2178953937,IL,62447,28-03-1936,NEOGA,"smart watch",Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Cancelled,"Rose Silva",13-04-2026,"PT Charged back",13-04-2026,13-04-2026,,J.williams,,,
 Stark,29-04-2026,13,,Smooth,29-04-2026,"Greeting was pretty good and the agent went straight to the point forward and explained the device right away with a perfect way, PT wasn't having any concerns and questions regarding the device and the agent convinced her directly and gained her interest, , billing and payment was smooth, transfer was also smooth.
 Perfect Quality",1,29-04-2026,100,"Judith Allmacher","8637 GRAND OAKS CT",5863361564,MI,48095,17-05-1942,WASHINGTON,"smart watch",Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lisa Hanz",13-04-2026,"PT Paid today",13-04-2026,13-04-2026,,r.heisenberg,,,
-,,,,,,,0,,,"elsie M clark","4317 S Rd D",5414732704,OR,97918,27-12-1941,Vale,necklace,Female,tia.watson,"Med Guard Alert",Transferred,"Helen green","Pending Bank Approval","Marcelle David",15-04-2026,"PT Paid today",15-04-2026,,,J.williams,,,
-,,,,,,,0,,,"Archie Spencer","1900 34th ave",2283262953,MS,39501,04-08-1940,Gulfport,"smart watch",Male,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Postdated,"Rose Silva",13-04-2026,"PT will pay on 5/1/2026",13-04-2026,01-05-2026,,r.heisenberg,,,
+,,,,,,,0,,,"elsie M clark","4317 S Rd D",5414732704,OR,97918,27-12-1941,Vale,necklace,Female,tia.watson,"Med Guard Alert",Transferred,"Helen green",Approved,"Marcelle David",15-04-2026,"Bank Approved",15-04-2026,,,J.williams,,,
+,,,,,,,0,,,"Archie Spencer","1900 34th ave",2283262953,MS,39501,04-08-1940,Gulfport,"smart watch",Male,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Approved,"Rose Silva",13-04-2026,"PT will pay on 5/1/2026
+
+PT Paid on 5/1/2026",13-04-2026,01-05-2026,,J.williams,,,
 ,,,,,,,0,,,"William Tyler Sr","165 valley view LN",9314983605,TN,38574,29-05-1937,monterey,necklace,Male,"Helen Green","Med Guard Alert",Transferred,"Helen green",Approved,"Rose Silva",13-04-2026,"PT Paid today",13-04-2026,13-04-2026,,r.heisenberg,,,
 Robert,28-04-2026,8,,Smooth,28-04-2026,"the whole call was smooth and the pt rise no concerns and the quality of the call was good",1,28-04-2026,9/10,"Loretta Epstein","39 Russek Dr",9175583871,NY,10312,26-08-1944,"Staten Island",necklace,Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lilly Williams",10-04-2026,"PT Paid today",10-04-2026,10-04-2026,OSX,lean.stephen,,,
-Robert,28-04-2026,,,,,,0,,,"Carolyn Gillberg","2680 19Th Ave",7852273237,KS,67456,03-08-1942,Lindsborg,necklace,Female,"Alena Silva","Med Guard Alert",Transferred,"Alena Silva","Pending Bank Approval","Maeve White",10-04-2026,"PT Paid today",10-04-2026,,,r.heisenberg,,,
-Jude,28-04-2026,,,,,,0,,,"Virginia Sawyer","90 Greenlee St",8284881684,NC,28713,18-01-1934,"Bryson City",necklace,Female,"Chris Heisenberg","Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Lilly Williams",10-04-2026,"PT will pay on 5/1/2026",10-04-2026,01-05-2026,,r.heisenberg,,,
+Robert,28-04-2026,,,,,,0,,,"Carolyn Gillberg","2680 19Th Ave",7852273237,KS,67456,03-08-1942,Lindsborg,necklace,Female,"Alena Silva","Med Guard Alert",Transferred,"Alena Silva",Approved,"Maeve White",10-04-2026,"Bank Approved",10-04-2026,,,J.williams,,,
+Jude,28-04-2026,,,,,,0,,,"Virginia Sawyer","90 Greenlee St",8284881684,NC,28713,18-01-1934,"Bryson City",necklace,Female,"Chris Heisenberg","Med Guard Alert",Transferred,"Chris Heisenberg",Cancelled,"Lilly Williams",10-04-2026,"PT will pay on 5/1/2026
+
+- Card transaction for $44.95 was declined with description: First Month . Reason: Closed Account/ cancelled her cc and didnt she didnt want it",10-04-2026,01-05-2026,,J.williams,,,
 Jude,28-04-2026,,,,,,0,,,"launa Taylor","8044 brogdon dr",8433490119,SC,29579,25-07-1939,"Myrtle Beach",necklace,Female,tia.watson,"Med Guard Alert",Transferred,"Helen green",Approved,"Lilly Williams",10-04-2026,"PT Paid Today",10-04-2026,10-04-2026,,r.heisenberg,,,
 Jude,28-04-2026,25,,Smooth,28-04-2026,"15
 Opening & Compliance 
@@ -368,7 +432,7 @@ Guided Choice, Trial Close
 8/10
 Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
-15/15",1,28-04-2026,90,"angela Tarulli","2255 Benson Avenue Apt 1D",7182667295,NY,11214,12-07-1940,Brooklyn,"smart watch",Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg","Pending Bank Approval","Lisa Hanz",07-04-2026,,07-04-2026,,,Dan.Robertson,,,
+15/15",1,28-04-2026,90,"angela Tarulli","2255 Benson Avenue Apt 1D",7182667295,NY,11214,12-07-1940,Brooklyn,"smart watch",Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lisa Hanz",07-04-2026,"Bank Approved",07-04-2026,,,J.williams,,,
 Lester,28-04-2026,,,Smooth,30-04-2026,"from closer side 
 successful up sale
  confident 
@@ -403,7 +467,9 @@ Guided Choice, Trial Close
 Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
 14/15",1,29-04-2026,9/10,"kim Keetley","7537 jensen ave s",6514708063,mn,55016,25-02-1959,"cottage grove","smart watch",Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Postdated,"Lilly Williams",23-04-2026,"pt will pay on 05/01/2026",23-04-2026,01-05-2026,OSX,lean.stephen,,,
-,,,,,,,0,,,"CAROL  VANLANDINGHAM","625 south lyons ave",7656615840,IN,46953,03-10-1950,marion,necklace,Female,nova.lopez,"Med Guard Alert",Transferred,"Alena Silva",Postdated,"Lisa Hanz",23-04-2026,"PT will pay on 05/03/2026",23-04-2026,03-05-2026,,r.heisenberg,,,
+,,,,,,,0,,,"CAROL  VANLANDINGHAM","625 south lyons ave",7656615840,IN,46953,03-10-1950,marion,necklace,Female,nova.lopez,"Med Guard Alert",Transferred,"Alena Silva",Postdated,"Lisa Hanz",23-04-2026,"PT will pay on 05/03/2026
+
+PT postponed the payment to be on 6/3/2026",23-04-2026,03-06-2026,,J.williams,,,
 Robert,29-04-2026,14,https://drive.google.com/drive/folders/1t6LLxtFVFXf3It4fO5LZmiu2KtVzKJSx?usp=drive_link,Smooth,29-04-2026,"Opening & Compliance
 Greeting, Purpose, Tone
 12/15
@@ -424,7 +490,9 @@ Guided Choice, Trial Close
 12/15
 Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
-14/15",0,29-04-2026,9/10,"Louise Conniff","5055 STATE HIGWAY 74 SPACE 61",9513273280,CA,92544,28-07-1953,HEMET,"smart watch",Female,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel",Postdated,"Lisa Hanz",23-04-2026,"pt will pay on 05/05/2026",23-04-2026,05-05-2026,OSX,lean.stephen,,,
+14/15",0,29-04-2026,9/10,"Louise Conniff","5055 STATE HIGWAY 74 SPACE 61",9513273280,CA,92544,28-07-1953,HEMET,"smart watch",Female,Lillian.Denis,"Med Guard Alert",Transferred,"Kevin Samuel",Approved,"Lisa Hanz",23-04-2026,"pt will pay on 05/05/2026
+
+PT Paid on 5/5/2026",23-04-2026,05-05-2026,OSX,J.williams,,,
 ,,,,,,,0,,,"Mary A Robinson","301 Jones St #531",7062584518,GA,30513,05-06-1950,"Blue Ridge",necklace,Female,irwin.clinton,"Med Guard Alert",Transferred,"Bella Pierce",Postdated,"Marcelle David",23-04-2026,"PT will pay on 05/10/2026",23-04-2026,10-05-2026,,r.heisenberg,,,
 Lester,30-04-2026,15,,Smooth,30-04-2026,"Greeting, Purpose, Tone 15/15
 Health Check, Fall Risk, Living Situation 5/15
@@ -459,7 +527,7 @@ Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
 14/15",1,29-04-2026,9/10,"Betty K STOUT","325 county road 549 bushnelle florida",3525694391,fl,33513,23-03-1935,bushnelle,necklace,Female,tracy.bill,"Med Guard Alert",Transferred,"Alena Silva",Postdated,"Lilly Williams",23-04-2026,"pt will pay on 05/11/2026",23-04-2026,11-05-2026,OSX,lean.stephen,,,
 Victoria,01-05-2026,15,,Handled,01-05-2026,"The call is smooth got handled",1,01-05-2026,100,"Susan M Powers","59 Evergreen Ln",5187345497,NY,12454,17-12-1958,Maplecrest,necklace,Female,irwin.clinton,"Med Guard Alert",Transferred,"Bella Pierce",Approved,"Lilly Williams",23-04-2026,"PT Paid Today",23-04-2026,23-04-2026,,victoria.james,,,
-Lester,28-04-2026,,,,,,0,,,"Charles Farrell","1206 Greymoor Way",3156382204,NY,13027,30-01-1950,Baldwinsville,"smart watch",Male,,"Med Guard Alert",Transferred,"Jordan Williams","Pending Bank Approval","Cole Simmons",10-04-2026,"PT will pay on 5 /15/2026",23-04-2026,,,r.heisenberg,,,
+Lester,28-04-2026,,,,,,0,,,"Charles Farrell","1206 Greymoor Way",3156382204,NY,13027,30-01-1950,Baldwinsville,"smart watch",Male,,"Med Guard Alert",Transferred,"Jordan Williams",Approved,"Cole Simmons",10-04-2026,"Bank Approved",23-04-2026,,,J.williams,,,
 Dan,30-04-2026,14,,Handled,30-04-2026,"opening and tone was not the best and the customer was not able to hear the agent or understand her and she kept asking the agent to repeat what she said, product explanation was okay but it can be better because she was making it complicated and she also took too long to explain it so she should be more simple and a bit faster, billing and payment was good, transfer was smooth.",1,30-04-2026,50,"Anna Callow","9269 N 100 W",2603019237,IN,46733,06-01-1938,Decatur,"smart watch",Female,Maddie.Henson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lisa Hanz",23-04-2026,"pt paid Today",23-04-2026,23-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"JILL DUQUETTE","19428 Seminole Cir",5414191928,Oregon,97702,12-09-1957,"bend oregon",necklace,Female,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg","Not interested","Lilly Williams",,"Pt asked to cancel with the client",23-04-2026,,,M.David,,,
 Robert,29-04-2026,10,https://drive.google.com/drive/folders/13EsS2204e2perF9G6rWw6RtFKDI98jtE?usp=drive_link,Handled,29-04-2026,"Opening & Compliance
@@ -504,7 +572,9 @@ Guided Choice, Trial Close
 12/15
 Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
-14/15",1,29-04-2026,8/10,"LATOYA moore","202 GINGER STREET",6015408533,MS,39209,06-01-1982,JACKSON,"smart watch",Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Lisa Hanz",23-04-2026,"Pt will pay on 05/03/2026",23-04-2026,03-05-2026,OSX,lean.stephen,,,
+14/15",1,29-04-2026,8/10,"LATOYA moore","202 GINGER STREET",6015408533,MS,39209,06-01-1982,JACKSON,"smart watch",Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lisa Hanz",23-04-2026,"Pt will pay on 05/03/2026
+
+PT Paid on 5/3/2026",23-04-2026,03-05-2026,OSX,J.williams,,,
 ,,,,,,,0,,,"Forrest Bartelotte",,3153925201,,0,24-12-1936,,necklace,,liora.grey,"Med Guard Alert",Transferred,"Timothy Williams","Not interested","Lilly Williams",,"refused to confirm any payment method",23-04-2026,,,M.David,,,
 ,,,,,,,0,,,"MYRA CREWS",,2199382007,,0,02-12-1943,,necklace,,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams","Not Eligible","Lisa Hanz",,"PT is holding a bank statement of another company nothing related to her current necklace, she still doesn't know the company's name and she almost got rid of the device",23-04-2026,,,l.hanz,,,
 Dan,30-04-2026,12,,Smooth,30-04-2026,"opening and purpose were good, prouct explanation was good and customer is familiar about it but she doesnt have one, pricing transparency and the billing and payment process were smooth and no concerns raised from the customer, she was interested in the smartwatch so she did not raise any concerns, transfer was smooth.",1,30-04-2026,100,"Glenda Cave","26670 Rowell Hill Rd",5033412269,OR,97386,18-03-1953,"Sweet Home","smart watch",Female,nova.lopez,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Maeve White",23-04-2026,"PT Paid Today",23-04-2026,23-04-2026,,r.heisenberg,,,
@@ -533,7 +603,7 @@ Guided Choice, Trial Close
 8/10
 Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
-14/15",1,29-04-2026,9/10,"INA TIFFANY","1913 Millbank St SE",6162415826,mi,49508,23-05-1937,"Grand Rapids",necklace,Female,tracy.bill,"Med Guard Alert",Transferred,"Alena Silva",Postdated,"Lisa Hanz",24-04-2026,"PT will pay on 05/01/2026",24-04-2026,01-05-2026,OSX,lean.stephen,,,
+14/15",1,29-04-2026,9/10,"INA TIFFANY","1913 Millbank St SE",6162415826,mi,49508,23-05-1937,"Grand Rapids",necklace,Female,tracy.bill,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Lisa Hanz",24-04-2026,"paid on 05/06/2026",24-04-2026,06-05-2026,OSX,M.David,,,
 ,,,,,,,0,,,"William Wainwright","8030 Meadowlane Dr",5176477182,MI,48875,08-09-1938,Portland,necklace,Male,Tina.Mark,"Med Guard Alert",Transferred,"Alena Silva","Follow up","Lilly Williams",,"pt said he need to think about it , asked for a cb after 2 weeks",24-04-2026,,,M.David,,,
 ,,,,,,,0,,,"Wanda E Abell",9042697667,9042697667,FL,32073,15-08-1939,"ORANGE PARK","smart watch",Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Lilly Williams",24-04-2026,"pt paid Today",24-04-2026,24-04-2026,,r.heisenberg,,,
 ,,,,,,,0,,,"Nora L Vinson","19178 Fenelon St",3135876481,mi,48234,16-01-1943,Detroit,"smart watch",Female,Marco.Hale,"Med Guard Alert",Transferred,"Tim ford","Follow up","Lisa Hanz",,"pt needs to ask her daughter 1st",24-04-2026,,,M.David,,,
@@ -557,7 +627,9 @@ Guided Choice, Trial Close
 15/15
 Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
-14/15",1,29-04-2026,9/10,"Adela Monfredo","216 fir avenue","8566970831 / 6095136170",NJ,8350,29-12-1948,richland,necklace,Female,tracy.bill,"Med Guard Alert",Transferred,"Alena Silva",Postdated,"Lilly Williams",24-04-2026,"pt will pay on 05/06/2026",24-04-2026,06-05-2026,OSX,lean.stephen,,,
+14/15",1,29-04-2026,9/10,"Adela Monfredo","216 fir avenue","8566970831 / 6095136170",NJ,8350,29-12-1948,richland,necklace,Female,tracy.bill,"Med Guard Alert",Transferred,"Alena Silva","Retreansfer to client","Lilly Williams",24-04-2026,"pt will pay on 05/06/2026
+
+- PT needs more time to think about it",24-04-2026,06-05-2026,OSX,J.williams,,,
 ,,,,,,,0,,,"HEATHER MOORE","625 QUINCY STREET APT 315",7187741130,NY,19221,01-06-1940,BROOKLYN,necklace,Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Lisa Hanz",,"pt doesn't have access to her bank account info",24-04-2026,,,M.David,,,
 ,,,,,,,0,,,"Victoria K Hofmann","9760 Western Turnpike",5188756208,Delanson,12053,07-10-1944,Delanson,"smart watch",Female,irwin.clinton,"Med Guard Alert",Transferred,"Bella Pierce","Follow up","Lisa Hanz",,"Pt sid she need to speak to her daughter 1st",24-04-2026,,,M.David,,,
 ,,,,,,,0,,,"CAROL C INGLE","4952 WYFFELS RD",5853962256,NY,14424,15-09-1951,CANANDAIGUA,necklace,Female,logan.fernandez,"Med Guard Alert",Transferred,"Timothy Williams","Not interested","Lilly Williams",,"transfered to the client ( Customer refused to provide consent to be connected to MGA)",24-04-2026,,,M.David,,,
@@ -596,7 +668,9 @@ Guided Choice, Trial Close
 15/15
 Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
-14/15",1,29-04-2026,8/10,"Ileane Tischler","2001 Granada Dr C",9548761061,FL,33066,03-10-1938,"Coconut Creek",necklace,Female,nova.lopez,"Med Guard Alert",Transferred,"Alena Silva",Postdated,"Lilly Williams",24-04-2026,"pt will pay on 05/03/2026",24-04-2026,03-05-2026,OSX,lean.stephen,,,
+14/15",1,29-04-2026,8/10,"Ileane Tischler","2001 Granada Dr C",9548761061,FL,33066,03-10-1938,"Coconut Creek",necklace,Female,nova.lopez,"Med Guard Alert",Transferred,"Alena Silva","Retreansfer to client","Lilly Williams",24-04-2026,"pt will pay on 05/03/2026
+
+- PT didn't answer when the client called in to Auth. the payment",24-04-2026,03-05-2026,OSX,J.williams,,,
 ,,,,,,,0,,,"Louis Watts","2784 e sage road",4026458066,,0,09-05-1946,,necklace,,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Lisa Hanz",,"PT doesn't have access to the bank info asked for a callback later",24-04-2026,,,l.hanz,,,
 Victoria,29-04-2026,23,,Handled,29-04-2026,"The intro was good and the purpose was clear. didn't ask for the qualification and the pt is doesn't even have one. The purduct expalanation was perfect and the billing and payment method was clear and the pt understood.. The pt got sus by the end if the call and the agent didn't really handle the pt before transferring",1,29-04-2026,85,"Ruth Keenan","739 Van Buren Rd. Caribou, ME 04736",2074931267,me,4736,02-06-1955,Caribou,"smart watch",Female,Julia.Grey,"Med Guard Alert",Transferred,"Kylie Lopez",Approved,"Lilly Williams",27-04-2026,"pt paid Today",24-04-2026,27-04-2026,,r.heisenberg,,,
 Robert,29-04-2026,19,https://drive.google.com/drive/folders/17VWkShbwqHmeXMVkhQ7KNco8k_tUAIvt?usp=drive_link,Smooth,29-04-2026,"Opening & Compliance
@@ -668,7 +742,9 @@ Guided Choice, Trial Close
 12/15
 Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
-14/15",1,29-04-2026,8/10,"Joyce Herron","18800 CHAREST ST",3137317024,MI,48234,08-12-1942,Detroit,necklace,Female,eren.smith,"Med Guard Alert",Transferred,"Bella Pierce",Postdated,"Lisa Hanz",27-04-2026,"pt will pay on 05/03/2026",27-04-2026,03-05-2026,OSX,lean.stephen,,,
+14/15",1,29-04-2026,8/10,"Joyce Herron","18800 CHAREST ST",3137317024,MI,48234,08-12-1942,Detroit,necklace,Female,eren.smith,"Med Guard Alert",Transferred,"Bella Pierce",Approved,"Lisa Hanz",27-04-2026,"pt will pay on 05/03/2026
+
+PT Paid on 5/3/2026",27-04-2026,03-05-2026,OSX,J.williams,,,
 Dan,30-04-2026,12,,Smooth,30-04-2026,"greeting and opening over all was good and respectful, product explanation was good and explained well, pricing transparency was explained well, no concerns raised about the billing and the payment, transfer was smooth.",1,30-04-2026,95,"ADLINE HICKS","159 COURTSIDE DR",8035204753,SC,29073,13-07-1944,LEXINGTON,necklace,Female,emma.becker,"Med Guard Alert",Transferred,"Alena Silva",Approved,"Lilly Williams",27-04-2026,"pt paid today",27-04-2026,,,Dan.Robertson,,,
 Dan,30-04-2026,10,,Handled,30-04-2026,"opening was smooth, customer already has a necklace and is familiar with it, product explanation was great, pricing transparency was explained well, no problems with the billing and payment, transfer was smooth.",1,30-04-2026,95,"Mary Hannan","1019 Caleb Ave,",3154631843,NY,13206,23-05-1937,Syracuse,"smart watch",Female,dona.johnson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lisa Hanz",27-04-2026,"pt paid Today",27-04-2026,27-04-2026,,r.heisenberg,,,
 Robert,29-04-2026,,https://drive.google.com/drive/folders/1u3j9mqLJr45d06htv7_DiVDRY6ZBzNqb?usp=drive_link,Smooth,29-04-2026,"Opening & Compliance
@@ -719,7 +795,9 @@ Closing 9/10
 
 Pt raised a concern and wasn't fully handled with clear answer however the pt didn't really pay attention to the answer
 
-Transfer & Disclosure 15",1,28-04-2026,99,"Shirley Sarve","65 jade ave",5095222806,WA,99362,09-10-1036,"walla walla","smart watch",Female,lara.knight,"Med Guard Alert",Transferred,"Sarah Adams",Postdated,"Lisa Hanz",27-04-2026,"PT will pay on 5/1/2026",27-04-2026,01-05-2026,,victoria.james,,,
+Transfer & Disclosure 15",1,28-04-2026,99,"Shirley Sarve","65 jade ave",5095222806,WA,99362,09-10-1036,"walla walla","smart watch",Female,lara.knight,"Med Guard Alert",Transferred,"Sarah Adams","Pending Bank Approval","Lisa Hanz",27-04-2026,"PT will pay on 5/1/2026
+
+Payment sent to the bank on 5/1/2026",27-04-2026,01-05-2026,,J.williams,,,
 ,,,,,,,0,,,"Barbara Bowers","810 Flanders Q",6093320871,FL,33484,29-11-1938,"Delray Beach",necklace,Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams","Not interested","Lilly Williams",,"someone interrupted",27-04-2026,,,lily.williams,,,
 ,,,,,,,0,,,"SYBIL A. COLE",3183061696,3183061696,LA,71463,13-12-1940,Oakdale,necklace,Female,emma.becker,"Med Guard Alert","Call Back","Alena Silva",,,,,27-04-2026,,,emma.becker,,,
 ,,,,,,,0,,,"Gwendolyn Lewis","28 Squires Rd",2177872645,IL,62704,15-04-1937,Springfield,"smart watch",Female,eren.smith,"Med Guard Alert",Transferred,"Bella Pierce","Not Eligible","Lisa Hanz",,"Duplicated with the client",27-04-2026,,,M.David,,,
@@ -771,7 +849,7 @@ Guided Choice, Trial Close
 Transfer & Disclosure
 Disclosure Confirmed, Warm Transfer
 10/15",1,28-04-2026,68,"Diana Filner","717 GLEN RD",9258370778,CA,94526,03-05-1945,DANVILLE,"smart watch",Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams",Cancelled,"Summer Hudson",06-04-2026,"PT Called and Cancelled",06-04-2026,10-04-2026,,r.heisenberg,,,
-Stark,29-04-2026,15,,Smooth,30-04-2026,"Greeting was pretty good and the agent went straight to the point forward and explained the device right away with a perfect way, PT wasn't having any concerns and questions regarding the device and the agent convinced her directly and gained her interest, , billing and payment was smooth, transfer was also smooth.",1,30-04-2026,90,"george Luibel","6275 Southeast Century Crt",5034766816,OR,97123,09-07-1959,Hillsboro,necklace,Male,Maddie.Henson,"Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Lilly Williams",27-04-2026,"PT will pay on 5/5/2026",27-04-2026,05-05-2026,,J.stark,,,
+Stark,29-04-2026,15,,Smooth,30-04-2026,"Greeting was pretty good and the agent went straight to the point forward and explained the device right away with a perfect way, PT wasn't having any concerns and questions regarding the device and the agent convinced her directly and gained her interest, , billing and payment was smooth, transfer was also smooth.",1,30-04-2026,90,"george Luibel","6275 Southeast Century Crt",5034766816,OR,97123,09-07-1959,Hillsboro,necklace,Male,Maddie.Henson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lilly Williams",27-04-2026,"PT will pay on 5/5/2026",27-04-2026,05-05-2026,,j.james2,,,
 Robert,29-04-2026,10,https://drive.google.com/drive/folders/1Rc9FVtgbAMrId-RVq5Lf-kopJnvMGP61?usp=drive_link,Smooth,29-04-2026,"the intro was smooth and clear the costumer already had a necklace so she was already aware of the process and did not rise any concerns  and  the transfer was smooth",1,29-04-2026,10/10,"MARTHA BOATNER","112 Greystone D",8654824833,TN,37830,24-09-1942,"Oak RidgE",necklace,Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg","Pending Bank Approval","Maeve White",22-04-2026,"PT Paid Today",22-04-2026,,OSX,r.heisenberg,,,
 Stark,29-04-2026,15,,Smooth,30-04-2026,"Greeting was pretty good and the agent went straight to the point forward and explained the device right away with a perfect way, PT wasn't having any concerns and questions regarding the device and the agent convinced her directly and gained her interest, , billing and payment wasn't clearly smooth as the PT wasn't having a credit or debt card, transfer was also smooth.",1,30-04-2026,90,"Mary Feathrestone","1311 Fordham Rd NC",7043347068,NC,28208,25-06-1943,Charlotte,"smart watch",Female,lara.knight,"Med Guard Alert",Transferred,"Sarah Adams","Not Eligible","Lisa Hanz",,"PT only pays in cash",28-04-2026,,OSX,J.stark,,,
 Lester,29-04-2026,15,,Smooth,29-04-2026,"the customer going to leave for Assisted living facilities  and wanted to keep the one she have. 
@@ -885,7 +963,7 @@ Transfer & Disclosure
 in total the agent did a perfect job by giving the right guidelines and info for the costumer 
 even the costumer herself Sayed that she did a a great job which shows that the agent really build a very good bond with her to make a perfect sale 
 =============",1,29-04-2026,83,"Randi S Whitsell","1824 Basin Hill Blvd, Carlisle",7172432850,pa,17013,28-06-1932,Carlisle,"smart watch",Female,tia.watson,"Med Guard Alert",Transferred,"Helen green","Not interested","Lilly Williams",,"she doesn't wasn't to confirm any card numbers",28-04-2026,,,jude.palmer,,,
-Dan,29-04-2026,7,https://drive.google.com/drive/folders/1YzJUljubIg5rZudODMG3ocH5GpqTi1fk?usp=drive_link,Smooth,29-04-2026,"greeting was good and straight forward, product was explained pretty good and clear, the customer did not have any concerns but she only had a hard time to choose between the necklace and the smartwatch but the agent helped her and she was interested to get the smartwatch, agents tonality was good throughout the call and she was confident while talking so the customer was not suspicious and she did not hesitate or have any concerns, billing and payment was smooth but the customer will pay on may 2nd not now, transfer was smooth.",1,29-04-2026,95,"Sandra B Saleh","1918 Lutheran St",3365584398,NC,27401,20-11-1950,Greensboro,"smart watch",Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Postdated,"Lisa Hanz",28-04-2026,"PT will pay on 05-02-2026",28-04-2026,02-05-2026,OSX,Dan.Robertson,,,
+Dan,29-04-2026,7,https://drive.google.com/drive/folders/1YzJUljubIg5rZudODMG3ocH5GpqTi1fk?usp=drive_link,Smooth,29-04-2026,"greeting was good and straight forward, product was explained pretty good and clear, the customer did not have any concerns but she only had a hard time to choose between the necklace and the smartwatch but the agent helped her and she was interested to get the smartwatch, agents tonality was good throughout the call and she was confident while talking so the customer was not suspicious and she did not hesitate or have any concerns, billing and payment was smooth but the customer will pay on may 2nd not now, transfer was smooth.",1,29-04-2026,95,"Sandra B Saleh","1918 Lutheran St",3365584398,NC,27401,20-11-1950,Greensboro,"smart watch",Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Approved,"Lisa Hanz",28-04-2026,"paid on 05/06/2026",28-04-2026,06-05-2026,OSX,M.David,,,
 ,,,,,,,0,,,"STELLA FARRAR","191 Rocky Hills Rd",9195423313,NC,27610,28-04-2026,Pittsboro,necklace,Female,Maddie.Henson,"Med Guard Alert","Not interested","Chris Heisenberg",,,,,28-04-2026,,,Maddie.Henson,,,
 Dan,29-04-2026,7,https://drive.google.com/drive/folders/1nqHLqa29hlvrcVkhheo92vbjsX9URKrq?usp=drive_link,Handled,29-04-2026,"greeting and opening was good and the customer was familiar about it because she has a similar one but with less features, product explanation was pretty good and understandable, customer has a big neck so she didnt want the necklace because it will bother her but the agent handled her and told her that she could remove the cord of the necklace and she was convinced, billing and payment was good, transfer was smooth.",1,29-04-2026,85,"Brenda L. Gertz","9 Walters Ave",7182737061,NY,10301,30-04-1937,"Staten Island",necklace,Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Cancelled,"Marcelle David",,"PT Changed her mind, No longer wants the service",28-04-2026,,,Dan.Robertson,,,
 Jude,29-04-2026,16,,Smooth,29-04-2026,"15
@@ -941,7 +1019,9 @@ but that also will risk the chances for the product and the sale
 in technicality the customer wasn't really intrested in the product the idea of it as she was saying that her son bought it only to buy piece of mind as he's mother is a senior american 
 in which she couldn't agree in the ''Billing & Payment''
 but the opener did a great job by getting the sons pn and let her go through all the process",1,29-04-2026,43,"SANDRA GEIGER","9587 Weldon Cir",9547228790,fl,33321,08-02-1938,"Pompano Beach",necklace,Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams","Follow up","Lisa Hanz",,"PT want her son to pay tried to reach him multiple times with NA",28-04-2026,,,jude.palmer,,,
-Robert,28-04-2026,18,https://drive.google.com/file/d/1JRA0Srz4cO4cPmt_Y4AQx0neGXBg0LZG/view?usp=drive_link,Smooth,28-04-2026,"the lead was smooth",1,28-04-2026,9/10,"Georgia W Williams","3325 Tulane Dr,",5044672744,la,70065,12-01-1938,Kenner,necklace,Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Marcelle David",28-04-2026,"pt will pay on 05/01/2026",28-04-2026,01-05-2026,,lean.stephen,,,
+Robert,28-04-2026,18,https://drive.google.com/file/d/1JRA0Srz4cO4cPmt_Y4AQx0neGXBg0LZG/view?usp=drive_link,Smooth,28-04-2026,"the lead was smooth",1,28-04-2026,9/10,"Georgia W Williams","3325 Tulane Dr,",5044672744,la,70065,12-01-1938,Kenner,necklace,Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Marcelle David",28-04-2026,"pt will pay on 05/01/2026
+
+PT Paid on 5/1/2026",28-04-2026,01-05-2026,,J.williams,,,
 Jude,29-04-2026,26,,Smooth,29-04-2026,"9
 Opening & Compliance 
 Greeting, Purpose, Tone
@@ -1006,11 +1086,14 @@ was affirmative and clear
 Transfer & Disclosure
 no issue , no hesitation , strong build transfer with a solid ground of confidence",1,29-04-2026,88,"rosa D collier","2637 W 28TH ST",5618446522,FL,33404,17-12-1941,"West Palm Beach","smart watch",Female,Adam.Steve,"Med Guard Alert",Transferred,"Adam steve","Follow up","Lisa Hanz",,"PT  doesn't have access to her card rn asked for a call back tmrw morning/ NA",28-04-2026,,OSX,l.hanz,,,
 Dan,29-04-2026,14,https://drive.google.com/drive/folders/1qXJXABhLNrLQ9C5FltIvdbca-ojs6LjF?usp=drive_link,Smooth,29-04-2026,"pt has an old device but it has issues and it does not charge, greeting was pretty good and the agent went straight to the point, pt is living alone so she needs to have a working device, product explanation was pretty good, billing and payment was also good pt was interested and she did not raise any concerns, transfer was smooth",1,29-04-2026,93,"patricia kracow","34411 juniperwood",5412819478,OR,97624,13-02-1939,chiloquin,necklace,Female,Leslie.Sandler,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Marcelle David",28-04-2026,"pt paid Today",28-04-2026,28-04-2026,OSX,Dan.Robertson,,,
-Robert,28-04-2026,10,https://drive.google.com/drive/folders/1LUR4FMpDQcNUnwvjRWwAQLsvQ2FvHxsM?usp=drive_link,Smooth,28-04-2026,,1,28-04-2026,,"LINDA GORHAM","305 S Eugene Ave",7654923537,IN,47928,17-12-1948,Cayuga,necklace,Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Lilly Williams",28-04-2026,"pt will pay on 05/01/2026",28-04-2026,01-05-2026,,lean.stephen,,,
+Robert,28-04-2026,10,https://drive.google.com/drive/folders/1LUR4FMpDQcNUnwvjRWwAQLsvQ2FvHxsM?usp=drive_link,Smooth,28-04-2026,,1,28-04-2026,,"LINDA GORHAM","305 S Eugene Ave",7654923537,IN,47928,17-12-1948,Cayuga,necklace,Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams","Retreansfer to client","Lilly Williams",28-04-2026,"pt will pay on 05/01/2026
+Reached the pt back , she cannot afford this",28-04-2026,01-05-2026,,M.David,,,
 Dan,29-04-2026,12,https://drive.google.com/drive/folders/1sIVnNWhxZLY2_hS3hwCRIJ7VQXzsKKCu?usp=drive_link,Smooth,29-04-2026,"pt already has a necklace device, opening and purpose was good and straight forward, product was explained pretty good, transfer was smooth there was no concerns overall throughout the call.",1,29-04-2026,86,"Berton Barber","5518 Edgerton Rd",5855489945,NY,14058,29-03-1947,Elba,necklace,Male,eren.smith,"Med Guard Alert",Transferred,"Bella Pierce",Cancelled,"Lisa Hanz",,"pt asked  to cancel he will complete with the same company",28-04-2026,,OSX,Dan.Robertson,,,
 Jude,29-04-2026,,,,,,0,,,"EARNESTINE HANKINS","utheran hill cr apt 23",4192431913,OH,43616,23-01-1951,,necklace,Female,"Anthony Williamson","Med Guard Alert",Transferred,Training,"Not Eligible","Lilly Williams",,"pt wants to pay in cash",27-04-2026,,,r.heisenberg,,,
 Dan,29-04-2026,7,https://drive.google.com/drive/folders/1HZPNSQ-P9YapvwZGm3tdyYIlwD-4QMHe?usp=drive_link,Smooth,29-04-2026,"opening was good and the agent went straight forward and explained the device right away, pt was confused about the purpose of the device and he never had something like this so he did not know how to use but the agent explained to him good, billing and payment was smooth, transfer was also smooth",1,29-04-2026,81,"Kazuaki Tanahashi","1520 blake st",5106498844,CA,94703,04-10-1933,Berkeley,necklace,Male,Alexia.Jordan,"Med Guard Alert",Transferred,"Tim ford",Approved,"Summer Hudson",28-04-2026,"pt paid Today",28-04-2026,28-04-2026,OSX,Dan.Robertson,,,
-Dan,29-04-2026,10,https://drive.google.com/drive/folders/1Er5i3INC1EEUyN1JwOvk3wdzAThoH8Hz?usp=drive_link,Smooth,29-04-2026,"greeting and purpose was pretty good and straight forward, customer is familiar with the device and had one, customer has high blood pressure and asthma, product explanation was good and understandable, pricing transparency was good, billing and payment was smooth and the customer did not have any concerns except that he did not have the money right now so he wanted to pay later but he was interested so he will pay on may 5th, transfer was smooth.",1,29-04-2026,90,"RICHARD HAMILTON","1588 STATE ROUTE 43,",7407654192,OH,43944,24-09-1955,RICHMOND,"smart watch",Male,nina.lawrence,"Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Lisa Hanz",28-04-2026,"pt will pay on 05/05/2026",28-04-2026,05-05-2026,OSX,Dan.Robertson,,,
+Dan,29-04-2026,10,https://drive.google.com/drive/folders/1Er5i3INC1EEUyN1JwOvk3wdzAThoH8Hz?usp=drive_link,Smooth,29-04-2026,"greeting and purpose was pretty good and straight forward, customer is familiar with the device and had one, customer has high blood pressure and asthma, product explanation was good and understandable, pricing transparency was good, billing and payment was smooth and the customer did not have any concerns except that he did not have the money right now so he wanted to pay later but he was interested so he will pay on may 5th, transfer was smooth.",1,29-04-2026,90,"RICHARD HAMILTON","1588 STATE ROUTE 43,",7407654192,OH,43944,24-09-1955,RICHMOND,"smart watch",Male,nina.lawrence,"Med Guard Alert",Transferred,"Chris Heisenberg","Pending Bank Approval","Lisa Hanz",28-04-2026,"pt will pay on 05/05/2026
+
+Payment sent to the bank on 05/05/2026",28-04-2026,05-05-2026,OSX,J.williams,,,
 ,,,,,,,0,,,"CONSTANCE SLOTTEN","1041 North Fairway Drv",6087971886,WI,54656,28-04-1941,Sparta,"smart watch",Female,Maddie.Henson,"Med Guard Alert","Call Back","Chris Heisenberg",,,,,28-04-2026,,,Maddie.Henson,,,
 Jude,29-04-2026,,,,,,0,,,"John A Cubit","113 Kislingbury St",5856479294,NY,14613,15-02-1944,Rochester,"smart watch",Male,kate.carter,"Med Guard Alert","Not interested","Claudia Wilson",,,,"Line got disconnected right before transfer... called back, NI",28-04-2026,,,kate.carter,,,
 Jude,29-04-2026,13,,Smooth,01-05-2026,"Opening & Compliance 
@@ -1141,7 +1224,7 @@ Lester,29-04-2026,15,,Smooth,29-04-2026,"-Greeting, Purpose, Tone 15/5
 -Guided Choice, Trial Close 10/10
 -Billing Date Control, No Immediate Charge10\10
 customer aware about the process 
--assisted the customer getting the suitable product",1,29-04-2026,100,"Ann Tilley","605 JEAN CT",9194022022,NC,27707,30-11-1939,Durham,"smart watch",Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams","Follow up","Lisa Hanz",,"PT doesn't have her bank card info asked for a call back tmrw morning / Asked for a cb at 1 oclock",28-04-2026,,,M.David,,,
+-assisted the customer getting the suitable product",1,29-04-2026,100,"Ann Tilley","605 JEAN CT",9194022022,NC,27707,30-11-1939,Durham,"smart watch",Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams","Follow up","Lisa Hanz",,"PT doesn't have her bank card info asked for a call back tmrw morning / Asked for a cb at 1 oclock// called back PT said to call back at 11 when she get the bank info from her son",28-04-2026,,,l.hanz,,,
 Lester,29-04-2026,10,,Handled,29-04-2026,"Greeting, Purpose, Tone 15/15
 Health Check, Fall Risk, Living Situation 15/15
 24/7, Coverage, Fall Detection, Water Resistance 20/20
@@ -1181,12 +1264,15 @@ Billing Date Control, No Immediate Charge 10/10
 Guided Choice, Trial Close 10/10
 Disclosure Confirmed, Warm Transfer 15/15
 confirmed the info ,the product and monthly fee before transfer",1,30-04-2026,95,"Caroline Grimball","109 Walden Ct",8034015478,SC,29204,21-12-1946,Columbia,necklace,Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams",Postdated,"Summer Hudson",29-04-2026,"PT will pay on 5/5/2026",29-04-2026,05-05-2026,OSX,lester.cole,,,
-,,,,,,,0,,,"Moisey Kutsovsky","3118 Brighton 4th St Apt 6D",7183324127,NY,11235,02-03-1939,Brooklyn,"smart watch",Male,Hazel.Anderson,"Med Guard Alert",Transferred,"Sarah Adams",Postdated,"Maeve White",29-04-2026,"Pt will pay on 5/1/2026",29-04-2026,01-05-2026,OSX,J.williams,,,
+,,,,,,,0,,,"Moisey Kutsovsky","3118 Brighton 4th St Apt 6D",7183324127,NY,11235,02-03-1939,Brooklyn,"smart watch",Male,Hazel.Anderson,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Maeve White",29-04-2026,"Pt will pay on 5/1/2026
+
+PT Paid on 5/1/2026",29-04-2026,01-05-2026,OSX,J.williams,,,
 ,,,,,,,0,,,"ALICE CONWAY","55020 Jeffery Dr",5742561442,IN,46545,21-07-1942,Mishawaka,necklace,Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams","Not interested","Lisa Hanz",,"customer thought we are from the same company, she wants to stick to the one that she has",29-04-2026,,OSX,l.hanz,,,
 ,,,,,,,0,,,"Barbara Lendore","25 Tennis Ct Apt 5E 11226",7189419291,NY,11226,01-03-1947,Brooklyn,"smart watch",Female,emma.becker,"Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Maeve White",29-04-2026,"PT will pay on 5/10/2026",29-04-2026,10-05-2026,OSX,J.williams,,,
 Dan,30-04-2026,12,,Smooth,30-04-2026,"purpose and tone were good and stable through the call, customer has issue with balance and there is a risk that she falls sometimes, product explanation was good and simple, pricing transparency was explained well and customer did not raise any concerns, billing and payment was good, transfer is smooth.",1,30-04-2026,90,"CIDNY BRECKENRIDGE","8809 oswego rd clay",3159340344,ny,13041,23-05-1957,clay,"smart watch",Female,Nola.William,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lilly Williams",29-04-2026,"PT Paid Today",29-04-2026,29-04-2026,HU1,Dan.Robertson,,,
 ,,,,,,,0,,,"Mary J Broky","1919 Edgelea Rd, ,",7858434523,KS,66046,14-09-1941,Lawrence,necklace,Female,oliver.smith,"Med Guard Alert",Transferred,"Timothy Williams","Not interested","Summer Hudson",,"Pt is clearly very sus and not interested.",29-04-2026,,OSX,s.hudson,,,
-,,,,,,,0,,,"WILLIAM ADAMS","53 New Haven Ln",6068742994,KY,41653,21-10-1953,Prestonsburg,"smart watch",Male,emma.becker,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Maeve White",,"PT couldnt find his glasses and asked for a callback",29-04-2026,,,maeve.white,,,
+,,,,,,,0,,,"WILLIAM ADAMS","53 New Haven Ln",6068742994,KY,41653,21-10-1953,Prestonsburg,"smart watch",Male,emma.becker,"Med Guard Alert",Transferred,"Chris Heisenberg","Not interested","Maeve White",,"PT couldnt find his glasses and asked for a callback
+Reached the pt back , not interested",29-04-2026,,,maeve.white,,,
 ,,,,,,,0,,,"Gregory Ketabgian","4153 Woodleigh Ln",8189528009,CA,91011,21-02-1936,"La Cañada Flintridge","smart watch",Male,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Cancelled,"Lisa Hanz",,"customer just wanted to cancel, with the client  felt we are not a real company",29-04-2026,,,M.David,,,
 ,,,,,,,0,,,"ROBERT DUNNE","1821 MOUNT SHASTA DR",9093389950,CA,90732,04-09-1953,"SAN PEDRO","smart watch",Male,Rosaline.Bennett,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Summer Hudson",,"Pt said he lost his card and must call the bank to close his account and get a new one . He said to call him back on Friday.",29-04-2026,,,s.hudson,,,
 ,,,,,,,0,,,"Dixie G Houghtelling","59041 Welches Ct",5033971877,ct,97051,02-10-1936,"St Helens",necklace,Female,Julia.Grey,"Med Guard Alert",Transferred,"Kylie Lopez","Not Eligible","Maeve White",,"PT thought we were from the same company that she has a necklace from & already has a contract with lively for many years",29-04-2026,,,J.williams,,,
@@ -1198,7 +1284,9 @@ No upfront, Monthly Fee, Value Framing 15/15
 Billing Date Control, No Immediate Charge 10/10
 confirmed the basic info 
 warm transfer , customer confirmed that she is interesting in receiving  the smart watch",1,30-04-2026,90,"PEGGY BUCKNER","9319 MATADOR WAY  95826",9163623725,CA,95826,29-01-1949,SACRAMENTO,"smart watch",Female,Hazel.Anderson,"Med Guard Alert",Transferred,"Sarah Adams","Not interested","Maeve White",,"pt thought we were from the same company",29-04-2026,,,lester.cole,,,
-,,,,,,,0,,,"MARY MARTIN","320 W Court St",5306619394,CA,95695,18-08-1937,Woodland,necklace,Female,aylin.grace,"Med Guard Alert",Transferred,"Timothy Williams","Not interested","Lisa Hanz",,"doesn't have the payment info, scheduled a call back tmrw morning/ called back pt is not interested anymore",29-04-2026,,,l.hanz,,,
+,,,,,,,0,,,"MARY MARTIN","320 W Court St",5306619394,CA,95695,18-08-1937,Woodland,necklace,Female,aylin.grace,"Med Guard Alert",Transferred,"Timothy Williams","Not Eligible","Lisa Hanz",,"doesn't have the payment info, scheduled a call back tmrw morning/ called back pt is not interested anymore
+
+- PT is already waiting for a device from another company",29-04-2026,,,J.williams,,,
 ,,,,,,,0,,,"LUCY REYES","335 Lyndale Ave",4089371023,CA,95127,27-08-1933,"San Jose","smart watch",Female,"Leo Belford","Med Guard Alert",Transferred,"Claudia Wilson","Follow up","Lisa Hanz",,"PT asked for a call back later/ NA",29-04-2026,,OSX,l.hanz,,,
 Lester,30-04-2026,30,,Smooth,30-04-2026,"Greeting, Purpose, Tone 8/15
 Health Check, Fall Risk, Living Situation 10/15
@@ -1247,27 +1335,31 @@ She thought she was connected to the old company to cancel her device, she said 
 - Reconnected the PT's wife (Mary) to the client ... She has no time for now and hung up
 
 - Spouse said that her husband has a device already with pretty much the same features as ours, advised her to double check with the old company first.",30-04-2026,,OSX,J.williams,,,
-,,,,,,,0,,,"NEOMIA TURNER","2615 Furse Rd",8034106707,SC,29148,23-10-1953,Summerton,"smart watch",,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Lisa Hanz",,"Customer is driving rn asked for a call back later afternoon 1:00pm",30-04-2026,,HU1,l.hanz,,,
+,,,,,,,0,,,"NEOMIA TURNER","2615 Furse Rd",8034106707,SC,29148,23-10-1953,Summerton,"smart watch",,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Lisa Hanz",,"Customer is driving rn asked for a call back later afternoon 1:00pm// NA",30-04-2026,,HU1,l.hanz,,,
 ,,,,,,,0,,,"Maxine Nelson","12062 Eldorado Ave",3525925042,FL,34613,07-03-1938,Brooksville,"smart watch",Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Approved,"Lisa Hanz",30-04-2026,"PT Paid Today",30-04-2026,30-04-2026,HU1,J.williams,,,
 ,,,,,,,0,,,"Raymond A Lamoureux","313 manchaug rd",5087369932,ma,1590,27-06-1946,sutton,necklace,Male,aylin.grace,"Med Guard Alert",Transferred,"Timothy Williams","Not interested","Summer Hudson",,"Pt changed his mind. Handled and connected to the client then he changed his mind again and said cancel everything.",30-04-2026,,OSX,jacob.miller,,,
 Dan,30-04-2026,7,,Smooth,30-04-2026,"opening and greeting was good, customer was already familiar about the device, customer has high blood pressure and diabetes, product explanation was pretty good and clear, customer has high risk of falling due to instability and balance issues, pricing transparency was explained well, billing and payment was good, transfer was smooth and no concerns were raised.",1,30-04-2026,100,"Earlene K Estell","329 Warrensburg Dr",6184161848,IL,62223,11-03-1938,Belleville,necklace,Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Approved,"Summer Hudson",30-04-2026,"PT Paid Today",30-04-2026,30-04-2026,HU1,Dan.Robertson,,,
 ,,,,,,,0,,,"DOROTHY MERCER","1398 Chinquapin Chapel Rd",2524489171,NC,28585,10-04-1940,Trenton,"smart watch",Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Maeve White",30-04-2026,"PT Paid Today",30-04-2026,30-04-2026,OSX,J.williams,,,
 ,,,,,,,0,,,"Marlene Orem-KIRBY","38418 N BASIN RD",4804882152,AZ,85331,07-02-1938,"CAVE CREEK",necklace,Female,logan.fernandez,"Med Guard Alert",Transferred,"Timothy Williams","Not Eligible","Maeve White",,"PT is on the national DNC List (Client didn't accept the PT)",30-04-2026,,HU1,J.williams,,,
-,,,,,,,0,,,"Marcia Wooley","179CEMETERY ST",2073140459,ME,4989,26-06-1950,VASSALBORO,"smart watch",Female,"Nessa Miles","Med Guard Alert",Transferred,"Claudia Wilson",,"Summer Hudson",,"asked MedGuard for a call back at 4:00 pm her time because she was late for an appointment. Retransferred to the client on Friday 05/01/2026",30-04-2026,,OSX,s.hudson,,,
+,,,,,,,0,,,"Marcia Wooley","179CEMETERY ST",2073140459,ME,4989,26-06-1950,VASSALBORO,"smart watch",Female,"Nessa Miles","Med Guard Alert",Transferred,"Claudia Wilson","Pending Bank Approval","Summer Hudson",04-05-2026,"asked MedGuard for a call back at 4:00 pm her time because she was late for an appointment. Retransferred to the client on Friday 05/01/2026",30-04-2026,30-04-2026,OSX,s.hudson,,,
 ,,,,,,,0,,,"Carla Budrow","436 Columbia Avnue",6088469392,WI,53532,30-04-2026,DeForest,necklace,Female,Maddie.Henson,"Med Guard Alert",Transferred,"Chris Heisenberg","Retreansfer to client","Lisa Hanz",,"Dropped with the client 
 very upset she was on the phone and said we better not be a fraud ,,,, and has life protect",30-04-2026,,OSX,J.williams,,,
 ,,,,,,,0,,,"Judy Thatcher","4810 Evergreen",3082349838,NE,68845,05-01-1947,Kearney,necklace,Female,tia.watson,"Med Guard Alert",Transferred,"Helen green","Not interested","Maeve White",,"Pt insisted that she doesnt want to switch to medguard",30-04-2026,,OSX,maeve.white,,,
 Lester,01-05-2026,,,,,,0,,,"MARILYN WEBER","1995 ANTIRE RD",3149523731,MO,63049,26-03-1946,"HIRING BRIDGE",necklace,Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams","Not Eligible","Lisa Hanz",,"Dropped with the client 
 High risk of charge back, she has a necklace & she've never used it, she is depenidng on her Apple Watch
 Can't be retransferred",30-04-2026,,OSX,r.heisenberg,,,
-,,,,,,,0,,,"June  Mathiesen","604 SE 12th St",5098764392,WA,99324,22-01-1938,"College Place",necklace,Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve","Retreansfer to client","Summer Hudson",,"Dropped with the client 
-She said she was pushed/forced to receive the device.",30-04-2026,,HU1,s.hudson,,,
+,,,,,,,0,,,"June  Mathiesen","604 SE 12th St",5098764392,WA,99324,22-01-1938,"College Place",necklace,Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Postdated,"Summer Hudson",05-05-2026,"Dropped with the client 
+She said she was pushed/forced to receive the device.
+
+Retransferred on 05/05/2026.Pt said she want to pay on the 25th.",30-04-2026,25-05-2026,HU1,s.hudson,,,
 ,,,,,,,0,,,"Janice L Rovai","32 Nantucket Ave,","4156569855  .  4155869857",CA,94112,13-07-1942,"San Francisco",necklace,Female,Julia.Grey,"Med Guard Alert",Transferred,"Kylie Lopez",Approved,"Maeve White",30-04-2026,"PT Paid Today",30-04-2026,30-04-2026,OSX,J.williams,,,
 ,,,,,,,0,,,"Gerald E Wass","95 Warsaw St",7168940756,NY,14206,23-06-1937,Buffalo,"smart watch",Male,mackenzie.cane,"Med Guard Alert",Transferred,"Helen green","Follow up","Summer Hudson",,"wanna discuss it with his son first.",30-04-2026,,OSX,s.hudson,,,
 ,,,,,,,0,,,"JUDY BROADFIELD","3556 n 2200 e",2083290740,id,83328,06-02-1950,filer,"smart watch",Female,ashley.sed,"Med Guard Alert",Transferred,"Helen green","Pending Bank Approval","Lisa Hanz",30-04-2026,,30-04-2026,,OSX,J.williams,,,
 ,,,,,,,0,,,"LORRAINE HEITMANN","997 W Lyon Ave",6513455818,MN,55041,30-05-1935,"Lake City",necklace,Female,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg","Not interested","Summer Hudson",,"thinks we are the same company she has her current necklace with. Doesn't wanna switch.",30-04-2026,,HU1,s.hudson,,,
 ,,,,,,,0,,,"Thomas J Mcgeough","28 Forrestal Ave",7182274471,NY,10312,17-01-1940,"Staten Island",necklace,Male,flora.wells,"Med Guard Alert",Transferred,"Timothy Williams","Not interested","Maeve White",,"pt refused to give out any financial info and insisted to pay using a cheque",30-04-2026,,HU1,maeve.white,,,
-,,,,,,,0,,,"Jane  D Brooks","820 3rd Ave #310",7153562208,wi,54568,11-05-1941,Woodruff,necklace,Female,"Tim ford","Med Guard Alert",Transferred,"Tim ford",Postdated,"Lisa Hanz",30-04-2026,"PT will pay on 5/1/2026",30-04-2026,01-05-2026,OSX,J.williams,,,
+,,,,,,,0,,,"Jane  D Brooks","820 3rd Ave #310",7153562208,wi,54568,11-05-1941,Woodruff,necklace,Female,"Tim ford","Med Guard Alert",Transferred,"Tim ford","Pending Bank Approval","Lisa Hanz",30-04-2026,"PT will pay on 5/1/2026
+
+Payment sent to the bank on 05/01/2026",30-04-2026,01-05-2026,OSX,J.williams,,,
 Victoria,01-05-2026,27,,,01-05-2026,"The intro and the purpose of the call was clear. Product was explained well even the billing and payment but only problem the agent didn't handle the pt before the transferring regarding whether or not she's going to get billed for the device",1,01-05-2026,90,"Mary Mahler","1469 Poplar Camp Rd",2769301267,VA,24088,07-02-1944,FERRUM,"smart watch",Female,daisy.russel,"Med Guard Alert",Transferred,"Bella Pierce",Approved,"Lisa Hanz",30-04-2026,"PT Paid Today",30-04-2026,30-04-2026,OSX,victoria.james,,,
 ,,,,,,,0,,,"michele MILLER","101 colombia st 403 corning",6079622817,ny,14830,03-04-1984,corning,necklace,Female,ashley.sed,"Med Guard Alert",Transferred,"Helen green","Not Eligible","Summer Hudson",,"Pt says her card doesn't have a verification code on it. this is her only payment method.",30-04-2026,,OSX,s.hudson,,,
 ,,,,,,,0,,,"Joni Roscoe","48 W 640 HGWAY30",6309863777,IL,60511,07-11-1937,"BIG RACK","smart watch",Female,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams","Follow up","Maeve White",,"She asked for a callback as she doesnt have access to any financial info",30-04-2026,,OSX,maeve.white,,,
@@ -1308,7 +1400,7 @@ called him back , and he said he is not interested",01-05-2026,,OSX,J.williams,,
 ,,,,,,,0,,,"JOHN USHKEVICH","156 Spring View Dr",7815955005,MA,1904,25-02-1940,Lynn,necklace,Male,dan,"Med Guard Alert",Transferred,Robert.Hiesenberg,"Not interested","Maeve White",,"Pt is not interested in switching companies anyways",01-05-2026,,HU1,r.heisenberg,,,
 ,,,,,,,0,,,"Jacqueline L White","737 S Woods Rd",5185297259,NY,12916,29-03-1946,Brushton,"smart watch",Female,julie.parker,"Med Guard Alert",Transferred,"Sarah Adams","Not interested","Lilly Williams",,"once i told her you're going to pay $44.95 she said not interested and she hu .. called back NA",01-05-2026,,HU1,lily.williams,,,
 ,,,,,,,0,,,"harry smith","1547 8th ave",6172858337,ny,0,30-11-1940,brookline,"smart watch",Male,tia.watson,"Med Guard Alert",Transferred,"Helen green","Not interested","Summer Hudson",,"Pt kept saying i don't know whenever i asked about the necklace that he has . I clarified that we are not the same company and he needs to cancel the device he has so i asked him to look for a bank statement or anything with the device name . He said hold on and hung up . Called back he disconnected the call.",01-05-2026,,OSX,s.hudson,,,
-Robert,04-05-2026,,,,,,0,,,"Nina Tyler","909 Thompson Rd,",8435585128,sc,29554,01-07-1935,Hemingway,necklace,Female,"Bella Pierce","Med Guard Alert",Transferred,"Bella Pierce",Approved,"Maeve White",01-05-2026,"PT Paid Today",01-05-2026,01-05-2026,HU1,lean.stephen,,,
+Robert,04-05-2026,,,,,,0,,,"Nina Tyler","909 Thompson Rd,",8435585128,sc,29554,01-07-1935,Hemingway,necklace,Female,"Eric Rodriguez","Med Guard Alert",Transferred,"Bella Pierce",Approved,"Maeve White",01-05-2026,"PT Paid Today",01-05-2026,01-05-2026,HU1,b.pierce,,,
 ,,,,,,,0,,,"FRANKLIN GALLOWAY","2440 Morgan St SE",6019904657,MS,39629,09-08-1934,"Bogue Chitto","smart watch",,nina.lawrence,"Med Guard Alert",Transferred,"Chris Heisenberg","Not interested","Summer Hudson",,"Pt said we must talk to his son 6013201998 Nino holmes . Called him he said we must talk to his sister Cora barze 6017543320 . Called her it's AM. 
 
 Pt's daughter called and said not to call him again and that she would call the cops on us.",01-05-2026,,OSX,s.hudson,,,
@@ -1324,20 +1416,34 @@ called back she said i have no interest in it",01-05-2026,,OSX,lily.williams,,,
 Clients Comment ""Bluffer and a trouble maker""",01-05-2026,,OSX,J.williams,,,
 ,,,,,,,0,,,"HELEN  MALONEY","530 W Ice Lake Rd",9062653669,MI,49935,06-06-1936,"Iron River",necklace,Female,Julia.Grey,"Med Guard Alert",Transferred,"Kylie Lopez","Not interested","Summer Hudson",,"Pt thought we were the same company .",01-05-2026,,OSX,s.hudson,,,
 ,,,,,,,0,,,"DELORES GRAHAM","915 S HELEN ST APT 309","3093633428 / 3096550577",IL,61605,29-09-1947,PEORIA,"smart watch",Female,Rosaline.Bennett,"Med Guard Alert",Transferred,"Chris Heisenberg","Retreansfer to client","Maeve White",,". card declined, she will contact her bank and call back",01-05-2026,,HU1,M.David,,,
-,,,,,,,0,,,"Carol Letendre","16403 County Highway Ee",7152020377,WI,54732,02-05-1944,Cornell,necklace,Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams","Retreansfer to client","Lisa Hanz",,"Invalid routing number
+,,,,,,,0,,,"Carol Letendre","16403 County Highway Ee",7152020377,WI,54732,02-05-1944,Cornell,necklace,Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams","Follow up","Lisa Hanz",,"Invalid routing number
 
 Got the right info and reconnected to the client
-she seems confused, dropped the call as she said she wasn't aware why is she getting a new device.",01-05-2026,,OSX,J.williams,,,
-,,,,,,,0,,,"Warren C Jordan","51 Muschopauge Rd",5088864369,MA,1543,12-09-1944,Rutland,necklace,Male,timothy.williams,"Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Lilly Williams",01-05-2026,"pt will pay on 06/01/2026",01-05-2026,01-06-2026,HU1,M.David,,,
+she seems confused, dropped the call as she said she wasn't aware why is she getting a new device.
+Hung up once we connected her to the client
+Transferred her again , hang up once transferred to MG
+
+
+
+
+
+
+NA",01-05-2026,,OSX,l.hanz,,,
+,,,,,,,0,,,"Warren C Jordan","51 Muschopauge Rd",5088864369,MA,1543,12-09-1944,Rutland,necklace,Male,"Jordi Downey","Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Lilly Williams",01-05-2026,"pt will pay on 06/01/2026",01-05-2026,01-06-2026,HU1,j.Moren,,,
 ,,,,,,,0,,,"Carol  Willert","100 Pine Ridge Dr,",7159862826,WI,54889,06-12-1941,"Turtle Lake",necklace,Female,Julia.Grey,"Med Guard Alert",Transferred,"Kylie Lopez",Approved,"Summer Hudson",01-05-2026,"pt paid today",01-05-2026,01-05-2026,OSX,M.David,,,
 ,,,,,,,0,,,"Stewart Bowden","807 Rosetree Ln",3022365667,DE,19973,05-07-1939,Seaford,"smart watch",Female,Rosaline.Bennett,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Maeve White",,"Pt is hospitalized for now so he doesnt have any access to any of his financial info  , he asked for a callback in 1 week tho",01-05-2026,,HU1,maeve.white,,,
-,,,,,,,0,,,"LINDA KNIGHT","421 N Prairie St",6088737963,WI,53589,02-07-1937,Stoughton,"smart watch",Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Lilly Williams",,"she asked for a call back",01-05-2026,,OSX,lily.williams,,,
+,,,,,,,0,,,"LINDA KNIGHT","421 N Prairie St",6088737963,WI,53589,02-07-1937,Stoughton,"smart watch",Female,adaline.morgan,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Lilly Williams",,"she asked for a call back
+========
+AM",01-05-2026,,OSX,lily.williams,,,
 ,,,,,,,0,,,"Geraldine P Williams","15533 Pleasant Ave",3133832604,MI,48101,,"Allen Park","smart watch",Female,kate.carter,"Med Guard Alert","Call Back","Claudia Wilson",,,,,,,,kate.carter,,,
 ,,,,,,,0,,,"Erich H Birkholz","2310 Wilson St",9207934783,WI,54241,26-02-1941,"Two Rivers",necklace,Male,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams",Cancelled,"Lisa Hanz",,"Dropped with the Client / DOESNT WANT TO MAKE A FIRST PAYMENT UNLESS HE GOT THE DEVICE",01-05-2026,,OSX,J.williams,,,
 ,,,,,,,0,,,"BESSIE SCHNEIDERMAN","6431 Pebble Creek Way",5616372821,FL,33437,02-06-1935,"Boynton Beach","smart watch",Female,Leslie.Sandler,"Med Guard Alert",Transferred,"Allen Smith","Not interested","Adam Steve",,"pt already has a smartwatch from life alert and thought we were calling from the same company",01-05-2026,,HU1,allen.smith,,,
 ,,,,,,,0,,,"Gertrude Kramer","137 Crab Tree Ln",2626375014,WI,53406,10-01-1939,Racine,"smart watch",Female,aria.parker,"Med Guard Alert",Transferred,"Sarah Adams","Not interested","Lisa Hanz",,"PT thought that we're from her DR office, not interested in proceeding",01-05-2026,,OSX,jacob.miller,,,
-,,,,,,,0,,,"karen Darsie","915 NW 30th St,",5417520280,or,97330,26-01-1946,Corvallis,necklace,Female,Alexia.Jordan,"Med Guard Alert",Transferred,"Tim ford",Cancelled,"Summer Hudson",,"Dropped with the client. Pt said she wants to speak to her kids first and to call her back on Monday.",01-05-2026,,OSX,s.hudson,,,
-,,,,,,,0,,,"HILDEGARD KOEPKE","2215 S 15th St","9207838929 land line 920946252",WI,53081,28-08-1939,Sheboygan,necklace,Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith","Not Eligible","Maeve White",,"pt signed a contract with life alert till Nov 2026 , she tried to cancel before tho but they refused",01-05-2026,,OSX,maeve.white,,,
+,,,,,,,0,,,"karen Darsie","915 NW 30th St,",5417520280,OR,97330,26-01-1946,Corvallis,necklace,Female,Alexia.Jordan,"Med Guard Alert",Transferred,"Tim ford","Not interested","Summer Hudson",,"Dropped with the client. Pt said she wants to speak to her kids first and to call her back on Monday.
+
+She said she is not interested.",01-05-2026,,OSX,s.hudson,,,
+,,,,,,,0,,,"HILDEGARD KOEPKE","2215 S 15th St","9207838929 land line 920946252",WI,53081,28-08-1939,Sheboygan,necklace,Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith","Not Eligible","Maeve White",,"pt signed a contract with life alert till Nov 2027
+ , she tried to cancel before tho but they refused",01-05-2026,,OSX,maeve.white,,,
 Robert,04-05-2026,,,,,,0,,,"James F Book","289 N 1st St",6185267532,IL,62230,03-10-1941,Breese,necklace,Male,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Lilly Williams",01-05-2026,,01-05-2026,01-05-2026,OSX,lean.stephen,,,
 ,,,,,,,0,,,"Linda Ballard","83 sunny ln",8455921858,ny,12582,24-06-1948,stormville,necklace,Female,"Ivy Brooks","Med Guard Alert",Transferred,"Andrew Cabello","Not Eligible","Lisa Hanz",,"DUP with the client",01-05-2026,,OSX,J.williams,,,
 ,,,,,,,0,,,"mary b Sullivan","24 Illinois Ave",6177764968,MA,2145,15-01-1935,Somerville,"smart watch",Female,ivy.owen,"Med Guard Alert",Transferred,"Helen green","Not interested","Summer Hudson",,"Pt refused to give her info on the phone and said she was scammed with her medicare card before. She said to call her on the 15th untill she researched the company.",01-05-2026,,HU1,s.hudson,,,
@@ -1373,8 +1479,28 @@ Disclosure Confirmed, Warm Transfer
 - PT IS PROBABLY BLUFFING",01-05-2026,,HU1,maeve.white,,,
 ,,,,,,,0,,,"RUTH GRIGGS","1233 Kimball Ave",6204210639,ks,67357,12-03-1926,Parsons,"smart watch",Female,Marco.Hale,"Med Guard Alert",Transferred,"Tim ford",Postdated,"Lilly Williams",01-05-2026,"PT Will Pay On 06/05/2026",01-05-2026,05-06-2026,HU1,J.williams,,,
 ,,,,,,,0,,,"Katherine Garcia","108  S P ST APT 302A",5596459410,CA,93637,24-08-1956,MADERA,"smart watch",Female,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Lisa Hanz",01-05-2026,"PT Will Pay On 5/28/2026",01-05-2026,28-05-2026,OSX,J.williams,,,
-,,,,,,,0,,,"Myrtle Harris","Apt 2  4143 W Washington Blvd",7735654924,IL,60624,22-07-1938,Chicago,"smart watch",Female,nina.lawrence,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Summer Hudson",01-05-2026,"PT Paid Today",01-05-2026,01-05-2026,OSX,J.williams,,,
-,,,,,,,0,,,"Roxanna McLean","21 New Jersey St",2077239582,GB,4462,01-05-2026,Millinocket,necklace,Female,"Rebecca Cruz","Med Guard Alert",Transferred,"Adam steve","Follow up","Maeve White",,"Pt said that will take forever and hung up right away 
+Robert,04-05-2026,17,https://drive.google.com/drive/folders/1FkgM7htPx1LFudRXtVPeOfbuqC9KFtuU?usp=drive_link,Handled,04-05-2026,"Opening & Compliance
+Greeting, Purpose, Tone
+15/15
+Qualification
+Health Check, Fall Risk, Living Situation
+14/15
+Product Explanation
+24/7, Coverage, Fall Detection, Water Resistance
+15/15
+Pricing Transparency
+No upfront, Monthly Fee, Value Framing
+14/15
+Billing & Payment
+Billing Date Control, No Immediate Charge
+14/15
+Closing
+Guided Choice, Trial Close
+12/15
+Transfer & Disclosure
+Disclosure Confirmed, Warm Transfer
+15/15",1,04-05-2026,9/10,"Myrtle Harris","Apt 2  4143 W Washington Blvd",7735654924,IL,60624,22-07-1938,Chicago,"smart watch",Female,nina.lawrence,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Summer Hudson",01-05-2026,"PT Paid Today",01-05-2026,01-05-2026,OSX,lean.stephen,,,
+,,,,,,,0,,,"Roxanna McLean","21 New Jersey St",2077239582,ME,4462,01-05-2026,Millinocket,necklace,Female,"Rebecca Cruz","Med Guard Alert",Transferred,"Adam steve","Follow up","Maeve White",,"Pt said that will take forever and hung up right away 
 
 - i tried to reach her back multiple times NA",01-05-2026,,HU1,maeve.white,,,
 ,,,,,,,0,,,"Roberta M Bowman",5415529154,5415529154,OR,97520,01-11-1941,Ashland,"smart watch",Female,kate.carter,"Med Guard Alert","Call Back","Claudia Wilson",,,,"PT is very interested however she has to talk it over with her husband who isn't available atm, asked for a cb Monday morning",01-05-2026,,,kate.carter,,,
@@ -1382,12 +1508,197 @@ Disclosure Confirmed, Warm Transfer
 did not want to process the payment until she got the device",01-05-2026,,HU1,J.williams,,,
 ,,,,,,,0,,,"Adeline J Schaapman","24345 S Olive Ave",2095993421,ca,95366,06-08-1932,Ripon,"smart watch",Female,daisy.russel,"Med Guard Alert","Call Back","Bella Pierce","Follow up","Maeve White",,,01-05-2026,,OSX,Daisy.Russell,,,
 ,,,,,,,0,,,"FELIX OROZCO","11 Cliff Rd W",6318861226,NY,11792,22-12-1936,"Wading River","smart watch",,"Dave Christopher","Med Guard Alert",Transferred,"Dona Johnson","Not interested","Lisa Hanz",,"Reached the pt back , he said he will not pay until he received the device 1st",01-05-2026,,SA,M.David,,,
-Robert,04-05-2026,,,,,,0,,,"Louise Mesmer","34883 Carter Street Rd",3154050891,NY,13656,04-12-1953,"La Fargeville",necklace,Female,eren.smith,"Med Guard Alert",Transferred,"Bella Pierce",Approved,"Summer Hudson",01-05-2026,"PT Paid Today",01-05-2026,01-05-2026,,lean.stephen,,,
-,,,,,,,0,,,"carol e HORNBUCKLE","17400 County Rd 97",5306628432,CA,95695,05-01-1937,Woodland,necklace,Female,tia.watson,"Med Guard Alert",Transferred,"Helen green","Follow up","Maeve White",,"Missing connecting the PT to the client, Scheduled a call back on Monday as they're done for today",01-05-2026,,OSX,J.williams,,,
-,,,,,,,0,,,"Alfred Holz","400 Ilse Dr",3027373123,DE,19713,04-05-1936,Newark,necklace,Male,ivy.owen,"Med Guard Alert",Transferred,"Helen green","Follow up","Lilly Williams",,"asked for a call back on Tuesday .. as he doesn't have the card",01-05-2026,,,J.williams,,,
-,,,,,,,0,,,"Ronald Kennedy","1402 Manning St",6186871124,IL,62966,22-03-1939,Murphysboro,necklace,Male,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson","Follow up","Lisa Hanz",,"Client is done for today will callback later",01-05-2026,,,l.hanz,,,
+Robert,04-05-2026,10,https://drive.google.com/drive/folders/1yNqW_p0pAfiSIT5H6zI3FwRBLuk84srq?usp=drive_link,Smooth,04-05-2026,"Opening & Compliance
+Greeting, Purpose, Tone
+15/15
+Qualification
+Health Check, Fall Risk, Living Situation
+15/15
+Product Explanation
+24/7, Coverage, Fall Detection, Water Resistance
+15/15
+Pricing Transparency
+No upfront, Monthly Fee, Value Framing
+15/15
+Billing & Payment
+Billing Date Control, No Immediate Charge
+15/15
+Closing
+Guided Choice, Trial Close
+12/15
+Transfer & Disclosure
+Disclosure Confirmed, Warm Transfer
+1/15",1,04-05-2026,10/10,"Louise Mesmer","34883 Carter Street Rd",3154050891,NY,13656,04-12-1953,"La Fargeville",necklace,Female,eren.smith,"Med Guard Alert",Transferred,"Bella Pierce",Approved,"Summer Hudson",01-05-2026,"PT Paid Today",01-05-2026,01-05-2026,OSX,lean.stephen,,,
+,,,,,,,0,,,"carol e HORNBUCKLE","17400 County Rd 97",5306628432,CA,95695,05-01-1937,Woodland,necklace,Female,tia.watson,"Med Guard Alert",Transferred,"Helen green","Not Eligible","Maeve White",,"Connected to the client 
+PT has a contract with her current company, MedGuard will reject the order",01-05-2026,,OSX,J.williams,,,
+,,,,,,,0,,,"Alfred Holz","400 Ilse Dr",3027373123,DE,19713,04-05-1936,Newark,necklace,Male,ivy.owen,"Med Guard Alert",Transferred,"Helen green",Postdated,"Lilly Williams",05-05-2026,"will pay on 05/20/2026",01-05-2026,20-05-2026,SA,M.David,,,
+,,,,,,,0,,,"Ronald Kennedy","1402 Manning St",6186871124,IL,62966,22-03-1939,Murphysboro,necklace,Male,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson","Follow up","Lisa Hanz",,"Client is done for today will callback later
+: Called back he said I decided I don't Want it",01-05-2026,,,M.David,,,
 ,,,,,,,0,,,"Sybil A Oxman","280 Boylston St Apt 210",6172446694,MA,2459,11-03-1940,Newton,"smart watch",Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson","Follow up","Maeve White",,"- Lead was not transferred, PT's daughter called back.
 
-- PT asked for a callback as she will need to think about it",04-05-2026,,,J.williams,,,
-,,,,,,,0,,,"Gwndolyn Johnson","249 Ferris Ave",5673776329,OH,43608,01-03-1955,Toledo,"smart watch",Female,irwin.clinton,"Med Guard Alert",Transferred,"Bella Pierce",,"Lilly Williams",,,04-05-2026,,SA,J.williams,,,
-,,,,,,,0,,,"Mark Pitchard","8 Oflinn St",5408432070,VA,22835,18-12-1957,Luray,"smart watch",Male,jannet.parker,"Med Guard Alert",Transferred,"Claudia Wilson",,"Lisa Hanz",,,04-05-2026,,SA,J.williams,,,
+- PT asked for a callback as she will need to think about it",04-05-2026,,HU1,jacob.miller,,,
+,,,,,,,0,,,"Gwndolyn Johnson","249 Ferris Ave",5673776329,OH,43608,01-03-1955,Toledo,"smart watch",Female,irwin.clinton,"Med Guard Alert",Transferred,"Bella Pierce",Approved,"Lilly Williams",04-05-2026,"PT Paid Today",04-05-2026,04-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"Mark Pitchard","8 Oflinn St",5408432070,VA,22835,18-12-1957,Luray,"smart watch",Male,jannet.parker,"Med Guard Alert",Transferred,"Claudia Wilson",Approved,"Lisa Hanz",05-05-2026,"pt paid  on 05/05/2026",04-05-2026,05-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"Derrel  Larsen","8694 Northstar Cir",3304210811,OH,0,05-08-1955,,"smart watch",,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams","Not interested","Summer Hudson",,"He said send me the device first to know you are on the up & up then I will pay, otherwise  I will pass Kindly .",04-05-2026,,SA,s.hudson,,,
+,,,,,,,0,,,"Lula Williams","5169 W Coldwater Rd",8102300687,MI,48504,07-11-1945,Flint,necklace,Female,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg","Pending Bank Approval","Maeve White",04-05-2026,"PT Paid Today",04-05-2026,04-05-2026,OSX,J.williams,,,
+,,,,,,,0,,,"James Senig","10937 Main St",7404742091-7404129156,OH,43154,03-10-1955,Stoutsville,"smart watch",Male,rachel.adam,"Med Guard Alert",Transferred,"Adam steve",Postdated,"Lilly Williams",05-05-2026,"will pay on 05/13/2026",04-05-2026,13-05-2026,SA,M.David,,,
+,,,,,,,0,,,"Mary Griffin","2613 Burr Pond Rd",8022475933,VT,5733,05-04-1948,Sudbury,necklace,Female,Maddie.Henson,"Med Guard Alert",Transferred,"Chris Heisenberg","Not Eligible","Lisa Hanz",,"DUP with the client",04-05-2026,,SA,J.williams,,,
+,,,,,,,0,,,"MARILYN WALSER","33 West Ln Bay Shore 11706NY",6316651313,NY,11706,04-07-1937,"Bay Shore","smart watch",Female,natalie.fred,"Med Guard Alert",Transferred,"Sarah Adams",Cancelled,"Summer Hudson",,"Medguard agent told the customer to call Life alert and cancel the necklace first as she could be in  a 2 or 5 year contract . Then call Medguard back to get the smartwatch.",04-05-2026,,SA,s.hudson,,,
+,,,,,,,0,,,"Janet E Calusdian","63 Highland St",5086686066,MA,2081,01-05-2026,Walpole,"smart watch",Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson","Follow up","Tony Smith",,"Pt heard the price wrong, while filling the form said she has to think about the price and asked for a call back",04-05-2026,,HU1,jacob.miller,,,
+,,,,,,,0,,,"Geraldine Wuertz","17279 Fairway Cir",3206857039,mn,56320,02-06-1937,Wuertz,"smart watch",Female,renee.adams,"Med Guard Alert",Transferred,"Dona Johnson","Not interested","Maeve White",,"PT thought we're from the same company
+After explaining that it's a different company she insisted on not switching companies
+
+- Reached the pt back , she confirmed that she is not interested & hung up",04-05-2026,,HU1,maeve.white,,,
+,,,,,,,0,,,"David  Davis","19372 Highway 50 W",6624947134,MS,39741,25-07-1943,Cedarbluff,"smart watch",,renee.adams,"Med Guard Alert",Transferred,"Dona Johnson",Approved,"Lilly Williams",04-05-2026,"PT Paid Today",04-05-2026,04-05-2026,HU1,J.williams,,,
+,,,,,,,0,,,"Margaret Owens","1212 Great Falls Hwy",8033853008,SC,29706,02-06-1942,Chester,necklace,Female,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg",Postdated,"Lisa Hanz",04-05-2026,"PT will pay on 05/27/2026",04-05-2026,27-05-2026,OSX,J.williams,,,
+,,,,,,,0,,,"Mary Mitchell","3211 Throop Ave",7188820118,ny,10469,29-03-1941,bronx,necklace,Female,tia.watson,"Med Guard Alert",Transferred,"Helen green","Not interested","Summer Hudson",,"pt says she doesn't wanna have an automatic payment and wants us to send her a bill every month.",04-05-2026,,HU1,s.hudson,,,
+,,,,,,,0,,,"Betty J Bohlander","1621 Madison Avenue",6315877573,NY,11795,12-04-1942,"West Islip",necklace,,"Jordi Downey","Med Guard Alert",Transferred,"Timothy Williams","Not Eligible","Maeve White",,"DUP from our side, Done as a sale 2 weeks ago",04-05-2026,,OSX,j.Moren,,,
+,,,,,,,0,,,"CATHERINE ROBERTO","9201 Shore Rd",7188331424,ny,11209,07-07-1938,brooklyn,"smart watch",,tracy.bill,"Med Guard Alert","Call Back","Chris Heisenberg",,,,,04-06-2026,,HU1,tracy.bill,,,
+,,,,,,,0,,,"LEONA STOUT","90 ANDERSON",5184837633,NY,12966,04-05-2026,"North Bangor",necklace,Female,"Vivian William","Med Guard Alert",Transferred,"Dona Johnson",Approved,"Lilly Williams",04-05-2026,"PT Paid Today",04-05-2026,04-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"Shirley E Toms","8665 Brooksville Heights",5404566873,va,22943,25-01-1955,Greenwood,necklace,Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams","Pending Bank Approval","Maeve White",04-05-2026,"PT Paid Today",04-05-2026,04-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"CARROLL ROGERS","211 Snead Dr Crossville TN 38558.0",9314847176,TN,38558,15-05-1939,Crossville,"smart watch",Male,natalie.fred,"Med Guard Alert",Transferred,"Sarah Adams","Not interested","Lisa Hanz",,"pt wants to think and search about the company first as he refused to give out any banking info",04-05-2026,,SA,jacob.miller,,,
+,,,,,,,0,,,"DORIS WEBB","1690 Buena Vista St",9313596778,TN,37091,10-10-1937,Lewisburg,"smart watch",Female,Alexia.Jordan,"Med Guard Alert",Transferred,"Tim ford","Not Eligible","Summer Hudson",,"Pt has a smartwatch with Medgauard she got it 2 weeks ago.",04-05-2026,,SA,J.williams,,,
+Robert,04-05-2026,12,https://drive.google.com/drive/folders/1FBeeeRCjC1tTd2AVrAXmDvYgGTHVuMPE?usp=drive_link,Smooth,04-05-2026,"Opening & Compliance
+Greeting, Purpose, Tone
+15/15
+Qualification
+Health Check, Fall Risk, Living Situation
+14/15
+Product Explanation
+24/7, Coverage, Fall Detection, Water Resistance
+15/15
+Pricing Transparency
+No upfront, Monthly Fee, Value Framing
+14/15
+Billing & Payment
+Billing Date Control, No Immediate Charge
+14/15
+Closing
+Guided Choice, Trial Close
+12/15
+Transfer & Disclosure
+Disclosure Confirmed, Warm Transfer
+15/15",1,04-05-2026,10/10,"Carlene Beale","8472 17th St N",4235700981,FL,33702,12-08-1939,"Saint Petersburg","smart watch",Female,dona.johnson,"Med Guard Alert",Transferred,"Dona Johnson",Approved,"Maeve White",04-05-2026,"- PT was connected to the client on 4/22/2026 however her card declined
+
+- Called back and paid today",04-05-2026,04-05-2026,OSX,lean.stephen,,,
+,,,,,,,0,,,"Barbara NELSON","592 County Road u",6089672256,WI,53565,18-10-1943,"Mineral Point",necklace,Female,sia.donald,"Med Guard Alert",Transferred,"Timothy Williams","Pending Bank Approval","Maeve White",04-05-2026,"PT Paid Today",04-05-2026,04-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"Trudy A Brigode","202 Hunt Club Dr",7248340366,pa,15601,01-01-1948,Greensburg,,Female,ashley.sed,"Med Guard Alert","Call Back","Helen green",,,,"not sure about the dob",04-05-2026,,OSX,ashley.sed,,,
+,,,,,,,0,,,"Beverly A Meyer","600 Chestnut St",7154432377,WI,54448,30-08-1938,"Marathon City,","smart watch",Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams","Not Eligible","Lilly Williams",,"confirmed with the client that she cannot afford it",04-05-2026,,SA,M.David,,,
+,,,,,,,0,,,"Susan J Trump","18 Lake Farm Ln",5082478122,MA,2653,27-08-1938,Orleans,necklace,Female,irwin.clinton,"Med Guard Alert",Transferred,"Bella Pierce","Not interested","Summer Hudson",,"Pt already has a necklace and a smartwatch  with Bay Alarm and hasn't even opened them yet. She was mislead to believe that we are the same company and that she was getting an upgrade and we would cancel her old one automatically.",04-05-2026,,SA,s.hudson,,,
+,,,,,,,0,,,"Betty Bronson","8579 route 9",5188739869,NY,1295,14-02-1940,Lewis,necklace,Female,"Nessa Miles","Med Guard Alert",Transferred,"Claudia Wilson","Not interested","Lisa Hanz",,"PT is very bothered and not interested",04-05-2026,,OSX,l.hanz,,,
+,,,,,,,0,,,"Nadine Carter","148 2Nd Ave S",9315379700,TN,38506,07-10-1936,Cookeville,necklace,Female,jannet.parker,"Med Guard Alert",Transferred,"Claudia Wilson",Cancelled,"Maeve White",,"Connected to the client
+Daughter interrupted, Asked to cancel everything and not to call back",04-05-2026,,SA,J.williams,,,
+,,,,,,,0,,,"Charles Woodard","10207 Old State Rd",3154933489,NY,13619,27-01-1939,Carthage,necklace,Male,lara.knight,"Med Guard Alert",Transferred,"Sarah Adams","Not interested","Summer Hudson",,"Thought we were the same Company. Once clarified she said we'll stay with Life Net and hung up.",04-05-2026,,OSX,jacob.miller,,,
+,,,,,,,0,,,"carmen t wilson","555 crocker st apt711  90013 los angeles ca",5627533071,ca,90013,05-10-1976,"los angeles",necklace,Female,mackenzie.cane,"Med Guard Alert",Transferred,"Helen green","Retreansfer to client","Marcelle David",,,04-05-2026,,SA,J.williams,,,
+,,,,,,,0,,,"MARGARET LYGA","539 Tilson St N",6087860498,WI,54669,20-06-1937,"West Salem","smart watch",Female,Maddie.Henson,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lilly Williams",05-05-2026,"PT Paid Today",04-05-2026,05-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"Nancy J Hurlburt","2244 County Road 28",5853940420,NY,14424,04-05-2026,Canandaigua,"smart watch",Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Lisa Hanz",05-05-2026,"she reached the bank yesterday and she authorized the payment , and amount was charged",04-05-2026,04-05-2026,OSX,M.David,,,
+,,,,,,,0,,,"Joan E. Drinkwine","880 hyw 15",6014986405,MS,39481,14-04-1949,"north Stringer","smart watch",Female,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg","Not Eligible","Maeve White",,"Connected to the client 
+hung up when asked to confirm the card number
+
+- Called back yesterday and reconnected the PT to client several times however the line kept disconnecting from her side 
+
+- Called back today, PT already ordered a smart watch from another company earlier today",04-05-2026,,OSX,J.williams,,,
+,,,,,,,0,,,"William Mccall","8816 Bold Ruler Way",9169666653,CA,95628,22-03-1932,"Fair Oaks","smart watch",Male,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith","Not Eligible","Lilly Williams",,duplicated,04-05-2026,,OSX,lily.williams,,,
+,,,,,,,0,,,"Ann-marie Benner","5 Little House of Prayer Dr,",2075905354,ME,4005,14-05-1971,Biddeford,"smart watch",Female,eren.smith,"Med Guard Alert",Transferred,"Bella Pierce","Follow up","Maeve White",,"Form submitted , Missing connecting to the client as they were on break",04-05-2026,,OSX,maeve.white,,,
+,,,,,,,0,,,"FRANK RAGO","29960 Deal Island Rd",4106514208,MD,21853,07-08-1947,"PRINCESS ANNE","smart watch",Male,"Rebecca Cruz","Med Guard Alert","Red Flag","Adam steve","Not interested","Summer Hudson",,"wants to write a cheque.",04-05-2026,04-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"harriet nelson","5713 N State Line",5092262747,WA,99025,25-01-1938,"Newman Lake",necklace,Male,oliver.smith,"Med Guard Alert",Transferred,"Timothy Williams","Not Eligible","Lisa Hanz",,"PT kept saying to cancel this as she cannot afford it",04-05-2026,,HU1,jacob.miller,,,
+,,,,,,,0,,,"KATHRYN PRIM","gordomn ring 50 sw huntoon app 1603",7852496518,ks,66604,01-01-1940,topeka,"smart watch",Female,"Nessa Miles","Med Guard Alert",Transferred,"Claudia Wilson","Retreansfer to client","Lilly Williams",,"Card Declined, PT needs to contact her bank
+=================
+she said that she has to decline that order until she get a new account set up",04-05-2026,,OSX,lily.williams,,,
+,,,,,,,0,,,"Genevia Boyd","2401 13th St",8632331202,FL,33440,15-12-1955,Clewiston,"smart watch",Female,"Kylie Lopez","Med Guard Alert",Transferred,"Kylie Lopez","Follow up","Summer Hudson",,"Pt's son said he will call us back.",04-05-2026,,OSX,s.hudson,,,
+,,,,,,,0,,,"VIRGINIA WEIMER","256 CENTENNIAL STREET",3016899892,MD,21532,14-12-1949,FROSTBURG,necklace,Female,Secarlett.Gray,"Med Guard Alert",Transferred,"Kylie Lopez",Approved,"Maeve White",04-05-2026,"PT Paid Today",04-05-2026,04-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"MARY MARTIN","320 W Court St",5306619394,Ca,95695,18-08-1937,Woodland,necklace,Male,"Brandon Collins","Med Guard Alert",Transferred,"Tim ford","Not Eligible","Lisa Hanz",,"PT is already waiting for a device from another company",04-05-2026,,HU1,jacob.miller,,,
+,,,,,,,0,,,"JEANETTE WHORMS","16821 SW 113th Ave",3052384953,FL,33157,27-03-1943,Miami,necklace,Female,"Amanda Morgan","Med Guard Alert",Transferred,"Dona Johnson",Approved,"Summer Hudson",04-05-2026,"PT Paid Today",04-05-2026,04-05-2026,OSX,J.williams,,,
+,,,,,,,0,,,"MARI BOTHAMLEY","2200 W 5TH ST APT 103",3076555679,WI,82801,04-04-1961,SHERIDAN,"smart watch",Female,Maddie.Henson,"Med Guard Alert","Red Flag","Chris Heisenberg","Pending Bank Approval","Lisa Hanz",04-05-2026,"PT Paid Today",04-05-2026,04-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"RORY BOOZAM","18 azanic court right",8604468418,ct,6340,16-11-1949,GROTON,"smart watch",Male,"Grace Cooper","Med Guard Alert",Transferred,"Kylie Lopez",Cancelled,"Summer Hudson",,"-Connected to the client
+Customer decided to cancel tried to handle but he insisted on cancelling",04-05-2026,,SA,J.williams,,,
+,,,,,,,0,,,"Judith PERKINS","5 Conboy Heights",8609273692,ct,6757,01-07-1946,kent,necklace,Female,Secarlett.Gray,"Med Guard Alert",Transferred,"Kylie Lopez","Not interested","Lilly Williams",,"pt doesn't want to confirm any numbers",04-05-2026,,SA,lily.williams,,,
+,,,,,,,0,,,"NANCY JOHNSON","20 Concannon Rd",6033826791,NH,3848,07-09-1937,Kingston,necklace,Female,emma.becker,"Med Guard Alert",Transferred,"Chris Heisenberg","Not interested","Lisa Hanz",,"PT is not interested in paying kept saying it's not needed",04-05-2026,,HU1,l.hanz,,,
+,,,,,,,0,,,"Elizabeth Tavares","1615 SE 145th Ct",5105178759,WA,98683,01-07-1952,Vancouver,necklace,Female,"Jordi Downey","Med Guard Alert",Transferred,"Timothy Williams",Postdated,"Lilly Williams",04-05-2026,"PT will pay on 05-11-2026",04-05-2026,11-05-2026,OSX,j.Moren,,,
+,,,,,,,0,,,"SYLVIA CUSH","9307 Normandie Ave #3",3232427861,CA,90044,28-01-1940,"Los Angeles","smart watch",Female,"Leo Belford","Med Guard Alert",Transferred,"Claudia Wilson","Follow up","Lisa Hanz",,"PT is busy rn asked for a call back later",04-05-2026,,OSX,l.hanz,,,
+,,,,,,,0,,,"RUTH NARLOCH","7877 Hammond Ln apt 7",2319721935,MI,49332,16-12-1935,Mecosta,necklace,Female,"Jordi Downey","Med Guard Alert",Transferred,"Timothy Williams","Follow up","Lisa Hanz",,"Couldn't find her checkbook to confirm the info, asked for a call back by 3 or 4 afternoon// PT couldn't provide me with the right checking info at all will call her again later for the bank card instead",05-05-2026,,OSX,l.hanz,,,
+,,,,,,,0,,,"Hazel A Dunn","14937 Heavenly Acres Rdg",3016785867,MD,21750,01-09-1947,hancock,necklace,Female,Alexia.Jordan,"Med Guard Alert",Transferred,"Tim ford","Follow up","Lilly Williams",,"PT went to grab her card and never came back
+=============
+called back AM",05-05-2026,,SA,lily.williams,,,
+,,,,,,,0,,,"SANDRA L WRIGHT","105 S Jackson Ave",3042527789,WV,25801,15-08-1943,Beckley,necklace,Female,nova.lopez,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Summer Hudson",05-05-2026,"PT Paid Today",05-05-2026,05-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"Kosal Kelly","4023 Olley Ln Apt 203",7038460338,VA,22032,31-12-1941,Fairfax,"smart watch",Female,wanda.anderson,"Med Guard Alert",Transferred,"Timothy Williams","Not interested","Maeve White",,"pt insisted on paying through her insurance or with a cheque which is not acceptable",05-05-2026,,SA,maeve.white,,,
+,,,,,,,0,,,"Doris J Richard","123 Longview Rd",5089956561,MA,2745,02-09-1937,"New Bedford,",necklace,Female,tia.watson,"Med Guard Alert",Transferred,"Helen green",Cancelled,"Lilly Williams",,"once i transferred the pt she said i want to cancel everything",05-05-2026,,HU1,lily.williams,,,
+,,,,,,,0,,,"Lyle A Dominy","149 Wheelock Ave",5082776392,MA,1527,26-12-1940,Millbury,"smart watch",Male,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Approved,"Tony Smith",05-05-2026,"PT Paid Today",05-05-2026,05-05-2026,HU1,J.williams,,,
+,,,,,,,0,,,"MARIA MONTVILA",MONTVILA,2037752009,fl,32174,17-02-1941,"ormond beach",necklace,Female,ryan.reid,"Med Guard Alert",Transferred,"Chris Heisenberg",Cancelled,"Lisa Hanz",,"Connected to the client 
+her son told her not to confirm her billing info",05-05-2026,,HU1,henry.kai,,,
+,,,,,,,0,,,"Arloene Morgan","9 Prairie St",3153539959,NY,13668,04-03-1937,Norwood,necklace,Female,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Summer Hudson",05-05-2026,"Pt paid today.",05-05-2026,05-05-2026,OSX,s.hudson,,,
+,,,,,,,0,,,"Mazie   Worsham","3404 Knights Rd Apt 67",2156395016,PA,19020,29-07-1938,Bensalem,"smart watch",Female,renee.adams,"Med Guard Alert",Transferred,"Dona Johnson",Approved,"Maeve White",05-05-2026,"Pt paid today",05-05-2026,05-05-2026,HU1,maeve.white,,,
+,,,,,,,0,,,"Margaret W Zottoli","974 Erickson Rd",9783867059,MA,1431,22-09-1938,Ashby,necklace,Female,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson",Cancelled,"Tony Smith",,"Client's Feedback : 	she wasnt aware that its a monthly payment so she changed her mind and canceled",05-05-2026,,HU1,J.williams,,,
+,,,,,,,0,,,"JANICE D ENGELBRECHT","3572 Maple Rd",2626770832,VI,53037,20-10-1940,Jackson,necklace,Female,"Rebecca Cruz","Med Guard Alert",Transferred,"Adam steve","Follow up","Lisa Hanz",,"PT wants to think about this first",05-05-2026,,SA,l.hanz,,,
+,,,,,,,0,,,"Stella Raper","2373 County Rd 561 Athens TN 37303.0",4232637273,Rd,37303,05-08-1935,Athens,necklace,Female,natalie.fred,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Lilly Williams",05-05-2026,"paid on 05/05/2026",05-05-2026,05-05-2026,SA,henry.kai,,,
+,,,,,,,0,,,"ROBERT ALLEN","923 Waterview Ln",7042921765,nc,28110,04-12-1936,Monroe,"smart watch",Male,ashley.sed,"Med Guard Alert","Call Back","Helen green",,,,,05-05-2026,,OSX,ashley.sed,,,
+,,,,,,,0,,,"RITA GIGUERE","40 St Andrews Drive",6035205839,NH,3110,23-02-1935,Bedford,necklace,Female,jolene.adam,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Maeve White",,"6035205839 LANDLINE
+6035205839 CELL PHONE 
+
+-pt insisted on speaking with medical alert first as she thought we are connected",05-05-2026,,,maeve.white,,,
+,,,,,,,0,,,"HILDA TALBOTT","909 Rose Ter, Perry",5808300077,OK,73077,02-09-1935,Perry,necklace,Female,Marco.Hale,"Med Guard Alert",Transferred,"Tim ford","Not interested","Summer Hudson",,"Doesn't know the name or the company of the necklace she has because her grandson is the one who set it up and said she would rather keep  it.",05-05-2026,,OSX,s.hudson,,,
+,,,,,,,0,,,"Mary Hudgins","320 south waco ave",8702653625,AR,72801,05-01-1939,Russellville,"smart watch",Female,Hazel.Anderson,"Med Guard Alert",Transferred,"Sarah Adams","Retreansfer to client","Lisa Hanz",,"customer went silent mid call/ NA",05-05-2026,,OSX,l.hanz,,,
+,,,,,,,0,,,"MARLENE MCCABE","1730 Pine Ridge Dr",6087811039,,54650,16-03-1939,,necklace,Female,"Kylie Lopez","Med Guard Alert",Transferred,"Kylie Lopez","Not interested","Lilly Williams",,"she doesn't want to confirm any numbers",05-05-2026,,OSX,lily.williams,,,
+,,,,,,,0,,,"GARY SCOTT","216 W LINE ST",6609464422,MO,64630,14-07-1961,BROWNING,necklace,,Hazel.Bennet,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Maeve White",05-05-2026,,05-05-2026,05-05-2026,OSX,maeve.white,,,
+,,,,,,,0,,,"marlene thompson","238 Steeplechase Cir",8159329596,IL,60914,17-01-1936,Bourbonnais,necklace,Female,Marco.Hale,"Med Guard Alert","Red Flag","Tim ford","Follow up","Lilly Williams",,"she asked for a call back as she is busy rn",05-05-2026,,OSX,J.williams,,,
+,,,,,,,0,,,"Lahoma Gray","8039 Okatibbee Dam Rd",6019340876,MS,39325,07-12-1941,Collinsville,"smart watch",Female,"Anthony Williamson","Med Guard Alert",Transferred,"Dona Johnson","Not Eligible","Summer Hudson",,"Pt is on a yearly contract with a different company.",05-05-2026,,HU1,s.hudson,,,
+,,,,,,,0,,,"Alexine A Diete","308 HILLSIDE DR",6302894717,IL,60107,14-04-1946,STREAMWOOD,"smart watch",Female,Celina.Gastro,"Med Guard Alert",Transferred,"Allen Smith","Retreansfer to client","Lilly Williams",,"Refused to be connected to MGA tried to handle Hung Up",05-05-2026,,OSX,J.williams,,,
+,,,,,,,0,,,"Kent Dew","9065 N Dresden Dr",8154675304,Morris,60450,30-10-1943,IL,necklace,Male,emma.becker,"Med Guard Alert",Transferred,"Chris Heisenberg","Follow up","Maeve White",,"PT doesnt have any access  to any bank info 
+kate his neighbor handles everything and he doesnt even have her pn",05-05-2026,,HU1,maeve.white,,,
+,,,,,,,0,,,"VIRGINIA PARKER","6246 AL-195",2053024627,AL,35503,16-07-1938,jasper,necklace,Female,"Olivia Kevin","Med Guard Alert",Transferred,"Tim ford","Follow up","Summer Hudson",,"was looking for her Bank info and asked for a call back in 15 minutes. Called back NA.
+
+Called back so many times it's AM.
+
+Pt asked to be called tomorrow morning because she left her billfold at her sisters'.
+
+Called back, PT doesn't have the information still and asked for a call back next week (Probably Bluffing)",05-05-2026,,OSX,J.williams,,,
+,,,,,,,0,,,"MIMI MICHEL","10824 W Connecticut Ave  Denver CO 80232",3039881991,,80232,07-08-1941,Denver,necklace,Female,natalie.fred,"Med Guard Alert",Transferred,"Sarah Adams","Not interested","Lisa Hanz",,"PT doesn't wanna give her bank info",05-05-2026,,SA,l.hanz,,,
+,,,,,,,0,,,"John Schriefer","1217 gertrude ave",2172023402,IL,61821,22-09-1958,Champaign,necklace,Male,"Nessa Miles","Med Guard Alert",Transferred,"Claudia Wilson",Approved,"Summer Hudson",06-05-2026,"Customer seemed aggravated throughout the process, offered a callback.
+
+Retransferred on 05/06/2026.Pt was still very aggravated and rude throughout despite being interested to get the device.
+
+Reconnected to the client : PT Paid Today (5/6/2026)",05-05-2026,06-05-2026,OSX,J.williams,,,
+,,,,,,,0,,,"DIANE WEINSTEIN","14844 Dickens St  CA 91403",8189905337,ca,91403,06-05-1933,"Sherman Oaks",necklace,Female,mackenzie.cane,"Med Guard Alert",Transferred,"Helen green","Not interested","Lilly Williams",,"she said i didn't order this , and i don't want it",05-05-2026,,SA,lily.williams,,,
+,,,,,,,0,,,"rovina RICHARDSON","138 Anderson St Sumter SC 29150",8039385381,St,29150,26-07-1948,Sumter,necklace,Female,"Mia Alexander","Med Guard Alert",Transferred,"Andrew Cabello",Approved,"Maeve White",05-05-2026,"Customer paid today",05-05-2026,05-05-2026,OSX,henry.kai,,,
+,,,,,,,0,,,"LOIS J ADAMEK","12366 INDEPENDENCE AVE",5862549594,MI,48315,11-01-1947,"SHELBY TOWNSHIP",necklace,Female,logan.fernandez,"Med Guard Alert",Transferred,"Timothy Williams",Approved,"Lilly Williams",05-05-2026,"Paid on 05/05/2026",05-05-2026,05-05-2026,,M.David,,,
+,,,,,,,0,,,"Joel R Embick","1454 N Evergreen St",8188488909,CA,91505,22-07-1938,Burbank,necklace,Male,irwin.clinton,"Med Guard Alert",Transferred,"Bella Pierce","Follow up","Lisa Hanz",,"PT asked for a call back later",05-05-2026,,SA,l.hanz,,,
+,,,,,,,0,,,"Frank E Gardner","314 johnson st",5073735272,MN,56007,01-11-1934,"Albert Lea","smart watch",,kate.carter,"Med Guard Alert","Not Eligible","Claudia Wilson","Not Eligible","Tony Smith",,"CRM was created twice for the same lead",05-05-2026,,,J.williams,,,
+,,,,,,,0,,,"Gilbert j Ramirez","2570 Leeds Ct",9254433876,CA,94551,26-11-1936,Livermore,necklace,Male,lara.knight,"Med Guard Alert",Transferred,"Sarah Adams",Approved,"Summer Hudson",05-05-2026,"cell phone : 9253155081
+Pt paid today.",05-05-2026,05-05-2026,OSX,s.hudson,,,
+,,,,,,,0,,,"Carroll Simmons","808 W 138th St",3107637955,CA,90222,01-09-1939,Compton,"smart watch",Male,emma.becker,"Med Guard Alert",Transferred,"Chris Heisenberg",Approved,"Lilly Williams",05-05-2026,"PT Paid Today",05-05-2026,05-05-2026,HU1,J.williams,,,
+,,,,,,,0,,,"Sandy L Yao","1037 Rudgear Rd",9259328603,CA,94596,14-12-1939,"Walnut Creek",necklace,,ivy.owen,"Med Guard Alert","Not interested","Helen green",,,,,05-05-2026,,SA,J.williams,,,
+,,,,,,,0,,,"Alexander J. McTeer","2627 S Lamb Blvd 273",7026419243,NV,89121,30-07-1957,"Las Vegas","smart watch",Male,ivy.owen,"Med Guard Alert","Call Back","Helen green",,,,"lives alone 
+hbp sometimes
+asprin 
+fractured hip 
+went to the hospital recently",05-05-2026,,SA,ivy.owen,,,
+,,,,,,,0,,,"noah P levin","1245 17TH Avenue",4157595774,ca,94122,01-01-1943,"san francisco",necklace,Female,"Scarlett Mitchel","Med Guard Alert",Transferred,"Andrew Cabello","Not interested","Summer Hudson",,"She said she doesn't wanna pay for it once asked to grab the card.",05-05-2026,,,s.hudson,,,
+,,,,,,,0,,,"Clay Porter","137 amory st",8572072440,MA,2119,13-04-1956,roxbury,"smart watch",Male,"Kayla Miller","Med Guard Alert",Transferred,"Andrew Cabello",Approved,"Lisa Hanz",05-05-2026,"PT Paid Today",05-05-2026,05-05-2026,OSX,henry.kai,,,
+,,,,,,,0,,,"Beryl Beckner","9560 Sw Lodestone Dr",5039415294,OR,97007,15-08-1947,Beaverton,"smart watch",Female,Rosaline.Bennett,"Med Guard Alert",Transferred,"Chris Heisenberg","Not Eligible","Maeve White",,"PT is on a quarterly contract with her current company which is still active till August 2026",05-05-2026,,OSX,J.williams,,,
+,,,,,,,0,,,"Estelle Beck","997 Sunset Garden Ln #E",8055822074,ca,93065,17-02-1932,"Simi Valley","smart watch",Female,Marco.Hale,"Med Guard Alert",Transferred,"Tim ford","Not Eligible","Lisa Hanz",,"pt said she cannot afford this",05-05-2026,,OSX,M.David,,,
+,,,,,,,0,,,"MAUREEN ZIEMER","501 E Lyle St Milford IL 60953",8157856609,IL,60953,28-08-1950,Milford,necklace,Female,natalie.fred,"Med Guard Alert",Transferred,"Sarah Adams","Not interested","Maeve White",,"Pt thought that we are calling from medical alert & refused to switch companies",05-05-2026,,SA,maeve.white,,,
+,,,,,,,0,,,"ANGELINA DISCEPOLO","4561 N Canfield Ave",7084522682,IL,60706,02-04-1937,"Harwood Hts",necklace,Female,Maddie.Henson,"Med Guard Alert",Transferred,"Chris Heisenberg","Retreansfer to client","Lilly Williams",,"she is took sick to go over this right now needs call another day",05-05-2026,,SA,M.David,,,
+,,,,,,,0,,,"Willie M Allen","31 N 9TH ST",9737907079,nj,7522,19-03-1951,PATERSON,necklace,Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith","Not interested","Summer Hudson",,"PT thought we're from the same company ... 
+Started shouting once i said we are not SOS and said she wants nothing at all.",05-05-2026,,OSX,J.williams,,,
+,,,,,,,0,,,"ROSEMARY NORMAN","2304 Halifax Dr",2174157800,MI,62629,06-12-1939,Chatham,necklace,Female,"Rebecca Cruz","Med Guard Alert",Transferred,"Adam steve",Approved,"Maeve White",05-05-2026,"customer paid today",05-05-2026,05-05-2026,SA,maeve.white,,,
+,,,,,,,0,,,"bernard yourd","3544 Valley Vista Rd",6196726900,CA,0,04-07-1976,bonita,"smart watch",Male,"Maria Hernández","Med Guard Alert",Transferred,"Dona Johnson","Not interested","Lilly Williams",,"pt is bluffing",05-05-2026,,SA,lily.williams,,,
+,,,,,,,0,,,"Frank E Gardner","314 johnson st",5073735272,MN,56007,01-11-1934,"Albert Lea","smart watch",,kate.carter,"Med Guard Alert",Transferred,"Claudia Wilson","Retreansfer to client","Tony Smith",,"- Client's Feedback : Dead air when received
+
+- CRM was created twice for the same lead",05-05-2026,,HU1,J.williams,,,
+,,,,,,,0,,,"ann marie  MOSER","20378 128 st",3205923395,mn,56350,05-05-2026,mcgeath,"smart watch",Female,"Simon Henderson","Med Guard Alert",Transferred,"Timothy Williams","Follow up","Lilly Williams",,"can't recall the old company name and cannot find the necklace asked for a cb
+===============
+called back AM",05-05-2026,,,lily.williams,,,
+,,,,,,,0,,,"Carolyn  James","819 N Dargan St",8434076115,SC,29506,22-07-1962,Florence,necklace,Female,Hazel.Anderson,"Med Guard Alert",Transferred,"Sarah Adams","Not Eligible","Lilly Williams",,"she usually pay with cash",06-05-2026,,OSX,henry.kai,,,
+,,,,,,,0,,,"Jacqueline Naugle","17 N Water St",5703749346,pa,17870,09-04-1940,Selinsgrove,necklace,Female,Celina.Gastro,"Med Guard Alert",Transferred,"Allen Smith",Approved,"Lisa Hanz",06-05-2026,"paid on 05/06/2026",06-05-2026,06-05-2026,OSX,M.David,,,
+,,,,,,,0,,,"GAIL COHEN","424 Oak St",5166799280,ny,11710,24-08-1945,Bellmore,necklace,Female,Danny.Ashford,"Med Guard Alert",Transferred,"Allen Smith","Not interested","Summer Hudson",,"Mislead to believe we are the same Company.",06-05-2026,,OSX,s.hudson,,,
+,,,,,,,0,,,"DOLORES YONIS","805 4TH ST",7403745053,OH,45750,17-03-1935,MARIETTA,"smart watch",Female,"Irene Stevens","Med Guard Alert","Red Flag","Adam steve","Not interested","Lilly Williams",,"she wants us to send her something to read about the company",06-05-2026,,OSX,lily.williams,,,
+,,,,,,,0,,,"Wilbert T Pitts","10406 Harrison Rd",4106291069,MD,21811,30-07-1945,Berlin,"smart watch",Female,rachel.adam,"Med Guard Alert",Transferred,"Adam steve","Pending Bank Approval","Lisa Hanz",06-05-2026,"Payment sent to the bank",06-05-2026,06-05-2026,SA,J.williams,,,
+,,,,,,,0,,,"Sekwii Sha","900 Grand Concourse Apt 9BN",7184107087,NY,10451,19-09-1936,Bronx,"smart watch",Male,aria.parker,"Med Guard Alert","Red Flag","Sarah Adams","Follow up","Maeve White",,"pt didnt have access to his daughter's phone number nor to any bank info
+-i gave him our callback number & i'll try to reach him back",06-05-2026,,HU1,maeve.white,,,
+,,,,,,,0,,,"janice a FLOWER","6193 Ridgecrest Dr",3154586317,NY,13212,29-03-1941,Syracuse,"smart watch",Female,"Ruby Michael","Med Guard Alert",Transferred,"Dona Johnson",Approved,"Lilly Williams",06-05-2026,"paid on 05/06/2026",06-05-2026,06-05-2026,SA,M.David,,,
+,,,,,,,0,,,"Glen a FLOWER","6193 Ridgecrest Dr",3154586317,NY,13212,29-03-1941,Syracuse,"smart watch",Female,"Ruby Michael","Med Guard Alert",Transferred,"Dona Johnson",Approved,"Lilly Williams",06-05-2026,"paid on 05/06/2026",06-05-2026,06-05-2026,SA,M.David,,,
+,,,,,,,0,,,"ROBERT BEALE","1036 BRICE RD",6148681948,OH,43068,21-02-1953,REYNOLDSBURG,"smart watch",Male,candy.johns,"Med Guard Alert",Transferred,"Sarah Adams","Pending Bank Approval","Maeve White",06-05-2026,"Payment sent to the bank",06-05-2026,06-05-2026,HU1,J.williams,,,
+,,,,,,,0,,,"SUSAN R FLAGG","38 Parker Ave,NY,",3157698003,ny,13662,05-11-1956,Massena,necklace,Female,"Nessa Miles","Med Guard Alert","Red Flag","Claudia Wilson","Follow up","Summer Hudson",,"she has a necklace and doesn't know the name . She has a bank statement with the name on it but said she doesn't wanna get up and look for it now.",06-05-2026,,OSX,s.hudson,,,
+,,,,,,,0,,,"ROBERT l abel","2586 MORRIS MAJESTIC RD",2056877115,AL,35116,24-09-1959,MORRIS,"smart watch",Male,"Simon Henderson","Med Guard Alert",Transferred,"Timothy Williams",Approved,"Maeve White",06-05-2026,"customer will pay tomorrow",06-05-2026,07-05-2026,OSX,maeve.white,,,
+,,,,,,,0,,,"Miriam petrillo","26B 1600 W 9th Ave",8584136868,CA,92029,17-05-1955,Escondido,necklace,Female,"Tyler White","Med Guard Alert",Transferred,"Dona Johnson",,"Summer Hudson",,,06-05-2026,,OSX,s.hudson,,,
+,,,,,,,0,,,"Sandra L Miller","1888 Lighthouse Lodge Rd",7154793279,WI,54521,07-10-1942,"Eagle River","smart watch",Female,Rosaline.Bennett,"Med Guard Alert",Transferred,"Chris Heisenberg",,"Lilly Williams",,,06-05-2026,,OSX,J.williams,,,
