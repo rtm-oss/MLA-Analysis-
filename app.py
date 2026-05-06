@@ -56,7 +56,7 @@ df, opener_perf, final_details, app_cats, neu_cats, neg_cats = load_and_process_
 column_cfg = {
     "Success Ratio (%)": st.column_config.ProgressColumn(
         "Success Ratio",
-        format="%.2f%%", # سيقوم ستريمليت بضرب القيمة في 100 تلقائياً للعرض
+        format="%.0f%%", # سيقوم ستريمليت بضرب القيمة في 100 تلقائياً للعرض
         min_value=0,
         max_value=1 # القيمة القصوى للكسر العشري هي 1
     ),
