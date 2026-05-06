@@ -136,16 +136,23 @@ with col_table:
 
 with col_chart:
     st.subheader("📈 Top 10 Volume Leaders")
+    
+    # تحديث الـ y لتشمل التصنيفات الجديدة بدلاً من total_approved
     fig_top = px.bar(
         opener_perf.head(10), 
         x='Opener Name', 
-        y=['total_leads', 'total_approved'], 
+        y=['total_leads', 'approved', 'postdated', 'pending_bank_approval'], # الأسماء الجديدة هنا
         barmode='group',
-        labels={"value": "Count", "variable": "Metric"},
-        color_discrete_sequence=['#58a6ff', '#238636'],
+        labels={"value": "Count", "variable": "Status"},
+        color_discrete_sequence=['#58a6ff', '#238636', '#ffbd45', '#ff4b4b'], # ألوان متناسقة لكل حالة
         template="plotly_dark"
     )
-    fig_top.update_layout(margin=dict(t=10, b=0, l=0, r=0), height=380)
+    
+    fig_top.update_layout(
+        margin=dict(t=10, b=0, l=0, r=0), 
+        height=380,
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1)
+    )
     st.plotly_chart(fig_top, use_container_width=True)
 
 # --- Section 2: Individual Deep Dive ---
