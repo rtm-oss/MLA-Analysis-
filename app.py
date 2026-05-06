@@ -42,7 +42,7 @@ def load_and_process_data():
     ).reset_index()
     
     # 🔥 تعديل مهم: حساب النسبة ككسر عشري فقط (بدون ضرب في 100)
-    perf['Success Ratio (%)'] = (perf['total_approved'] / perf['total_leads'])
+    perf['Success Ratio (%)'] = (perf['total_approved'] / perf['total_leads']*100).round(2
     perf = perf.sort_values(by='total_leads', ascending=False)
     
     status_details = pd.crosstab(df['Opener Name'], df['Closing Status']).reset_index()
