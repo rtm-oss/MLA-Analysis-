@@ -108,7 +108,7 @@ global_ratio = (total_success / total_leads) if total_leads > 0 else 0
 # 4. عرض المقاييس
 m1.metric("Campaign Leads", f"{total_leads:,}")
 m2.metric("Total Success", f"{total_success:,}") 
-m3.metric("Global Success Rate", f"{(global_ratio * 100):.2f}%")
+m3.metric("Global Success Rate", f"{(global_ratio ):.2f}%")
 m4.metric("Active Agents", len(opener_perf))
 
 # --- Global Metrics Row 2 ---
