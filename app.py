@@ -93,22 +93,23 @@ with t2:
 # --- Global Metrics Row 1: Key Performance Indicators ---
 m1, m2, m3, m4, m5 = st.columns(5)
 
-# 1. الحسابات (تأكد من مطابقة هذه الأسماء تماماً مع السطر التالي)
-total_leads_val = opener_perf['total_leads'].sum()
-approved_val = opener_perf['approved'].sum()
-postdated_val = opener_perf['postdated'].sum()
-pending_val = opener_perf['pending_bank_approval'].sum()
+# 1. الحسابات (تأكد أن هذه الأسماء هي ما تستخدمه في الأسفل)
+leads_count = opener_perf['total_leads'].sum()
+approved_count = opener_perf['approved'].sum()
+postdated_count = opener_perf['postdated'].sum()
+pending_count = opener_perf['pending_bank_approval'].sum()
 
-# 2. حساب إجمالي النجاح والنسبة (باستخدام نفس المتغيرات المعرفة فوق)
-total_success_val = approved_val + postdated_val + pending_val
-global_ratio = (total_success_val / total_leads_val) if total_leads_val > 0 else 0
+# 2. حساب إجمالي النجاح (مجموع الثلاثة) والنسبة
+# ملاحظة: استخدمت _count في نهاية الأسماء لضمان عدم الخلط بينها وبين أسماء الأعمدة
+total_success_count = approved_count + postdated_count + pending_count
+global_success_rate = (total_success_count / leads_count) if leads_count > 0 else 0
 
-# 3. عرض البيانات في الـ Metrics (مطابقة لما طلبته في الصورة)
-m1.metric("Campaign Leads", f"{total_leads_val:,}")
-m2.metric("Approved ✅", f"{approved_val:,}")
-m3.metric("Postdated 📅", f"{postdated_val:,}")
-m4.metric("Pending Bank ⏳", f"{pending_val:,}")
-m5.metric("Global Success Rate", f"{(global_ratio * 100):.2f}%")
+# 3. عرض البيانات في الـ Metrics (كما في تصميمك المطلوب)
+m1.metric("Campaign Leads", f"{leads_count:,}")
+m2.metric("Approved ✅", f"{approved_count:,}")
+m3.metric("Postdated 📅", f"{postdated_count:,}")
+m4.metric("Pending Bank ⏳", f"{pending_count:,}")
+m5.metric("Global Success Rate", f"{(global_success_rate * 100):.2f}%")
 
 # 2. إجمالي النجاح (Approved + Postdated + Pending)
 total_success = total_approved_val + total_postdated_val + total_pending_val
