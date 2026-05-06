@@ -60,7 +60,7 @@ column_cfg = {
         # التعديل هنا: %.2f تعني إظهار رقمين عشريين، والـ %% تضرب في 100 وتضع العلامة
         format="%.2f%%", 
         min_value=0,
-        max_value=1
+        max_value=100
     ),
     "total_leads": "Volume",
     "total_approved": "Wins"
