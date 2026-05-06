@@ -162,11 +162,11 @@ if selected_opener:
     row = final_details[final_details['Opener Name'] == selected_opener].iloc[0]
     
     # حساب إجمالي النجاح للموظف المختار
-    ind_success = row['approved'] + row['postdated'] + row['pending_bank_approval']
+    ind_success = row['approved'] 
     
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Individual Leads", int(row['total_leads']))
-    c2.metric("Total Wins", int(ind_success)) # الإجمالي الجديد
+    c2.metric("Total Approved", int(ind_success)) # الإجمالي الجديد
     c3.metric("Success Rate", f"{(row['Success Ratio (%)']):.2f}%")
 
     l_col, r_col = st.columns([1, 1.2], gap="large")
