@@ -60,6 +60,46 @@ def load_and_process_data():
     return df, perf, full_data, approved_cats, neutral_cats, negative_cats
 
 df, opener_perf, final_details, app_cats, neu_cats, neg_cats = load_and_process_data()
+# --- Date Filter Logic (Top of Page) ---
+# تأكد من تحويل عمود التاريخ لنوع datetime
+df['Creation Date'] = pd.to_datetime(df['Creation Date']).dt.date
+
+# وضع الفلتر في السايدبار أو في أعلى الصفحة
+st.sidebar.header("🔍 Global Filters")
+min_date = df['Creation Date'].min()
+max_date = df['Creation Date'].max()
+
+selected_dates = st.sidebar.date_input(
+    "Select Date Range",
+    value=(min_date, max_date),
+    min_value=min_date,
+    max_value=max_date
+)
+
+# تطبيق الفلترة (الكل يعتمد على filtered_df الآن)
+if isinstance(selected_dates, tuple) and len(selected_dates) == 2:
+    start_date, end_date = selected_dates
+    filtered_df = df[(df['Creation Date'] >= start_date) & (df['Creation Date'] <= end_date)]
+else:
+    filtered_df = df
+
+# إعادة حساب الـ Performance بناءً على الفترة المختارة فقط
+opener_perf = filtered_df.groupby('Opener Name').agg(
+    total_leads=('Opener Name', 'count'),
+    approved=('Closing Status', lambda x: x.isin(['Approved']).sum()),
+    postdated=('Closing Status', lambda x: x.isin(['Postdated']).sum()),
+    pending_bank_approval=('Closing Status', lambda x: x.isin(['Pending Bank Approval']).sum())
+).reset_index()
+
+# حساب النسب المئوية للفترة المختارة
+total_wins = opener_perf['approved'] + opener_perf['postdated'] + opener_perf['pending_bank_approval']
+opener_perf['Success Ratio (%)'] = (total_wins / opener_perf['total_leads'] * 100).round(2)
+opener_perf = opener_perf.sort_values(by='total_leads', ascending=False)
+
+# تحديث بيانات الـ Deep Dive أيضاً
+status_details = pd.crosstab(filtered_df['Opener Name'], filtered_df['Closing Status']).reset_index()
+final_details = pd.merge(opener_perf, status_details, on='Opener Name')
+
 
 # تعريف إعدادات الأعمدة
 column_cfg = {
@@ -85,8 +125,7 @@ with t2:
     st.write("") 
     st.info(f"📅 Last Sync: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')}")
 
-# --- Global Metrics Row 1: Key Performance Indicators ---
-# تم تنظيف هذا الجزء وحذف التكرارات المسببة للـ NameError
+# --- Global Metrics Row 1 ---
 m1, m2, m3, m4, m5 = st.columns(5)
 
 l_count = opener_perf['total_leads'].sum()
@@ -94,7 +133,6 @@ a_count = opener_perf['approved'].sum()
 p_count = opener_perf['postdated'].sum()
 pb_count = opener_perf['pending_bank_approval'].sum()
 
-# حساب النجاح الكلي والنسبة
 total_s = a_count + p_count + pb_count
 g_ratio = (total_s / l_count * 100) if l_count > 0 else 0
 
@@ -108,11 +146,11 @@ m5.metric("Global Success Rate", f"{g_ratio:.2f}%")
 st.markdown("#### 📑 Global Status Distribution")
 d1, d2, d3, d4, d5 = st.columns(5)
 
-d1.metric("Follow Up", df[df['Closing Status'] == 'Follow up'].shape[0])
-d2.metric("Not Interested", df[df['Closing Status'] == 'Not interested'].shape[0])
-d3.metric("Not Eligible", df[df['Closing Status'] == 'Not Eligible'].shape[0])
-d4.metric("Retransfer", df[df['Closing Status'] == 'Retreansfer to client'].shape[0])
-d5.metric("Cancelled", df[df['Closing Status'] == 'Cancelled'].shape[0])
+d1.metric("Follow Up", filtered_df[filtered_df['Closing Status'] == 'Follow up'].shape[0])
+d2.metric("Not Interested", filtered_df[filtered_df['Closing Status'] == 'Not interested'].shape[0])
+d3.metric("Not Eligible", filtered_df[filtered_df['Closing Status'] == 'Not Eligible'].shape[0])
+d4.metric("Retransfer", filtered_df[filtered_df['Closing Status'] == 'Retreansfer to client'].shape[0])
+d5.metric("Cancelled", filtered_df[filtered_df['Closing Status'] == 'Cancelled'].shape[0])
 
 st.divider()
 
