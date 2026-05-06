@@ -206,9 +206,24 @@ if selected_opener:
 # --- Section 3: Full Data Access ---
 st.divider()
 with st.expander("📂 View Master Status Matrix (All Data)"):
+    show_columns = [
+        "Opener Name", 
+        "total_leads", 
+        "approved", 
+        "postdated", 
+        "pending_bank_approval", 
+        "Success Ratio (%)",
+        "Cancelled",
+        "Follow up",
+        "Not Eligible",
+        "Not interested",
+        "Retreansfer to client"
+    ]
+    
     st.dataframe(
         final_details,
-        column_config=column_cfg, # استخدام نفس الإعدادات الصحيحة
+        column_order=show_columns, # هذا السطر هو الحل لمنع التكرار
+        column_config=column_cfg,
         use_container_width=True,
         hide_index=True
     )
