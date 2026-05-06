@@ -49,8 +49,10 @@ def load_and_process_data():
     ).reset_index()
     
     # حساب إجمالي الـ Success (مجموع التلاتة) لحساب النسبة المئوية
-    total_success = perf['approved'] + perf['postdated'] + perf['pending_bank_approval']
-    perf['Success Ratio (%)'] = (total_success / perf['total_leads']*100).round(2)
+    total_approved = perf['approved']
+    total_postdated = perf['postdated'] 
+    total_pending_bank_approval = perf['pending_bank_approval']
+    perf['Success Ratio (%)'] = (total_approved / perf['total_leads']*100).round(2)
     
     perf = perf.sort_values(by='total_leads', ascending=False)
     
