@@ -32,17 +32,26 @@ st.markdown("""
 def load_and_process_data():
     df = pd.read_csv('MLA_Campaign.csv')
     
-    approved_cats = ['Approved', 'Postdated', 'Pending Bank Approval']
+    # تعريف التصنيفات
+    approved_cats = ['Approved'] # تم التعديل لتكون Approved فقط
+    postdated_cats = ['Postdated']
+    pending_cats = ['Pending Bank Approval']
+    
     neutral_cats = ['Follow up', 'Retreansfer to client']
     negative_cats = ['Not interested', 'Not Eligible', 'Cancelled']
     
+    # تجميع البيانات لكل موظف بالتفصيل الجديد
     perf = df.groupby('Opener Name').agg(
         total_leads=('Opener Name', 'count'),
-        total_approved=('Closing Status', lambda x: x.isin(approved_cats).sum())
+        approved=('Closing Status', lambda x: x.isin(approved_cats).sum()),
+        postdated=('Closing Status', lambda x: x.isin(postdated_cats).sum()),
+        pending_bank_approval=('Closing Status', lambda x: x.isin(pending_cats).sum())
     ).reset_index()
     
-    # 🔥 تعديل مهم: حساب النسبة ككسر عشري فقط (بدون ضرب في 100)
-    perf['Success Ratio (%)'] = (perf['total_approved'] / perf['total_leads']*100).round(2)
+    # حساب إجمالي الـ Success (مجموع التلاتة) لحساب النسبة المئوية
+    total_success = perf['approved'] + perf['postdated'] + perf['pending_bank_approval']
+    perf['Success Ratio (%)'] = (total_success / perf['total_leads'])
+    
     perf = perf.sort_values(by='total_leads', ascending=False)
     
     status_details = pd.crosstab(df['Opener Name'], df['Closing Status']).reset_index()
@@ -62,8 +71,10 @@ column_cfg = {
         min_value=0,
         max_value=100
     ),
-    "total_leads": "Volume",
-    "total_approved": "Wins"
+    "total_leads": "Total Leads",
+    "approved": "Approved ✅",
+    "postdated": "Postdated 📅",
+    "pending_bank_approval": "Pending Bank ⏳"
 }
 
 # --- Header Section ---
@@ -105,7 +116,8 @@ d5.metric("Cancelled", cancelled_total)
 st.divider()
 
 # --- Section 1: Overview & Rankings ---
-col_table, col_chart = st.columns([1.2, 1], gap="large")
+
+col_table, col_chart = st.columns([1.5, 1], gap="large")     
 with col_table:
     st.subheader("🏆 Performance Rankings")
     st.dataframe(
@@ -113,7 +125,7 @@ with col_table:
         column_config=column_cfg,
         hide_index=True, 
         use_container_width=True
-    )
+    )    
 
 with col_chart:
     st.subheader("📈 Top 10 Volume Leaders")
