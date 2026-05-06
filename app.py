@@ -91,13 +91,24 @@ with t2:
 
 
 # --- Global Metrics Row 1: Key Performance Indicators ---
-m1, m2, m3, m4 = st.columns(4)
+m1, m2, m3, m4, m5 = st.columns(5)
 
-# 1. الحسابات (تأكد من مطابقة الأسماء تماماً)
+# الحسابات من البيانات
 total_leads = opener_perf['total_leads'].sum()
-total_approved_val = opener_perf['approved'].sum()
-total_postdated_val = opener_perf['postdated'].sum() 
-total_pending_val = opener_perf['pending_bank_approval'].sum()
+approved_val = opener_perf['approved'].sum()
+postdated_val = opener_perf['postdated'].sum()
+pending_val = opener_perf['pending_bank_approval'].sum()
+
+# حساب النسبة العالمية بناءً على مجموع الثلاثة
+total_success = approved_val + postdated_val + pending_val
+global_ratio = (total_success / total_leads) if total_leads > 0 else 0
+
+# توزيع البيانات على الأعمدة الخمسة
+m1.metric("Campaign Leads", f"{total_leads:,}")
+m2.metric("Approved ✅", f"{approved_val:,}")
+m3.metric("Postdated 📅", f"{postdated_val:,}")
+m4.metric("Pending Bank ⏳", f"{pending_val:,}")
+m5.metric("Global Success Rate", f"{(global_ratio * 100):.2f}%")
 
 # 2. إجمالي النجاح (Approved + Postdated + Pending)
 total_success = total_approved_val + total_postdated_val + total_pending_val
