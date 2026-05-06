@@ -86,14 +86,21 @@ with t2:
     st.write("") 
     st.info(f"📅 Last Sync: {pd.Timestamp.now().strftime('%Y-%m-%d %H:%M')}")
 
-# --- Global Metrics Row 1 ---
+
+
+# --- Global Metrics Row 1: Key Performance Indicators ---
 m1, m2, m3, m4 = st.columns(4)
+
+# الحسابات الجديدة بناءً على الأسماء المعدلة
 total_leads = opener_perf['total_leads'].sum()
-total_app = opener_perf['total_approved'].sum()
-global_ratio = (total_app / total_leads) # كسر عشري
+# نجمع الـ 3 أعمدة الجديدة للحصول على الإجمالي الصحيح
+total_success = opener_perf['approved'].sum() + opener_perf['postdated'].sum() + opener_perf['pending_bank_approval'].sum()
+
+# حساب النسبة العالمية
+global_ratio = (total_success / total_leads) if total_leads > 0 else 0
 
 m1.metric("Campaign Leads", f"{total_leads:,}")
-m2.metric("Total Approvals", f"{total_app:,}")
+m2.metric("Total Success", f"{total_success:,}") # مجموع Approved + Postdated + Pending
 m3.metric("Global Success Rate", f"{(global_ratio * 100):.2f}%")
 m4.metric("Active Agents", len(opener_perf))
 
