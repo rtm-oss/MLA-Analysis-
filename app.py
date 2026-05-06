@@ -160,10 +160,12 @@ selected_opener = st.selectbox(
 if selected_opener:
     row = final_details[final_details['Opener Name'] == selected_opener].iloc[0]
     
+    # حساب إجمالي النجاح للموظف المختار
+    ind_success = row['approved'] + row['postdated'] + row['pending_bank_approval']
+    
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Individual Leads", int(row['total_leads']))
-    c2.metric("Approved Cases", int(row['total_approved']))
-    # ضرب يدوي في 100 للعرض فقط في الـ Metric
+    c2.metric("Total Wins", int(ind_success)) # الإجمالي الجديد
     c3.metric("Success Rate", f"{(row['Success Ratio (%)'] * 100):.2f}%")
 
     l_col, r_col = st.columns([1, 1.2], gap="large")
