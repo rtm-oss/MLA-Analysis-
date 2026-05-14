@@ -277,3 +277,60 @@ with st.expander("📂 View Master Status Matrix (All Data)"):
         use_container_width=True,
         hide_index=True
     )
+
+
+# --- State Performance Calculation ---
+state_perf = filtered_df.groupby('State').agg(
+    total_leads=('State', 'count'),
+    approved=('Closing Status', lambda x: x.isin(['Approved']).sum()),
+    postdated=('Closing Status', lambda x: x.isin(['Postdated']).sum()),
+    pending_bank_approval=('Closing Status', lambda x: x.isin(['Pending Bank Approval']).sum()),
+    follow_up=('Closing Status', lambda x: (x == 'Follow up').sum()),
+    not_interested=('Closing Status', lambda x: (x == 'Not interested').sum()),
+    not_eligible=('Closing Status', lambda x: (x == 'Not Eligible').sum()),
+    cancelled=('Closing Status', lambda x: (x == 'Cancelled').sum())
+).reset_index()
+
+# حساب نسبة النجاح (Approved + Postdated + Pending)
+state_wins = state_perf['approved'] + state_perf['postdated'] + state_perf['pending_bank_approval']
+state_perf['Success Ratio (%)'] = (state_wins / state_perf['total_leads'] * 100).round(2)
+state_perf = state_perf.sort_values(by='total_leads', ascending=False)
+
+st.markdown("---")
+st.subheader("🗺️ Geographic Performance & Status Analysis")
+
+# عرض الجدول مع جميع الحالات
+st.dataframe(
+    state_perf,
+    column_config={
+        "State": "State Name",
+        "total_leads": "Total Leads",
+        "approved": "Approved ✅",
+        "postdated": "Postdated 📅",
+        "pending_bank_approval": "Pending Bank ⏳",
+        "follow_up": "Follow Up 📞",
+        "not_interested": "Not Interested ❌",
+        "not_eligible": "Not Eligible ⚠️",
+        "cancelled": "Cancelled 🚫",
+        "Success Ratio (%)": st.column_config.ProgressColumn(
+            "Success Ratio",
+            format="%.2f%%", 
+            min_value=0,
+            max_value=100
+        )
+    },
+    hide_index=True,
+    use_container_width=True
+)
+
+st.write("**Negative & Neutral Status Distribution by State**")
+fig_neg_state = px.bar(
+    state_perf.head(10),
+    x='State',
+    y=['follow_up', 'not_interested', 'not_eligible', 'cancelled'],
+    title="Reasons for Non-Conversion by State",
+    barmode='group',
+    template="plotly_dark",
+    color_discrete_sequence=px.colors.qualitative.Pastel
+)
+st.plotly_chart(fig_neg_state, use_container_width=True)
